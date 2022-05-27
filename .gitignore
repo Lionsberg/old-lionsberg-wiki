@@ -5,6 +5,10 @@
 *~
 \#*\#
 
+# Syncthing
+.stignore
+.stversions
+
 # Obsidian.md
 .obsidian/*
 !.obsidian/README.md

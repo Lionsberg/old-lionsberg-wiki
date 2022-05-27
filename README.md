@@ -1,7 +1,13 @@
 # README
 
-Welcome to the home page of this wiki. Edit to make it your own!
+Hello, world.
 
-Use Markdown, or just type text -- either way works.
+By convention, the "home page" of a Massive Wiki is called README.
 
-Use double brackets around some words to make links to other pages in this wiki.
+You're home!
+
+## Meetings
+
+- [[Lionsberg-Meta Project Wiki Posse, 2022-05-20]]
+- [[Obsidian Tips and Tricks]]
+

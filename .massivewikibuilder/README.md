@@ -1,7 +1,92 @@
-# Put Massive Wiki Builder Here
+# Massive Wiki Builder
 
-Massive Wiki Builder is a static site generator for turning Massive Wikis into static HTML websites.
+Massive Wiki Builder is a static site generator for turning [Massive Wikis](https://massive.wiki/) into static HTML websites.
 
-To install it, put the files from https://github.com/peterkaminski/massivewikibuilder in this directory.
+Typically, it is installed at the root of the wiki, next to all the top-level Markdown files, in a subdirectory named `.massivewikibuilder`.
 
-You also need a theme.  Make a directory for themes (`massive-wiki-themes` is a good name), and add themes to it, one them per directory.  Starter themes can be retrieved from https://github.com/peterkaminski/massive-wiki-themes
+The `.` character is important when the MWB directory is within the wiki itself.  MWB ignores dotfiles and dot-directories, so as it builds, it will ignore anything inside (for instance) `.obsidian` or `.massivewikibuilder` directories.  If you don't have it set up this way, MWB will continue to try to copy and convert the files in the output directory, and it will start an infinite loop, which will stop when the directory names get too long.
+
+## Typical Hierarchy
+
+```
+--/ # root of wiki directories
+---- .massivewikibuilder/ # MWB and its input/output
+------ output/ # MWB writes .html, .md, and .json files here
+------ themes/ # all the themes
+-------- alto/ # a specific theme
+```
+
+Note that MWB removes (if necessary) and recreates the `output` directory each time it is run.
+
+## Install
+
+(not yet completed)
+(remember to `pip install -r requirements.txt`)
+
+(clone massive-wiki-themes repo, call it massive-wiki-themes)
+
+## Build
+
+In `.massivewikibuilder/`:
+
+```shell
+./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/alto
+```
+
+If you want to print a log what's happening during the build, set the `LOGLEVEL` environment variable to `DEBUG`.
+
+On the command line, do:
+
+```shell
+LOGLEVEL=DEBUG ./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/alto
+```
+
+or:
+
+```shell
+export LOGLEVEL=DEBUG
+./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/alto
+```
+
+In `netlify.toml`, do:
+
+```toml
+[build.environment]
+  LOGLEVEL = "DEBUG"
+```
+
+
+
+## Deploy (Netlify)
+
+For Netlify deploys, you can include a `netlify.toml` file like this at the root of your repo:
+
+```toml
+[build]
+  ignore = "/bin/false"
+  base = ".massivewikibuilder"
+  publish = "output"
+  command = "./mwb.py -c mwb.yaml -w .. -o output -t massive-wiki-themes/alto"
+
+[build.environment]
+  PYTHON_VERSION = "3.8"
+```
+
+
+
+## Develop
+
+Because static assets have an absolute path, you may want to start a local web server while you're developing and testing.  Change to the output directory and run this command:
+
+```
+python3 -m http.server
+```
+
+## Themes
+
+MWB uses a simple theming system.  All the files for one theme are placed in a subdirectory in the themes directory, usually `massive-wiki-themes`.  For example, the Alto theme is in `massive-wiki-themes/alto`, and to use the Alto theme, pass `-t massive-wiki-themes/alto` to MWB.
+
+MWB builds the pages with Jinja2, so you can use Jinja2 directives within the HTML files to include wiki metadata and wiki content.  You can also use the Jinja2 `include` functionality to extract reused parts of the page to HTML "partial" files.
+
+Themes are in a separate repo, [github/peterkaminski/massive-wiki-themes](https://github.com/peterkaminski/massive-wiki-themes).
+
