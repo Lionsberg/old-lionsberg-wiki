@@ -9,7 +9,7 @@
 # it needs. Use Cmd+Shift+G to directly type the folder location.
 
 # Crontab line example:
-# 11 * * * * /usr/local/bin/meta-project-sandbox-backup.sh
+# 11 * * * * /usr/local/bin/meta-project-sandbox-backup.sh >/tmp/meta-project-sandbox-backup-stdout.log 2>/tmp/meta-project-sandbox-backup-stderr.log
 
 WORKDIR="/path/to/repo/goes/here"
 
