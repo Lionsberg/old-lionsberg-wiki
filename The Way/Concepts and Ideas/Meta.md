@@ -4,15 +4,15 @@ The word [[Meta]] as it is used in the [[Lionsberg System]] is meant to point to
 
 For example, we could speak of:
 
-The [[Meta Story]]: the highest universal overarching and uniting "Story of stories", that by definiton contains within itself and orders all other possible stories.
+The [[Meta Story]]: the highest universal overarching and uniting "Story of stories", that by definition contains within itself and orders all other possible stories.
 
 The [[Meta Intention]]: the highest universal overarrching and uniting "Intention of intentions", that by definition contains within itself and orders all other possible intentions.
 
-The [[Meta Goal]]: the highest universal overarching and uniting "Goal of goals", that by definiton contains within itself and orders all other possible goals.
+The [[Meta Goal]]: the highest universal overarching and uniting "Goal of goals", that by definition contains within itself and orders all other possible goals.
 
-The [[Meta Project]]: the highest universal overarching and uniting "project of projects", that by definiton contains within itself and orders all other possible projects.
+The [[Meta Project]]: the highest universal overarching and uniting "project of projects", that by definition contains within itself and orders all other possible projects.
 
-The [[Meta Game]]: the highest universal overarching and uniting "Game of games", that by definiton contains within itself and orders all other possible games.
+The [[Meta Game]]: the highest universal overarching and uniting "Game of games", that by definition contains within itself and orders all other possible games.
 
 It is critical to note that *by definition*, the intention, object, or goal of the [[Meta Project]] or [[Meta Game]] could not be anything other than the [[Meta Goal]].
 
