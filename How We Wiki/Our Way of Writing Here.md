@@ -54,4 +54,6 @@ It's okay to have very little in a page when it gets started, of course
 	- Obsidian knows a link that doesn't exist is still a link. 
 	- If you click on the [[Incipient Link]], then the page exists. 
 - Hashtags - #hashtag - 
+- Over time, we need to evolve towards both the right kinds of hierarchy and linking, and have wiki gardeners develop guidance nodes, jump pages, and other tools. 
+- Table of contents page, and jump page are similar. 
 
