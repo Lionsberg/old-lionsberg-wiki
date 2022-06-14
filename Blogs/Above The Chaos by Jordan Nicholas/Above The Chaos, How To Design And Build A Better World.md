@@ -4,4 +4,8 @@ by [[Jordan Sukut]], 2022.06.14 _(updated 2024.12.25)_
 
 A post in [[Above The Chaos By Jordan Nicholas]].
 
-_content goes here_
+I want to say nice things about [[Peter Kaminski|Pete]] and his work on [Massive Decentralization](https://decentralize.massivehumanintelligence.org/).
+
+[[wiki link]]
+
+[external link to somewhere on the web](https://www.example.com/)

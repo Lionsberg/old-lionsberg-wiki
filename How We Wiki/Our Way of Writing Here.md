@@ -49,6 +49,14 @@ It's okay to have very little in a page when it gets started, of course
 - Similarly, you can use either underscore or asterisk for italic and bold; prefer underscore for italic, and asterisk for bold: `_italic_` and `**bold**`.
 - Different editors need or don't need an empty/blank line between different kinds of elements, such as headers and bullet lists.  In general, you should use a blank line between different kinds of elements, to be most generally compatible.
 
+## More Advanced Markdown
+
+To make a link to a page but have different text show in the link, use a vertical bar character.  For instance, `[[Peter Kaminski|Pete]]` produces [[Peter Kaminski|Pete]].  And `[[Choice|Choices]]` makes [[Choice|Choices]].
+
+To make it so wikitext is displayed verbatim (rather than being parsed), in a monospaced font, enclose the wikitext in a pair of backticks.
+
+If you want multiple lines not parsed and in monospaced font, use three backticks on one line above your lines, and three backticks on the line after your lines.
+
 ### Misc. Notes
 - Incipient Links - links to things that don't exist yet... are just as important as a page. You can make them, without stopping your train of thought, and they will be there as placeholders. 
 	- Obsidian knows a link that doesn't exist is still a link. 
