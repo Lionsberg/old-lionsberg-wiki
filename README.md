@@ -6,8 +6,9 @@ Welcome to the Lionsberg Wiki. We are glad you are here.
 
 (One sentence description)
 
-- Read about [[The Way]]
-- 
+## Read about 
+- [[The Way]]
+- [[The Book Of Lionsb]]
 
 
 
