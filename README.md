@@ -1,10 +1,19 @@
-# README
+# LIONSBERG WIKI
 
 Hello, world.
 
-By convention, the "home page" of a Massive Wiki is called README.
+Welcome to the Lionsberg Wiki. We are glad you are here. 
 
-You're home!
+(One sentence description)
+
+- Read about [[The Way]]
+- 
+
+
+
+
+## Jump Pages
+
 
 ## Meetings
 

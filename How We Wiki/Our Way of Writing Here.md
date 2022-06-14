@@ -37,7 +37,7 @@ Make the first line of each page the same as the page filename, as a level 1 hea
 
 Note that Obsidian won't let you use certain characters in the page filename, because it'll cause problems with the filesystem. So, don't use those characters in either the page filename or the first line of the page.
 
-Pages can be a short chapter, or a concept. Basically, a place you'd want to land on from a link.
+Pages can be a short chapter, or a concept. Basically, a place you'd want to land on from a link. 
 
 Conversely, pages generally shouldn't end up super short; a page should have a couple of paragraphs at least, when it gets fully developed.
 
