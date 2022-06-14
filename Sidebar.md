@@ -8,8 +8,5 @@ This site is a [[Work in Progress]]
 [[Meetings]]  
 
 # Blogs
-[[Above The Chaos By Jordan Nicholas]] 
+[[Above The Chaos By Jordan Nicholas]]  
 [[Thoughts Blog by Peter Kaminski]]  
-
-
-
