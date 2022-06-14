@@ -57,6 +57,8 @@ To make it so wikitext is displayed verbatim (rather than being parsed), in a mo
 
 If you want multiple lines not parsed and in monospaced font, use three backticks on one line above your lines, and three backticks on the line after your lines.
 
+(add something here about double space characters for linebreaks, used on sidebars)
+
 ### Misc. Notes
 - Incipient Links - links to things that don't exist yet... are just as important as a page. You can make them, without stopping your train of thought, and they will be there as placeholders. 
 	- Obsidian knows a link that doesn't exist is still a link. 
