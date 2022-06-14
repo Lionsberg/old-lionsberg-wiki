@@ -8,7 +8,8 @@ Welcome to the Lionsberg Wiki. We are glad you are here.
 
 ## Read about 
 - [[The Way]]
-- [[The Book Of Lionsb]]
+- [[The Book Of Lionsberg]]
+- [[Above The Chaos By Jordan Nicholas]]
 
 
 
