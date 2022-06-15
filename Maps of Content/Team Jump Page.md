@@ -6,7 +6,7 @@
 - [[Obsidian Tips and Tricks]]
 - [[Blogs]]
 - [[Meetings]]
-- [[0.3 Table Of Contents|The Book Of Lionsberg]]
+- [[The Book of Lionsberg|The Book Of Lionsberg]]
 - [[The Way]]
 
 Some people call jump pages [[Maps Of Content]]. 

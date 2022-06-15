@@ -1,6 +1,6 @@
 # Your Starting Point
 
-[[0.4 The Meta Story|The Meta Story]]
+[[0.3 The Meta Story|The Meta Story]]
 
 The Meta Quest
 
