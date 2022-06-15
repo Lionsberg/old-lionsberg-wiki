@@ -40,8 +40,12 @@ What we are venturing out into simply [[Is]].
 
 It is the [[One]] and the [[All]] that simply [[Are]].  
 
-These limited articulations honed through our [[Adventure]] might eventually be a book. And a painting. And a movie. And a play. And a symphony. And a [[New]] conceptual artistic and cinematic universe. And a [[Culture]]. And an [[Embodied]] [[Way of Being]. And an entirely regenerated [New World]. 
+These limited articulations honed through our [[Adventure]] might eventually be a book. And a painting. And a movie. And a play. And a symphony. And a [[New]] conceptual artistic and cinematic universe. And a [[Culture]]. And an [[Embodied]] [[Way of Being]]. And an entirely regenerated [[New World]]. 
 
-For now, they are simply an [Invitation]. 
+After all, when the Spirit rises up and hovers over the waters of [[Chaos]], and speaks the [[Logos]], it calls forth from the infinite storehouses that which is most [[Good]]. 
 
-An [Invitation] to leave behind what you thought you [Knew], and venture out beyond the [Boundary], out into the [Mystery], out into [Reality], in all her enrapturing splendor. 
+For now, these words are simply an [[Invitation]] to [[One]] and [[All]] to embark together on the most epic and important [[Quest]] in history.  
+
+An [[Invitation]] to leave behind what you thought you knew and the world you thought you lived in, to venture out beyond the [[Boundary]], out into the [[Mystery]], out into [[Reality]], in all her enrapturing splendor. 
+
+Until we all come to understand more fully, it would be wise to [[Act As If]] the future of generations of life to come depended upon our success. 
