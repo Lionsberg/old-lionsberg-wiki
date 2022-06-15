@@ -33,20 +33,35 @@ Against this backdrop, local governments, individuals, and organizations are spe
  
 Yet despite the heroic efforts of individuals and organizations around the globe, many of these efforts are running inefficiently in parallel, focused on the symptoms rather than the root causes, hopelessly divided, and lacking the coordination and transparency needed to achieve the true systemic transformation that is required. 
 
+In isolation, we all lack the total resources, relationships, and true transformational power needed to tranform the deepest [[Root Cause|Root Causes]]. 
+
+## What Got Us Here, Will Not Get Us There
+
 It is clear that what got us here, will not get us to where we want to go. No increased amount of what we are currently doing will ever result in the kind of world we all desire. 
+
+## Together, We Can Achieve Great Things
  
 History has shown us that when we work together, we can achieve seemingly impossible things. 
  
 We have built cities, roadways, and technology that have transformed every aspect of culture and commerce. 
  
 Whether it is building infrastructure, sending a rover to Mars, or eradicating a disease, success at this scale requires world class coordination, logistics, and training. 
- 
-Confronting and overcoming the current global complex of crises and forging the flourishing [New World] from their ashes, will require no less. 
- 
-It will require a complete story, intention, philosophy, structure, and [Way] of being, operationalized at scale and powerful enough to vanquish the existential threats that are stalking us, and forge a better for future for all generations of life. 
- 
-Everything that we need to know in order to succeed and avoid failure at this critical juncture is alive within us. Waiting. Longing to be realized. It has been perpetually spoken by the [Spirit] that lays the golden thread through the universe, history, and consciousness. It has been confirmed by a thousand messengers, and articulated in the dogma of a thousand institutions. Yet it has been lost and ignored to our peril. 
- 
-If we simply listen and heed the eternal voice, and allow it to guide us in the eternal [Way], the [New World] will in-break and emerge in all its fullness.
 
-This document is written to help us discover and clarify what is already within. 
+## The Imperative 
+ 
+Confronting and overcoming the total set of [[Grand Challenges]], accomplishging the total set of [[Global Goals]], and forging a flourishing [[New World]] will require no less. 
+ 
+It will require an overarching and uniting story, intention, philosophy, structure, and [[Way]] of being, operationalized at scale and powerful enough to vanquish the existential threats that are stalking us, liberate the people and resources they hold captive, and forge therefore the [[New Era]] that is better in every way than the one we are leaving behind. 
+
+## It Is All At Hand 
+
+Everything that we need to know in order to succeed and avoid failure at this critical juncture is alive within us. Waiting. Longing to be realized. It has been perpetually spoken by the guiding Spirit that lays the [[Golden Thread]] through the universe, history, and consciousness. It has been confirmed by a thousand messengers, and articulated in the dogma of a thousand institutions. Yet it has been lost and ignored to our peril. 
+ 
+If we simply listen and heed the eternal voice, and allow it to guide us in the eternal [[Way]], an entirely [[New]] and regenerating world will in-break and emerge in all its fullness.
+
+## Perfect, And Getting Better Every Day
+It will be already perfect, and getting better every day, because we are all striving together to make it so. 
+
+The next step is to begin to weave [[Your Story]] into the [[Meta Story]], and set your feet on the path towards the [[Meta Goal|Goal]]. 
+
+[[Your Quest]] begins [[Your Starting Point|Here]]. 
