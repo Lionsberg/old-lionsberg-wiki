@@ -2,7 +2,7 @@ This site is a [[Work in Progress]]
 
 # Site Navigation
 
-[[The Meta Story]]  
+[[0.4 The Meta Story]]  
 [[Administration]]  
 [[How We Wiki]]  
 [[Meetings]]  
