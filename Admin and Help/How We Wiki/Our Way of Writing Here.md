@@ -66,4 +66,6 @@ If you want multiple lines not parsed and in monospaced font, use three backtick
 - Hashtags - #hashtag - 
 - Over time, we need to evolve towards both the right kinds of hierarchy and linking, and have wiki gardeners develop guidance nodes, jump pages, and other tools. 
 - Table of contents page, and jump page are similar. 
+- [[wiki link]]
+- [external link to somewhere on the web](https://www.example.com/)
 

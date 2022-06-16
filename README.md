@@ -12,7 +12,7 @@ We often refer to this as the [[Meta Goal]] of the [[Meta Project]] or [[Meta Ga
 - [[0.3 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.
 - [[Summaries]] - A place to find short summaries of the overarching and uniting [[Meta Idea]] 
 - [[The Way]] - A place of concepts, ideas, process, and culture that lay out a Way of being
-- [[The Book of Lionsberg|The Book of Lionsberg]] - A creative work in progress of art, wisdom, and story
+- [[The Book of Lionsberg]] - A creative work in progress of art, wisdom, and story
 - [[Above The Chaos By Jordan Nicholas]] - A creative stream from the co-creator of Lionsberg
 - [[Meetings]] - A repository of meeting notes and recording links. 
 
