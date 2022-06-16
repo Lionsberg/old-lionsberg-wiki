@@ -38,7 +38,7 @@ To help begin that process, we would invite you to visit the [[Your Story]] page
 From there, we would invite you to visit the [[Your Quest]] page, to begin to look at joyful and empowering ways to align your unique individual passions, skills and goals with the [[Meta Quest]] that we are embarking on together. 
 
 ## Core Documents
-In the [[Core Documents]] section, you will be able to find key documents, such as [[The Constitution]] and [[The Code]], that contain key information about the [[Pattern Language]] and [[Way of Being]] that we are attempting to embody. 
+In the [[Core Documents]] section, you will be able to find key documents, such as [[The Constitution]] and [[The Code]], that contain key information about the [[Pattern Language]] and [[Way of Being]] that we are attempting to articulate and embody. 
 
 ## Help 
 If you get lost at any point, please visit the [[Admin and Help]] page, where you will find a way to reorient and get found. 

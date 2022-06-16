@@ -1,6 +1,6 @@
 # Sandbox
 
-[[Jordan Sukut]] asked a [[Great Question]].
+[[Jordan Nicholas Sukut]] asked a [[Great Question]].
 
 This is a link to [[Lionsberg-Meta Project Wiki Posse, 2022-05-20]]
 
