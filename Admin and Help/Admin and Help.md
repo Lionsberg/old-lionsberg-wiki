@@ -1,9 +1,9 @@
 # Admin and Help
 
 ## Misc Tips, Tricks, and Links
-[[Our Way of Writing Here]]
-[[Obsidian Tips and Tricks]]
-[[Why We Say Wiki Website Instead of Wiki]]
+[[Our Way of Writing Here]]  
+[[Obsidian Tips and Tricks]]  
+[[Why We Say Wiki Website Instead of Wiki]]  
 
 ## A Jump Page You Might Find Useful
 [[Team Jump Page]]
