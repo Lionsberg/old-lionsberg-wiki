@@ -2,7 +2,7 @@
 
 Also see: [[The "Way"]]
 
-Here we will describe the syntax / semantics / our “Way” of writing on this wiki website. ([[Why We Say Wiki Website Instead of Wiki]])
+Here we describe the syntax / semantics / our “Way” of writing on this wiki website. ([[Why We Say Wiki Website Instead of Wiki]])
 
 ## Questions
 
@@ -35,13 +35,13 @@ How do we want to signal page maturity?  The tree life cycle, or something else?
 
 Make the first line of each page the same as the page filename, as a level 1 header.  (So for example, the first line of this page is `# Our "Way" of Writing Here`.) This is not strictly necessary in Obsidian, but it helps some of the other clients.
 
-Note that Obsidian won't let you use certain characters in the page filename, because it'll cause problems with the filesystem. So, don't use those characters in either the page filename or the first line of the page.
+Note that Obsidian won't let you use certain characters in the page filename, because it will cause problems with the filesystem. So, don't use those characters in either the page filename or the first line of the page.
 
 Pages can be a short chapter, or a concept. Basically, a place you'd want to land on from a link. 
 
 Conversely, pages generally shouldn't end up super short; a page should have a couple of paragraphs at least, when it gets fully developed.
 
-It's okay to have very little in a page when it gets started, of course
+It's okay to have very little in a page when it gets started, of course.
 
 ## Some Simple Markdown Rules
 
