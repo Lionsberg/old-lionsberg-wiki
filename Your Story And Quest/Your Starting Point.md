@@ -6,12 +6,12 @@ Until we have a better [[Orientation and Onboarding Process]] up and running, th
 ## How We Use The Word Meta
 You may have arrived here by hearing about Lionsberg, or about the [[Meta Project]], [[Meta Game]], or [[Meta Story]]. Before you go further, it might be helpful to understand how we are using the word [[Meta]]. 
 
-The word [[Meta]] as it is used in the [[Lionsberg System]] is meant to point to the most eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
+The word [[Meta]] as it is used in the [[Lionsberg System]] points to the most eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
 ## The Meta Story
-If you haven't seen it yet, you may want to spend a few minutes to read the simple working version of [[0.3 The Meta Story|The Meta Story]].  
+If you haven't seen it yet, you may want to spend a few minutes to read a simple working version of [[0.3 The Meta Story|The Meta Story]].  
 
-The Meta Story is intended to begin laying out an overarching and uniting story of where we are, how we get here, where we are going, and why it all matters. 
+The Meta Story is intended to begin laying out an overarching and uniting story of [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and [[Why]] it all matters. 
 
 ## The Meta Project | The Meta Quest
 The [[Meta Idea]] is that we are [[All]] here to work together towards something that is bigger than [[Any]] of us. 
