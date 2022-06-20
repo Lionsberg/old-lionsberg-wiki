@@ -1,6 +1,6 @@
 # Work In Progress
 
-We are shaping this wiki and building at the same time.
+We are shaping this art and building at the same time.
 
 Expect changes, perhaps big ones!
 
