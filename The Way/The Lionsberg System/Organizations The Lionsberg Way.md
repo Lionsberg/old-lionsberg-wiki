@@ -1,7 +1,7 @@
 # Organizations The Lionsberg Way
 [[Organizations The Lionsberg Way]] describes pattens, processes, and tools that help independent and autonomous [[Indivual|Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
 
-We are co-creating these recommendations in concert with various soveriegns in the coalition, and intend for them to reflect the [[Current Best Understanding]] of the [[Community]]. 
+We are co-creating these recommendations in concert with various soveriegns in the coalition, and intend to continously improve them to reflect the [[Current Best Understanding]] of the [[Community]]. 
 
 ## Purpose of Organizations
 Organizations emerge to help groups of people accomplish that that individuals cannot accomplish in isolation. 
@@ -40,12 +40,65 @@ First of all, don't be scared. Go for it. Over time, we want to work together to
 2. Establish the [[Principles]] and [[Values]] of the organization. 
 3. Establish the [[Goals]] of the organization. 
 
+### Establish Rules of Participation
+Establish how people will participate in the Organization, and how the Organization will participate with other Organizations. 
+
 ### Align Goals with the Goals of One or More Federations
 We would highly recommend that: 
-1. Each [[Individual]] align their [[Goals]] with the [[Goals]] of one or more [[Group|Groups]] or [[Organization]],
-2. Each Group and Organization align its Goals with the Goals of one or more Federation. 
-3. All Federations align their Goals with the [[Meta Goal]] of the [[Meta Federation]]. 
+1. Each [[Individual]] align their [[Goals]] with the [[Goals]] of one or more [[Group|Groups]] or [[Organization|Organizations]]  
+2. Each Group and Organization align its Goals with the Goals of one or more Federation.  
+3. All Federations align their Goals with the [[Meta Goal]] of the [[Meta Federation]].  
+
+This basic structure empowers individuals to act autonomously, while understanding the ways in which their individual efforts help accomplish nested Goals, all the way up to the [[Meta Goal]]. 
+
+### Bootstrapping Cycles and Emergence
+Bootstrapping up an organization is hard. It does not happen once, but rather through a continous iteration of cycles. #bootstrappingishard. 
+
+It is an emergent process, in that what the organization wants to do and is capable of doing is largely shaped by its participants, and the interest and willingness of the members to participate is largely shaped by what the organization wants to do, and how it wants to do it. 
+
+This is a constant negotiation and renegotiation between confirmed participants and potential participants, as they work together to continually rebalance the equation to everyone's satisfaction, in a way that accomplishes the [[Purpose]] and [[Goals]] of the organization. 
+
+### Progressive Formalization 
+Just like any emergent life form, in the beginning nascent organizational life is very supple and malleable. 
+
+Over time as it grows, the [[Structure]] of the organization must progressively formalize itself and harden in order to support increased weight and activity of the organism. 
+
+A typical progressive formalization pattern might be: 
+
+1. Informal agreements and exploration  
+2. A written statement of purpose and goals  
+3. A [[Declaration]]  
+4. A [[Constitution]]  
+5. A fully functioning, evolving, system of systems and a documented and continuously improving [[Way]] of doing things.  
+
+In each case, the key is to start small and interate towards increasing proficiency and maturity. 
+
 
 ### Co-Create It In The Open
 We would recommend the steps above be followed so that it gets the green shoot of what is emerging above the ground where others can see it and help cultivate it if they are interested. A [[Pattern of Failure]] is to try to secretly perfect things in isolation. A [[Pattern of Success]] is to rapidly iterate and collaborate in the open. 
 
+## How to Operate and Organization
+Coming Soon
+[[Projects]]  
+[[Process|Processes]]  
+
+## Organizational Lifecycle
+In the [[Old World]], organizations where often established under the illusion that they might last forever. 
+
+We can expect and honor that organizations, like any life form, will develop through a lifecycle that eventually ends in a dissolution of thier energy back into the field of potential. This should be celebrated and honored. 
+
+It is cyclical and recursive process, but the patterns are often something like: 
+
+1. Idea
+2. Conception
+3. Coalescing
+4. Defining
+5. Evolving and Growing
+6. Reproducing
+7. Mature Steady State
+8. Decline
+10. Senescence
+11. Dissolution
+12. Rebirth
+
+The desire of the Lionsberg System is to move towards a future in which these cycles are occurring in a [[Way]] that benefits [[All]], and in which each birth and dissolution enriches the topsoil of the ecosystem from which diverse [[New]] forms of life continually emerge. 
