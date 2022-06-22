@@ -40,6 +40,18 @@ From there, we would invite you to visit the [[Your Quest]] page, to begin to lo
 ## Core Documents
 In the [[Core Documents]] section, you will be able to find key documents, such as [[Provisional Constitution]] and [[Provisional Code]], that contain key information about the [[Pattern Language]] and [[Way of Being]] that we are attempting to articulate and embody. 
 
+## Links and Resources
+
+Also see [live version of 000-Start Here (Links and Resources)](https://docs.google.com/document/d/1UBjUBBxMkEhI5rg9VzFgdrOT6-xm_0yE6Lk2h8jFAEc/edit?usp=sharing) (Google Docs) for the most up-to-date information.
+
+[Your Starting Point](https://lionsberg.wiki/your_story_and_quest/your_starting_point) (Lionsberg Wiki) - *This page is intended as a simple way to help you get quickly oriented and connected to The Meta Project.*
+
+[\[Lionsberg\] Town Square channel](https://chat.collectivesensecommons.org/agora/channels/lionsberg-town-square) (CSC Mattermost) - *This is our main chat channel. Free account registration required, create an account if you don't have one. If you have questions or problems, email [support@collectivesensecommons.org](mailto:support@collectivesensecommons.org).*
+
+[Meta Project Shared Folder - Public](https://drive.google.com/drive/folders/1Tx8FAe678MQvEifNdlhVn8mQ9jz8fuzf?usp=sharing) - *This is a publicly shared Google Drive folder, where you'll find documents and files, can edit shared documents, and put files you want to share with everyone.*
+
+Map Weavers - *(needs link and description)*
+
 ## Help 
 If you get lost at any point, please visit the [[Admin and Help]] page, where you will find a way to reorient and get found. 
 
