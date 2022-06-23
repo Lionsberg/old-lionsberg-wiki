@@ -15,7 +15,8 @@ Feel free to explore, recognizing that everything here is being built live and t
 - [[0.3 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.
 - [[Core Documents]] - A place where you can find the [[Provisional Declaration]], [[Provisional Constitution]], and [[Provisional Code]] that we are acting out and improving. 
 - [[Summaries]] - A place to find short summaries of the overarching and uniting [[Meta Idea]] (Coming Soon)
-- [[The Way]] - A place of concepts, ideas, process, and culture that lay out a Way of being
+- [[The Way]] - A place of concepts, ideas, process, and culture that lay out a Way of being and doing together. 
+- [[Intergrated Delivery Guide]] - a subsection of the Way document focused on the Lionsberg Integrated Delivery System. 
 - [[The Book of Lionsberg]] - A creative work in progress of art, wisdom, and story
 - [[Above The Chaos By Jordan Nicholas]] - A creative stream from the co-creator of Lionsberg
 - [[Meetings]] - A growing repository of meeting notes and recording links. 
