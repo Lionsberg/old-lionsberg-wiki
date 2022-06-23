@@ -5,8 +5,8 @@
 - [[Our Way of Writing Here]]
 - [[Obsidian Tips and Tricks]]
 - [[Blogs]]
-- [[Meetings]]
 - [[Groups]]
+- [[Meetings]]
 - [[The Book of Lionsberg|The Book Of Lionsberg]]
 - [[The Way]]
 

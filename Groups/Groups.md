@@ -1,5 +1,6 @@
 # Groups
-[Catalist Meta Project Groups Page](https://www.catalist.network/group-public/lionsberg-meta-project)
-[[Declaration and Constitution Group]]
-[[Funding Group]]
-[[Map Weavers Group]]
+Gradually all our groups/sovereigns will appear here, to which people wish to contribute, or in which people have expressed interest.
+- [Catalist Meta Project Groups Page](https://www.catalist.network/group-public/lionsberg-meta-project)
+- [[Declaration and Constitution Group]]
+- [[Funding Group]]
+- [[Map Weavers Group]]

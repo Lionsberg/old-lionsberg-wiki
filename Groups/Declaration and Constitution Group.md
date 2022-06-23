@@ -1,1 +1,0 @@
-# Declaration and Constitution Group
