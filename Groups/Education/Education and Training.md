@@ -6,3 +6,5 @@ A mentor suggests areas to work on, helps make needed resources available. They 
 Along the way, a mentor may notice that their apprentice is showing interest in a different sovereign and asks about it, possibly assisting with introductions into the other sovereign. This helps everyone involved.
 
 Above all else, the mentor shall focus on the relationship with their apprentice and the latter’s life goals.
+
+Some skills have universally value. Empathy, the ability to accurately guess another's feelings or needs. Tolerance of difference, dissent, disagreement. The rewards that accrue from learning these skills are easily discerned and felt.
