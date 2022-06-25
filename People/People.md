@@ -5,6 +5,6 @@ Eventually, you will find here a directory of some of our co-creators around the
 
 In this wiki:
 
-- [[Jonathan Sand]]
-- [[Jordan Nicholas Sukut]]
-- [[Peter Kaminski]]
+- [[Jordan Nicholas Sukut]]  
+- [[Peter Kaminski]]  
+- [[Jonathan Sand]]  

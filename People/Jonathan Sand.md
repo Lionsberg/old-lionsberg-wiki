@@ -17,3 +17,5 @@ I am an artist, a wandering engineer, a dreamer, an optimist.  I am ethically ma
 I am an essentialist and relate that way to the world around me. Things, art, people, knowledge, ideas.
 
 People are worth connecting to, tapping into the real stuff, substance. I am new to being in relationship rather than in transaction. What a relief, much easier. But I prefer one on one, especially when each spoken part is short.
+
+I've thought long and hard about how an ideal human world might look and function. I wrote these ideas in [a website](https:www.civilization2.org) and extracted some of them into [[Jonathan's Guilds|a blog here]].
