@@ -1,6 +1,6 @@
 # Above The Chaos by Jordan Nicholas
 
-_a short intro paragraph, and then a list of posts_
+Hello world. This is a creative stream from the co-creator of Lionsberg.
 
 ## Featured Post
 
