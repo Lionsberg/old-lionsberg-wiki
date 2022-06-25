@@ -8,10 +8,12 @@ This site is a [[Work In Progress]]
 [[Intergrated Delivery Guide]] 
 [[Bottom Up Jump Page]]  
 [[Top Down Jump Page]]  
-[[Admin and Help]]  
+[[Groups]] 
+[[Admin and Help]] 
 
 # Blogs
 [[Above The Chaos By Jordan Nicholas]]  
-[[Thoughts Blog by Peter Kaminski]]  
+[[Thoughts Blog by Peter Kaminski]] 
+[[Jonathan's Guilds]]
 
 
