@@ -1,7 +1,9 @@
 # Jonathan's Guilds
-Over the years, in my more optimistic moments, I've let my imagination loose on how a perfect world might look. I am not successful in this world and it sucks. I have the soul of an artist and think in 3D. I love that humans invented language and disappointed at how we have weaponized it. I like that language can be amazing.
+I have the soul of an artist and think in 3D. Everything visual is for me more basic than language. But then, language can be amazing. I love that humans invented language and disappointed at how we have weaponized it. I seek to avoid that.
 
-This seems like a good place for me to share the resulting brew. Here are a few groups I have in mind. I've been calling them guilds.
+This world is not set up for most of us to thrive. I think it could be. In my more optimistic moments, I've let my imagination loose on how a perfect world might look. [Wrote about it](http://www.civilization2.org). Day dreamed about it. Pruned it. Fussed with it. This seems like a good place for me to share the resulting brew. 
+
+Here are a few groups I have in mind. I call them guilds.
 
 [[Onboarding Process]]  
 [[Education and Training]]  
