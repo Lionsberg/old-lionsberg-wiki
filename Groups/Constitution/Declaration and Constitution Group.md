@@ -1,5 +1,5 @@
 # Declaration and Constitution Group
-We met. Higher level, simple, broad statement of intent expectation of behavior, improves growing and including others, fewer specifics and nuanced points of debate, less buraeucracy. 
+Higher level, simple, broad statement of intent expectation of behavior, improves growing and including others, fewer specifics and nuanced points of debate, less buraeucracy. 
 
 Flexibility and experimentation are what we need right now as we start this. General frameworks that create the safety and establish the boundaries, in which we can learn together. Once we have that, we build a mechanism for improving it, to progressively harden and codify what we validate.
 
