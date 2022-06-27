@@ -33,7 +33,7 @@ Understanding who *you* are, where *you* are, how *you* got here, where *you* ar
 
 Our ability to work together and [[Help One Another]] is going to be directly dependent upon our ability to align our stories, our quests, and our goals in the overarching and uniting [[Meta Story]], [[Meta Quest]], and [[Meta Goal]]. 
 
-To help begin that process, we would invite you to visit the [[Your Story]] page to begin thinking through your own life and your own story, perhpas in a deeper and more profound way that you have before. 
+To help begin that process, we would invite you to visit the [[Your Story]] page to begin thinking through your own life and your own story, perhaps in a deeper and more profound way that you have before. 
 
 From there, we would invite you to visit the [[Your Quest]] page, to begin to look at joyful and empowering ways to align your unique individual passions, skills and goals with the [[Meta Quest]] that we are embarking on together. 
 
