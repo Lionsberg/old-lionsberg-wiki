@@ -11,5 +11,5 @@ Focus on relationship and connection is of similar high worth. We are much more 
 
 Do we want to measure this? Is it possible? Harmful? What kind of training would work for most of us?
 
-Collective intelligence, where a group of people think together for any of several goals: identify a problem, solve a problem, ask good questions, currate information. A set of skills useful for this include patience, toleration, listening for what the speaker is not so good at saying, adding only what is missing, providing a safe group dynamic, applying logic, distinguishing fact and opinion, retaining relevance. Expertise in these skills takes time to acquire. Can we provide gentle training for them? What does that look like?
+Collective intelligence, where a group of people think together for any of several goals: identify a problem, solve a problem, ask good questions, curate information. A set of skills useful for this include patience, toleration, listening for what the speaker is not so good at saying, adding only what is missing, providing a safe group dynamic, applying logic, distinguishing fact and opinion, retaining relevance. Expertise in these skills takes time to acquire. Can we provide gentle training for them? What does that look like?
 
