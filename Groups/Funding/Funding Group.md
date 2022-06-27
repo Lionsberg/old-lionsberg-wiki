@@ -5,4 +5,4 @@ Judith proposes we identify and discuss multiple strategies, approaches, executi
 
 Jonathan has been talking with people about bringing their technology into our infrastructure. They want to know when we might become funded. Without funding they say that we come across as not worth consideration.
 
-In an email, Judith describes an "endowment strategy model” as our initial framework, with two parts: projects and funding. 1-2 years of projects (individual or team) with specified time frames, scope, complexity and desired outcomes. Will Lionsberg itself be funded? Will it matchmake funders to specific projects? 
+In an email, Judith describes an "endowment strategy model” as our initial framework, with two parts: projects and funding. 1-2 years of projects (individual or team) with specified time frames, scope, complexity and desired outcomes. Will Lionsberg itself be funded and administer everything? Will it matchmake funders to specific projects?
