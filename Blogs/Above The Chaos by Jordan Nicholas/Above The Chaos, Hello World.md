@@ -10,7 +10,7 @@ If you are new here and wondering what is going on, why, and whether or how you 
 
 Like [[Worksite: Earth]], this is all a [[Work In Progress]], so please be patient and excuse our dust. 
 
-After decades building infrastructure and superstructure for humanity, a group of us has decided that the only next project we can work on with integrity is the [[Meta Project]] that encompasses all Life on [[Worksite: Earth]] at this unique moment in history.
+After decades building infrastructure and superstructure for humanity, we have realized that we need to recognize and help organize the [[Meta Project]] that encompasses all Life on [[Worksite: Earth]] at this unique moment in history.
 
 We spent a few lifetimes thinking about the state of our world, this moment in history, what needed to be done, and what was required of us relative to it all. 
 
@@ -24,11 +24,11 @@ We brought together lifetimes of work and insight to create what we hope will be
 
 The solution is called [[Lionsberg]], and it was purpose-built to accomplish the one [[Meta Goal]] that unites us [[All]]. 
 
-For the sake of all generations of life to come, I hope it works. 
+For the sake of all generations of life to come, we hope it works. 
 
 If we work on it together, it can. 
 
-_Together, anything is possible.__ 
+_Together, anything is possible._
 
 With Love, In Community, 
 

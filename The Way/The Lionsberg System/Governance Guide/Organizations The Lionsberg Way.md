@@ -80,8 +80,8 @@ In each case, the key is to start small and interate towards increasing proficie
 We would recommend the steps above be followed so that it gets the green shoot of what is emerging above the ground where others can see it and help cultivate it if they are interested. A [[Pattern of Failure]] is to try to secretly perfect things in isolation. A [[Pattern of Success]] is to rapidly iterate and collaborate in the open. 
 
 ## How to Operate and Organization
-Coming Soon
-[[Projects]]  
+
+[[3.1 Project Delivery Guide]]
 [[Process|Processes]]  
 
 ## Organizational Lifecycle
