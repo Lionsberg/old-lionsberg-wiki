@@ -3,6 +3,10 @@ This [[Intergrated Delivery Guide]] is a [[Work In Progress]]. Please enjoy and 
 
 If you are finding this early on, start with the [[0.0 Warning]] and [[0.2 Minimum Viable Version]] pages, and then dive into the other sections if you want more depth.  
 
+Also feel free to skip down to [[3.1 Project Delivery Guide]] and [[3.2 Template For Project]] if you would like to quick start a project. 
+
+And don't forget to review [[Organizations The Lionsberg Way]] to help ensure your team gets off on the right track. 
+
 ## 0. Summary
 [[0.0 Warning]]  
 [[0.1 Summary]]
@@ -23,6 +27,8 @@ If you are finding this early on, start with the [[0.0 Warning]] and [[0.2 Minim
 
 ## 3. Project Delivery
 [[3.0 Program Delivery]] 
+[[3.1 Project Delivery Guide]]
+[[3.2 Template For Project]]
 
 ## 4. Conclusion
 [[4.0 Conclusion]]
