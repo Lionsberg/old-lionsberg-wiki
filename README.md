@@ -16,7 +16,7 @@ Feel free to explore, recognizing that everything here is being built live and t
 - [[Core Documents]] - A place where you can find the [[Provisional Declaration]], [[Provisional Constitution]], and [[Provisional Code]] that we are striving to act out and improve. 
 - [[Summaries]] - A place to find short summaries of the overarching and uniting [[Meta Idea]] (Coming Soon)
 - [[The Way]] - A place of concepts, ideas, process, and culture that lay out a Way of being and doing together. 
-- [[Intergrated Delivery Guide]] - a subsection of the Way document focused on the Lionsberg Integrated Delivery System. 
+- [[Integrated Delivery Guide]] - a subsection of the Way document focused on the Lionsberg Integrated Delivery System. 
 - [[The Book of Lionsberg]] - A creative work in progress of art, wisdom, and story
 - [[Above The Chaos By Jordan Nicholas]] - A creative stream from the co-creator of Lionsberg
 - [[Meetings]] - A growing repository of meeting notes and recording links. 
