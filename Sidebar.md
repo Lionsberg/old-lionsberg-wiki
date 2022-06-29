@@ -14,7 +14,7 @@ This site is a [[Work In Progress]]
 # Blogs
 [[Above The Chaos By Jordan Nicholas]]  
 [[Thoughts Blog by Peter Kaminski]]  
-[[Jonathan's Guilds]]  
+[[Jonathan's Blog]]  
 
 <!-- Comment not rendered visibly to web
 
