@@ -7,8 +7,9 @@ Here are a few groups I have in mind. I call them guilds.
 
 [[Onboarding Process]]  
 [[Education and Training]]  
+[[Needs Guild]]  
 
-I like combining autonomy and tradecraft with education. For the simple reason that each guild may prefer specialized in-house training for a lot of its skills. Generic education often reduces to least common material.
+I like combining autonomy and tradecraft with education. For the simple reason that each guild may prefer specialized in-house training for a lot of its skills. Generic education can then focus on a smaller set of common material.
 
 ----------
 
