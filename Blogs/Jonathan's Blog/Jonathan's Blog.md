@@ -14,4 +14,4 @@ I like combining autonomy and tradecraft with education. For the simple reason t
 
 # My wording of our meta goal
 
-Provide an ethical, efficient, trustworthy, thriving way of going about human affairs. Many wonderful qualities emerge from this goal. Abundance, excitement, creativity, passion. We will draw from the best of human wisdom.
+Purpose build an ethical, efficient, transparent, thriving way of going about human affairs. We intend for many wonderful qualities to emerge from this goal. Abundance, excitement, creativity, passion. We will draw from the best of human wisdom.
