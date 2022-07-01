@@ -3,10 +3,10 @@ This section in an index of the Core Documents, which are currently being drafte
 
 We will [[Act As If]] the Provisional Documents are official, so that we can learn from and continuously improve them. 
 
-When the Provisional Documents accurately reflect what we are acting out, and what we are acting out reflects the patterns and behaviors we believe are most just, wise, and good, we will formalize the documents. 
+When the Provisional Documents have been complexified and accurately reflect what we are acting out, and what we are acting out reflects the patterns and behaviors we believe are most just, wise, and good, we will formalize the documents. 
 
-The target date for formalizing the [[Provisional Documents]] is October 2024, in advance of the November 2024 United States Elections. 
+It is expected that the provisional documents will be formalized by the fall of 2024. 
 
-[[Provisional Declaration]]
-[[Provisional Constitution]]   
+[[Provisional Declaration]]   
 [[Provisional Code]]  
+[[Provisional Structure]]
