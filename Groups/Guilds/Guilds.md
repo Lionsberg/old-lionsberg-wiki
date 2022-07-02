@@ -6,7 +6,7 @@ Since we plan to have a core advisory execution team, one of its roles can be to
 ## Guild Lifecycle
 - Describe a need
 - When the need reaches a threshold, create a sovereign
-	- leader
+	- establish a leader and a spokesperson
 	- purpose and responsibility statement
 	- establish the initial team
 	- articulate and design
