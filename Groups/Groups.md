@@ -3,9 +3,14 @@ Gradually all our groups/sovereigns/teams will begin to appear here ... all thos
 
 [Catalist Meta Project Groups Page](https://www.catalist.network/group-public/lionsberg-meta-project?tab=Groups) (catalist.network) 
 
+[[Bootstrap Funding]]  
 [[Declaration and Constitution Group]]  
+[[Education and Training]]  
 [[Funding Group]]  
+[[Guilds]]  
 [[Map Weavers Group]]  
+[[Needs Guild]]  
+[[Onboarding Process]]  
 
 List of potential Meta Project groups from Catalist (click share arrow on [Overview](https://www.catalist.network/group-public/lionsberg-meta-project?tab=Overview) to get current list):
 
