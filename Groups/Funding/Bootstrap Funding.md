@@ -1,1 +1,4 @@
 # Bootstrap Funding
+At this early phase of our build-out of the meta project infrastructure, all our effort is voluntary and unpaid. We've discussed creating an internal fund to provide fellowships and stipends to those whose income cannot sustain this effort for much longer. We've concluded that keeping such highly motivated people in our efforts pool is important, perhaps even vital. One strategy for creating this fund is something frequently followed in many startups: angel or bootstrap investors or donors.
+
+Write a minimum viable business plan that describes our infrastructural goals and delineates all costs including fellowships. The key quality of this plan is that it be compelling enough to the right people that they inject money into our bootstrap fund. Probably we wish this fund to provide zero ROI, so as to make those funds as effective as possible.
