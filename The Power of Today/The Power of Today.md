@@ -33,7 +33,12 @@ We  are Praying Love and Inspiration Over Your Today.
 [[2.4 The Gift of Infrastructure]]
 [[2.5 The Gift of Structure]]
 [[2.6 The Gift Of Philosophy]]
+[[2.7 The Gift of a Practice]]
+[[2.8 The Gift of an Integrated System]]
+[[2.9 Throughput]]
+[[2.10 A Final Warning]]
 
+### Chapter 3 
 
 ### Introduction
 [[0.0 Work In Progress]]  
