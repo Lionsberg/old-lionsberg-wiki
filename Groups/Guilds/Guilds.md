@@ -19,3 +19,4 @@ Since we plan to have a core advisory execution team, one of its roles can be to
 	- attract, onboard and train apprentices
 
 ## Threshold of Need
+We anticipate having more needs than we can pursue. We need a definition of "okay, this need is huge, let's work on it." One possibility is to rank all needs according to popularity, urgency, or bang for buck. Those with the highest ranking can be filtered out as "top needs." This list becomes a main item of discussion and visited often by those looking for ways to be of help.
