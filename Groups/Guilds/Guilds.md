@@ -17,3 +17,5 @@ Since we plan to have a core advisory execution team, one of its roles can be to
 - identify and acquire stakeholders
 - become a guild
 	- attract, onboard and train apprentices
+
+## Threshold of Need
