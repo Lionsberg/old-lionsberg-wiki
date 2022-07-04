@@ -55,11 +55,11 @@ We are Praying Love and Inspiration Over Your Day Today.
 [[3.13 You Are The Author Of Your Future]]
 
 ### Chapter 4
-[[4.0 Community]]
-[[4.1 Organizing The Force For Good]]
-[[4.2 Recap]]
-[[4.3 Your New Daily Practice]]
-[[4.4 Closing Reflection]]
+[[4.0 Daily Practice]]
+[[4.1 Community]]
+[[4.2 Organizing The Force For Good]]
+[[4.3 Recap]]
+[[4.4 Your New Daily Practice]]
+[[4.5 Closing Reflection]]
 
-### Introduction
-[[0.0 Work In Progress]]  
+The End
