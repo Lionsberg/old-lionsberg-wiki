@@ -3,4 +3,4 @@ At this early phase of our build-out of the meta project infrastructure, all our
 
 One strategy for creating this fund is something frequently followed in many startups: angel or bootstrap investors or donors. Write a minimum viable business plan that describes our infrastructural goals and delineates all costs including fellowships. The key quality of this plan is that it be compelling enough to the right people that they inject money into our bootstrap fund. Probably we wish this fund to provide zero ROI, so as to make those funds as effective as possible.
 
-Furthermore, as we talk with people about bringing their technology into our infrastructure, likely they will want to know when we might become funded. This can be thought of as another facet of the same early bootstrap strategy.
+Furthermore, as we talk with people about bringing their technology into our infrastructure, likely they will want to know when we might become funded. Such a timeline (vague is better for some readers than nothing) can be part of this early bootstrap plan.
