@@ -4,7 +4,7 @@ This is a living [[Work In Progress]]...
 
 Dive in!  Each page contains a link to the page before and after it, so you can navigate it like a book. You can also navigate it like pieces of interwoven modular content.
 
-We  are Praying Love and Inspiration Over Your Today.
+We are Praying Love and Inspiration Over Your Day Today.
 
 ## Table of Contents
 
@@ -39,6 +39,27 @@ We  are Praying Love and Inspiration Over Your Today.
 [[2.10 A Final Warning]]
 
 ### Chapter 3 
+[[3.0 Story]]
+[[3.1 Your Story]]
+[[3.2 The Meta Story]]
+[[3.3 Our Story]]
+[[3.4 Writing Your Story]]
+[[3.5 Transforming Your Story]]
+[[3.6 Choosing Your Aim]]
+[[3.7 Your Story of God]]
+[[3.8 The One Highest Thing]]
+[[3.9 Aligning Your Aim]]
+[[3.10 The Highest and Best Possible Future]]
+[[3.11 The Lowest and the Worst Possible Future]]
+[[3.12 The Actual Future]]
+[[3.13 You Are The Author Of Your Future]]
+
+### Chapter 4
+[[4.0 Community]]
+[[4.1 Organizing The Force For Good]]
+[[4.2 Recap]]
+[[4.3 Your New Daily Practice]]
+[[4.4 Closing Reflection]]
 
 ### Introduction
 [[0.0 Work In Progress]]  
