@@ -2,8 +2,7 @@
 This statement is a [[Work In Progress]]. It is a living document designed to be continously improved. 
 
 ## Executive Summary
-
-
+Coming Soon
 
 ## History and Context
 
@@ -13,13 +12,40 @@ During the first two quarters of 2022, an initial group of co-creators was invit
 
 This [[Meta Project]] is being forged in concert with a [[Meta Game]], a [[Meta Story]], and a  [[Meta Community]] that all share the same [[Critical Path]] and [[Goal]]. 
 
-The [[Meta Project Program Statement]] and [[The Book of Lionsberg]] are both Works in Progress and are the initial efforts of the Receiver to distill wisdom from around the world and across the millennia, couple it with modern realities and best practices, listen carefully to the global community, and articulate a statement of the programmatic needs and solutions of a fully functional and flourishing [[New Era]] self-operated and self-sustained by a free, sovereign and empowered global community.   
-
+The [[Meta Project Program Statement]] and [[The Book of Lionsberg]] are both Works in Progress and are the initial efforts to distill wisdom from around the world and across the millennia, couple it with modern realities and best practices, listen carefully to the global community, and articulate a statement of the programmatic needs and solutions of a fully functional and flourishing [[New Era]] self-operated and self-sustained by a free, sovereign and empowered global community.   
 
 ## Why Build Anything At All? 
+The catalyst for developing this Program of Action was witnessing the sheer amount of unnecessary chaos, suffering, and injustice plaguing the world as we entered the [[New Millennium]], and the prospect of that dysfunction growing progressively worse at increasing rates of speed as new technologies accelerated us along the [[Old]] trajectories. 
 
+The heart of Goodwill does not want for any to suffer or perish, but for [[All]] to flourish. 
+
+The obvious recognition was that the same new inbreaking forces that were capable of accelerating us towards increasing ruin, could also be elevated and transformed to change our trajectory, and accelerate [[All]] things towards flourishing and abundant life. 
+
+## The Ethical Imperative
+Faced with the reality that new forces were in-breaking that would accelerate [[All]] life on earth towards something approximating heaven or hell on earth, a clear ethical imperative emerged to take action and ensure that everything possible was done to steer [[Vessel: Earth]] away from the rocks of chaos, and towards its best possible [[Destiny]]. 
+
+## Who? 
+Understanding the moral imperative, the next question was [[Who]] was responsible for this. 
+
+After surveying the existing institutions of the [[Old World]], it became self-evident that that it was not possible for the [[Old]] to produce the [[New]]. 
+
+Despite many good, heroic people being present in the [[Old]] institutions, the structures had in aggregate become so hardened and corrupted that they were not able to transform themselves or move rapidly enough, or in the functional unity that would be required to avoid ruin and accompish the Goal. 
+
+It was also self-evident that the total transformation that was required could not be accomplished by any one organization, institution, or coalition in isolation. 
+
+A grand and comprehensive [[New]] solution would be required to create a [[New Era]]. 
+
+When we returned to the question of Who, we discovered that despite being aware of millions of good people working tirelessly and heroicly to make the world a better place, we were unable to find a [[Place]] to work on the [[One Thing]] that unites us [[All]]. 
+
+So we resolved to [[Act As If]] it were our responsibly, [[All]] of us, to forge one, and to ensure that it possessed the actual pragmatic capability required to meet the needs and solve the problems inherent in this moment in history. 
 
 ## What Shall We Build? 
+Recognizing the ethical imperative to come together and act, and recognizing that we needed to [[Act As If]] we were [[All]] responsible for the future of life on earth, the question was how to articulate what it was that we needed to do together. 
+
+We 
+
+
+
 Inspiring a global community to design and build itself, so that together we can design and build a better world. 
 
 ## An Integrated and Comprehensive Approach
