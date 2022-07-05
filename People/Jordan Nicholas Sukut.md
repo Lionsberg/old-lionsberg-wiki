@@ -1,12 +1,20 @@
 # Jordan Nicholas Sukut
 
+## One Minute Summary
+
 Hello friends and allies. 
 
-I am a co-creator. My superpower is [[Intention Into Reality]]. 
+I am a co-creator. My superpower is bringing [[Intention Into Reality]]. 
 
-My flaws include the total set of all possible flaws and vices found in humanity. 
+Before founding Lionsberg, I practiced that by building projects, portfolios of projects, organizations that built projects, and portfolios of non-profit and for-profit organizations. 
 
-I am doing my best to discover integrate all aspects of my being in 
+After having my naivete shattered by confronting the corruption and injustice of the [[Old World]] and losing my [[Old Life]] in the process, I realized that the only thing I could ethically do next was to attempt to gather my friends and allies around the world to design and build a [[New]] one. 
+
+Within me is the potential for every one of the total set of virtues and vices in humanity. I am doing my best to get those all under control, and to discover and integrate all aspects of my being into harmony with and service of [[One]] and [[All]].
+
+Concurrently, I am doing my best to help [[All]] recognize both the Potential for Good and Evil within them, and to work together to discover and integrate all aspects of their beings into harmony with and service of [[One]] and [[All]]. 
+
+If we are going to pull this off, I need your help. And I would like to help you. Neither of us can succeed in isolation. 
 
 ## A Short Personal Story For Those Who Asked
 
