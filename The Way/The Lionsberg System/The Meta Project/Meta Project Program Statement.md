@@ -64,16 +64,79 @@ The Community would need to possess the capability of [[Autopoiesis]], the abili
 ## An Integrated and Comprehensive Approach
 As we brought together lifetimes of experience to evaluate how billions of people might be able to voluntarily arise, self-organize, and work together to accomplish an overarching and uniting [[Meta Goal]], we recognized that the same infrastructure and processes that would need to be forged in order to collaborate, coordinate resources and knowledge, and govern / steer a Community at that scale were identical to systems, structures, processes, and infrastructure that would be required to administer the [[New Era]]. 
 
-As the Community progressively succeeded in the [[Meta Project]], it would be leaving in its wake a [[Common Inheritance]] of an Integrated System that would continue to equip and empower successive generations to administer the [[New Era]]. 
+As the Community progressively built the capabilities required to succeed in the [[Meta Project]], it would be leaving in its wake a [[Common Inheritance]] of an Integrated System that would continue to equip and empower successive generations to administer the [[New Era]]. 
 
-This further validated the need for an entirely integrated and comprehensive approach that would simultaneously
+This further validated the need for an entirely integrated and comprehensive approach that would simultaneously, through a single Program of Action: 
+
+1. Accomplish the total set of global goals
+2. Solve the total set of grand challenges
+3. Forge the best possible future for [[All]]
+
 ## Developing the [[Program of Action]]
+At its core, the entire Program of Action would need to be viewed as a single highest order [[System]], that integrated and aligned all other systems, resources, and energy into a functional unity capable of delivering the [[Total Nested Hierarchy of Goals]]. 
 
-The Receiver identified the need to design and build a new higher order system that integrated all underlying systems, resources, and energy into a functional unity that met the needs and solved the problems inherent in every individual, organization, and community on earth. 
+The highest order conceptual unity, viewed through the lens of a System, was called the [[Meta System]]. 
+
+The highest order unity would need to be composed entirely of the voluntary association and collaboration among [[Sovereign]] and [[Autonomous]] [[Actor|Actors]]. 
+
+This highest level association and collaboration among Sovereign and Autonomous Actors was called the [[Meta Community]]. 
+
+This meant that the entirety of the Program would have to be accomplished through the [[Influence]] and [[Inspire|Inspiration]] of a Community, rather than [[Command And Control]] of an organization. 
 
 ## The [[What]] of the Program
 
-### Characteristics of the New World 
+The [[What]] of the Program was therefore clarified to be: 
+1. Inspiring a global community of Goodwill
+2. To design and build itself
+3. So that it could in turn: 
+	1. Accomplish the total set of goal
+	2. Solve the total set of problems
+	3. Forge the best possible future for [[All]]
+
+Said more simply, the [[What]] of the Program was to develop the functional unity required to accomplish the [[Meta Goal]], which contained within itself and ordered the [[Total Nested Hierarchy of Goals]]. 
+
+Said even more simply, the [[What]] of the Program was to accomplish the Goal. 
+
+### Articulating the [[Meta Goal]]
+
+The [[Meta Goal]] is the highest overarching and uniting [[Intention]] shared by all people of Goodwill. 
+
+Said most simply in English, it is (something like) Love. 
+
+Said more concretely, it is (something like):
+
+_The total integrated development, wellbeing, and right relationship of All generations of Life._
+
+If we Love something, we desire for it to develop into the fullness of its unique [[Potential]] and flourish. 
+
+If we Love multiple things, we desire for them [[All]] to develop into the fullnes of their unique Potentials, and flourish in [[Harmony]]. 
+
+### The [[Old]] and the [[New]]
+
+As a [[Word Tool]] to begin articulating [[The Gap]] between our current [[Reality]], and the future [[Reality]] we were working to [[Realize]], we developed the simple convention of the [[Old]] and the [[New]]. 
+
+FROM the [[Old]], TO the [[New]]. 
+
+In the [[Old World]] / [[Old System]] / [[Old Game]], people competed unnecessarily, waged wars, harmed and exploited [[One Another]] for their own benefit, and ground up the weak and the poor between the gears of empires and oligarchies. 
+
+This was incompatible with the type of a world in which every being had the opportunity and support to develop into the fullness of its potential and flourish in harmony. 
+
+So a [[New World]] / [[New System]] / [[New Game]] was required, and it needed to be be purpose-built to accomplish the [[Meta Goal]]. 
+
+### If We Need Something New, What Should We Aim At? 
+Recognizing that something [[New]] had to be forged, we recognized that the characteristics, features, and design of that [[New]] thing should be carefully and consciously chosen. 
+
+So we began working towards a set of [[Meta Project Plans and Specifications]] that would begin to articulate, through pictures, diagrams, and words, how the [[New Era]] / [[New Community]] / [[New System]] / [[New World]] we were working together to [[Realize]] could function and be. 
+
+We had to determine a level of [[Quality]] of the [[New]]. 
+
+
+
+### Characteristics of the New World
+
+
+
+
 The MPPS incorporates articulations of higher order systems of education, wellbeing, ecology, governance, administration, economy, culture and values, meaning, right relationship, and other information required for all generations of life to discover and achieve their unique potential, and flourish in harmony.
 
 ### Design and Programming Requirements
