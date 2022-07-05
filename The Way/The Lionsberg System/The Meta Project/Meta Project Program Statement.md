@@ -178,9 +178,64 @@ The path therefore became clear. Those of us presently on earth had to wake up, 
 
 We would need to do our absolute best as a human species arise, unite, and co-create the best possible future we can, for the multi-generational benefit of [[All]]. 
 
-And we would need to[[Act As If]] the future of all generations of life depended upon our [[Success]], which we had now clearly defined. 
+And we would need to[[Act As If]] the future of all generations of life depended upon our [[Success]], which we had now clearly defined as the progressive realization of the [[Most Worthy Goal]]. 
 
-### Characteristics of the New World
+### But It Is Not For Us, It Is For All
+While it begins with us, it is not for us. It is for [[All]]. 
+
+Because it didn't really begin with us. We are standing under the shade of trees planted by others, moving around the world using infrastructure and technology built by others, articulating these words using language developed and taught to us by others, breathing in oxygen breathed out by others, and living today because God sustained us through the night and allowed us to once again awaken to experience this beautiful and tragic place. 
+
+It has been said that virtually every organization, community, or country was started for the benefit of those who founded it. 
+
+But it is not so with the [[Meta Community]]. If it has not been done before, for the first time in histroy we have the opportunity to truly plant a seed of something [[New]] not for our own selfish benefit, in our current time or our current place, but for the true universal benefit of [[All]] Life and Consciousness, in [[All]] times and [[All]] places. 
+
+Working in this [[Way]], we transcend the temporal and the local, and we become Co-Creators with God, working in the highest spirit of Love, for the Good of [[All]]. 
+
+This is the only [[Way]] we could [[All]] ever possibly accomplish the [[Highest Intention and Greatest Good]]. 
+
+The DNA present in the seed we plant together by participating in this Program means that the fruit it will eventually bear is already here present with us [[Today]], waiting and longing to emerge in due season. 
+
+So how do we Co-Create, plant, and cultivate something [[New]], that contains within itself the DNA that will cause the fruit of the [[New Era]] to manifest fo the Good of [[All]]? 
+
+That is the Question and the Purpose of this Program. 
+
+## Bringing Intention Into Reality 
+Perhaps the single oldest profession is building. 
+
+As creatively conscious beings, for millennia we have practiced and taught [[One Another]] how to [[Imagine]] something [[Better]], and progressively bring what we have in our [[Mind]] into [[Reality]]. 
+
+We have learned how to do this with homes, with buildings, with infrastructure, with organizations, with products, with money, with power, with communities, with countries, and in every domain. 
+
+Over thousands of years, we have learned a lot. 
+
+We have learned how to [[Imagine]] things, design them, build them, operate them, and elevate and transform them over time to meet our changing needs. 
+
+What if a global community of Goodwill were to apply this same hard-fought [[Wisdom]] and [[Knowledge]] to [[Worksite: Earth]] in its entirety? 
+
+That is what this comprehensive Program is all about. 
+
+It is entirely possible, and we can show you the Way it can be done. 
+
+### Co-Creating Something New That Can Inbreak and Displace The Old
+The [[New]] enters Reality through a [[Process]] of [[Inbreak And Displace|Inbreaking and Displacing]] the [[Old]]. 
+
+That [[Process]] can be [[Conscius Direction|Consciously Directed]] towards any [[Aim]]. 
+
+Conscious Direction involves intentionally selecting, out of the total set of all possible future things, the one that you desire to Aim at and Cultivate. 
+
+Then applying the [[Current Best Understanding]] of the [[Process]] through which that [[Intention]] is [[Realize|Realized]]. 
+
+
+The [[New]] [[Inbreak And Displace|Inbreaks and Displaces]] and displaces the [[Old]].
+
+This ca
+
+inbreak and displace... 
+Pull planning... 
+
+
+
+## Characteristics of the New World
 
 
 
