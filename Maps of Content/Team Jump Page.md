@@ -4,7 +4,7 @@
 - [[Your Starting Point]]
 - [[Our Way of Writing Here]]
 - [[Obsidian Tips and Tricks]]
-- [[Blogs]]
+- [[Lionsberg Wiki Blogs]]
 - [[Groups]]
 - [[Meetings]]
 - [[The Book of Lionsberg|The Book Of Lionsberg]]
