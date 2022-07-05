@@ -40,19 +40,34 @@ When we returned to the question of Who, we discovered that despite being aware 
 So we resolved to [[Act As If]] it were our responsibly, [[All]] of us, to forge one, and to ensure that it possessed the actual pragmatic capability required to meet the needs and solve the problems inherent in this moment in history. 
 
 ## What Shall We Build? 
-Recognizing the ethical imperative to come together and act, and recognizing that we needed to [[Act As If]] we were [[All]] responsible for the future of life on earth, the question was how to articulate what it was that we needed to do together. 
+Recognizing the ethical imperative to come together and act, and recognizing that we needed to [[Act As If]] we were [[All]] responsible for the future of life on earth, the question was how to articulate what it was that we needed to do or build together. 
 
-We 
+What needed to be designed and built was the [[Best Possible Future]] for [[All]]. 
 
+Yet there was nothing on earth capable of doing that, other than individual human beings. Yet those human beings were not capable of accomplishing it in isolation. 
 
+It therefore became clear that what needed to be built was a [[Higher Order Functional Unity]] and [[Community]] among people of Goodwill. 
 
-Inspiring a global community to design and build itself, so that together we can design and build a better world. 
+Because that unity could not be accomplished through anything other than voluntary collaboration among sovereign individuals, it was clear that we would need to _inspire a global community of Goodwill to design and build itself, so that together we could design and build a better world._
+
+The idea was then clarified to involve two primary elements: 
+
+1) Designing and building a [[Community]], 2) Whose Purpose was to design and build a better world. 
+
+A Meta Community engaged in the Meta Project. 
+
+## Forging a [[Higher Order Functional Unity]]
+Recognizing that the Community would need to grow into something that was pragmatically capable of succeeding in the [[Meta Project]], the Community needed to consciously design and build itself in such a way that it would be capable of drawing billions of people around the world into [[Higher Order Functional Unity]]. 
+
+The Community would need to possess the capability of [[Autopoiesis]], the ability to author itself and bring itself into being in the [[Wise Right]] Way to accomplish its Purpose and Goal. 
 
 ## An Integrated and Comprehensive Approach
+As we brought together lifetimes of experience to evaluate how billions of people might be able to voluntarily arise, self-organize, and work together to accomplish an overarching and uniting [[Meta Goal]], we recognized that the same infrastructure and processes that would need to be forged in order to collaborate, coordinate resources and knowledge, and govern / steer a Community at that scale were identical to systems, structures, processes, and infrastructure that would be required to administer the [[New Era]]. 
 
-## Higher Order Functional Unity
+As the Community progressively succeeded in the [[Meta Project]], it would be leaving in its wake a [[Common Inheritance]] of an Integrated System that would continue to equip and empower successive generations to administer the [[New Era]]. 
 
-## Developing a [[Program of Action]]
+This further validated the need for an entirely integrated and comprehensive approach that would simultaneously
+## Developing the [[Program of Action]]
 
 The Receiver identified the need to design and build a new higher order system that integrated all underlying systems, resources, and energy into a functional unity that met the needs and solved the problems inherent in every individual, organization, and community on earth. 
 
