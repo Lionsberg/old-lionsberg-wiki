@@ -128,9 +128,57 @@ Recognizing that something [[New]] had to be forged, we recognized that the char
 
 So we began working towards a set of [[Meta Project Plans and Specifications]] that would begin to articulate, through pictures, diagrams, and words, how the [[New Era]] / [[New Community]] / [[New System]] / [[New World]] we were working together to [[Realize]] could function and be. 
 
-We had to determine a level of [[Quality]] of the [[New]]. 
+We had to determine a level of [[Quality]] of the [[New]] to [[Aim]] at. 
 
+Because whatever we co-created would affect all life and consciousness for all generations to come, we resolved that it would not be loving or ethical to [[Aim]] at anything other than the [[Highest Intention and Greatest Good]] of which we could currently conceive. 
 
+### The Gap Revisited
+We therefore found our Selves stretched between two unflinching poles: 
+
+On one hand the harshest realities and perceived limitations of our present situation...
+
+And on the other the immutable and uncompromising standard of Highest Intention and Potential we were morally compelled to aim at. 
+
+### The Eternal Gap
+Further, we [[Realize|Realized]] that [[The Gap]] would be there eternally, because the better our lives and our world became, the further into the infinite [[Potential]] we would see. 
+
+We knew this from our own experience, and from the experience of the wisest sages who have universally told us that the farther they traveled along the [[Way]] towards the [[Goal]], the more their understanding of the [[Absolute]] grew, and the further they realized they were away from it. 
+
+### A World That Is Already Perfect, And Getting Better Every Day
+
+This led us to remember that the definition and standard of [[Success]] is the [[Progressive Realization]] of a worthy Goal. 
+
+In choosing the [[Meta Goal]], we had literally chosen the single most worthy Goal that we could conceive of. 
+
+And in recognizing that the [[Meta Goal]] would continously elevate and transform itself as we elevated and transformed our selves and our world, we remembered that we were inherently a few generations working together, in the midst of an eternal stream of generations. 
+
+A perfect world would therefore be one in which each generation of life took up the baton, strove together to make it better, and then passed the baton to the next generation, who did the same, at an ever-increasing pace and level of capability. 
+
+In other words an already perfect would continue to [[Get A Little Better Every Day]], forever. 
+
+### A Multi-Generational Program of Action To Make Our Lives And Our World A Little Better Every Day
+This Realization resolved the problem of the gap in its entirety. 
+
+We realized that every day, we could make the [[Quality]] of our understanding of the [[Highest Intention and Greatest Good]] a little sharper and better. 
+
+We realized that every day, we could make the [[Quality]] of our Analysis of our current reality a little sharper and better. 
+
+We realized that every day, we could make the [[Quality]] of our Plans to advance towards the Goal a little sharper and better. 
+
+We realized that every day, we could make the [[Quality]] of our Engagement with others a little sharper and better. 
+
+We realized that every day, we could make the [[Quality]] of our collaborative Action a little sharper and better. 
+
+And by wrapping the process of 1) Intention 2) Analysis 3) Engagement 4) Planning and 5) Action in a [[Meta Process]] that continuously improved all dimensions, we could [[Realize]] a world that already perfect, and getting better every day. 
+
+And every day, we would be in the process of elevating, empowering, and equipping the next generation, and passing the baton so they could progress ever-farther in the eternal and universal [[Quest]] towards the [[Goal]]. 
+
+### It Begins With Us
+The path therefore became clear. Those of us presently on earth had to wake up, arise, transcend the lines that had divided us in the [[Old World]], and [[Act As If]] we were individually and collectively responsible to all past and future generations of life to do our absolute best to run this leg of the race with courage and integrity, and then pass the baton. 
+
+We would need to do our absolute best as a human species arise, unite, and co-create the best possible future we can, for the multi-generational benefit of [[All]]. 
+
+And we would need to[[Act As If]] the future of all generations of life depended upon our [[Success]], which we had now clearly defined. 
 
 ### Characteristics of the New World
 
