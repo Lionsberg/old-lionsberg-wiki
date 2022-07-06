@@ -31,8 +31,19 @@ First of all, don't be scared. Go for it. Over time, we want to work together to
 2. Pay attention to what needs to happen. Where are there things that need to be done, that you are passionate about and qualified to do, that are not being done? 
 3. Stone Soup: As you look at what is being cooked up in the field, what could you add that would make the collective experience even more delicious? 
 
+### The Rule of Three
+There is something very different about two than one, and something different about three than two. 
+
+One is a dot. Two is a line. Three is a triangle. 
+
+A triad is the minimum viable unit that creates a field of space. 
+
+There is an old proverb that says _"A chord of three strands is not quickly torn asunder."_
+
+Wherever possible, forge a chord of at least at three strands. Forge a traingle. Forge a field. Hold space. 
+
 ### Establish a Center of Gravity
-1. Forge a locus of communication and organization that begins to create an identifiable [[Center of Gravity]]. The simplest version of this is two or three passionate people. 
+1. Forge a locus of communication and organization that begins to create an identifiable [[Center of Gravity]]. The simplest version of this is three passionate people. 
 2. Choose a good descriptive [[Name]]. 
 3. Set up a [[Chat Channel]]. 
 4. If required, set up a place for [[Document Management]].
