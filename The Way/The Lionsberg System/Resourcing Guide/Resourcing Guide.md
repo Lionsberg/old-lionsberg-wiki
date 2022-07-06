@@ -113,13 +113,60 @@ In a strange way, this additional activity would further mask and subsidize the 
 So how can we differentiate mere activity, even from the purest of intentions, from true transformational impact that creates genuine value and advances humanity and life on earth towards its Goal? 
 
 ## The Problem of Short Term Thinking
-Finally, we have drifted a long way from the multi-generational thinking, planning, and action of ancient 
+Additionally, we have drifted a long way from the multi-generational thinking, planning, and action of wise ancient societies, and have sacrificied deep eternal Wisdom for a short term gain that has reduced our standards of measurement down to quarterly returns and daily movements in the markets. 
 
+For any society to last, each generation must make decisions and operate as if they were deciding and acting for the 7th or 52nd generation to come. 
+
+We are hard pressed to find anyone who believes that if we keep doing more, harder, and faster of what we are currently doing, the outcome will be good for future generations. 
+
+## The Problem of Inbreaking and Accelerating Forces 
+Finally, if we believe that we are on the wrong trajectory and headed in the wrong direction, that problem grows far larger if we have created robots, technology, and AI that are creating robots, technology, and AI at ever high levels of capability, at ever faster rates of speed. 
+
+As massively powerful new forces in-break and accelerate us along destructive old pathways, the issues we face threaten to grow exponentially wrose. 
+
+## The Chasm
 
 There is a massive chasm we must cross to get the better future we all desire, and a massive chasm requires an unprecedented and massive solution. 
+
+That unprecedented and massive solution is going to require an unprecedented and massive shift in the way we think about and allocate our energy and resources. 
 ___
 
+We have helped a network of friends and allies recognize itself, and we are bringing together lifetimes of wisdom and experience to construct a vessel and a system that we believe might actually be capable of helping humanity and life on earth across the chasm that separates the Old and the New. 
 
+At a minimum, it is capable of quickly leveling up a network to the basic levels of strategy, coordination, and focused execution that have been present in the billions of dollars of infrastructural, economic, and technological we have collectively been a part of bringing into existence. 
+
+We think it might work, and we believe it is the single best opportunity present on earth right now to solve the Meta Crisis and forge the best possible future for All. 
+___
+
+## A Note on Brands
+Because we are all sovereign, autonomous individuals voluntarily bringing together lifetimes of work, we have brought together and started multiple different "named things" for multiple different purposes and reasons. 
+
+The important note is that they are interoperable, created to function together, and here in service of the same overarching and uniting Goal. 
+
+## The Meta Fund
+The [[Meta Idea]] that is expressing itself through Lionsberg and the [[Meta Project]] and surrounding network of networks is that we are all working in service of a single overarching and uniting [[Meta Goal]]. 
+
+Our unique named expressions, skills, platforms, networks, focuses, and passions are elements of something larger than any of us, which is the collective ethical imperative of every human being on earth to do their aboslute best to rise and meet this moment in history. 
+
+In the same we can view our diverse array of unique organizations, networks, and projects as a single uniting [[Meta Project]] that we should coordinate and succeed in... 
+
+So too could we conceptually view the total set of all unique, focused funds around the world as one [[Meta Fund]] that we have the right, the responsiblity, and the ethical imperative to steward and deploy in the right way. 
+
+In a strange way, the reality is that in a moment of crises on planet earth, every resource on earth belongs to us All and to God, and it is our responsiblity before God and one another to be good stewards of all we have been entrusted with. 
+
+### A Meta Fund, Whether We Recognize It Or Not
+Like the [[Meta Project]], the [[Meta Fund]] is an interesting concept because it is a reality whether we choose to recognize it and [[Act As If]] it were true or not. 
+
+### What If... We Were To [[Act As If]] It Were True? 
+So what would it look like IF... we were to [[Act As If]] we were All stewards of a part of something far greater than any of us, and recognize that it was our ethical obligation to coordinate and apply the resources that God / the Universe / Humanity has entrusted us with? 
+
+_There is an ancient story about man who is about to go on a long journey. So he calls his staff together gives them charge over all his possessions. _
+
+
+
+
+
+## The Lionsberg System
 
 
 ## The Critical Path Fund
