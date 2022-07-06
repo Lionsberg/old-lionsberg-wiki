@@ -19,7 +19,9 @@ Feel free to explore, recognizing that everything here is being built live and t
 - [[Integrated Delivery Guide]] - a subsection of the Way document focused on the Lionsberg Integrated Delivery System. 
 - [[The Book of Lionsberg]] - A creative work in progress of art, wisdom, and story
 - [[Above The Chaos By Jordan Nicholas]] - A creative stream from the co-creator of Lionsberg
+- [[The Power of Today]] - A guide for individuals to integrate their [[Daily Practice]] in a [[Way]] that helps us All advance towards the Goal. 
 - [[Meetings]] - A growing repository of meeting notes and recording links. 
+- [[Requests For Guidance]]
 
 ## Maps of Content
 - [[Team Jump Page]]  
