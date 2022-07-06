@@ -3,7 +3,16 @@
 [[MW-2022-07-05-Phase-Two]]  
 [Our Catalist Repository of Written Material](https://www.catalist.network/group-public/map-weavers)  
 
-The goal of this group is to create a tool with which people can find and get to know each other. Relationships are the new currency. These tools are needed for recognizing the patterns - both concerns and best practices - that deserve collective action. Based on data that is ages gracefully.
+Relationships are the new currency. Collective action is the only viable option forward for the human race.
+
+The goal of this group is to create tools with which people can find and get to know each other and work together. They will gather data and age it gracefully. Anyone can use them to:
+
+- see what's hidden to gain deeper understanding
+- recognize patterns (concerns, best practices)
+- match needs with offers
+- discover synergies
+- reveal the gaps
+- serve collaboration
 
 -----------
 
