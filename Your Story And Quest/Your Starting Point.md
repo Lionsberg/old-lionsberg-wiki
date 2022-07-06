@@ -38,12 +38,18 @@ To help begin that process, we would invite you to visit the [[Your Story]] page
 From there, we would invite you to visit the [[Your Quest]] page, to begin to look at joyful and empowering ways to align your unique individual passions, skills and goals with the [[Meta Quest]] that we are embarking on together. 
 
 ## Core Documents
-In the [[Core Documents]] section, you will be able to find key documents, such as the [[Provisional Declaration]] and [[Provisional Code]], that contain key information about the [[Pattern Language]] and [[Way of Being]] that we are attempting to articulate and embody. 
+In the [[Core Documents]] section, you will be able to find key documents, such as the [[Provisional Declaration]] and [[Provisional Structure]], that contain key information about the [[Pattern Language]] and [[Way of Being]] that we are attempting to articulate and embody. 
 
 ## Your Daily Practice 
-The entire [[Meta Philosophy]] is meant to be operationalized through a comprehensive System purpose-built to produce throughput of your goals into Reality, in harmony with all others in the community. 
+The entire [[Meta Philosophy]] is meant to be operationalized through a comprehensive System purpose-built to produce throughput of your goals into Reality, in harmony with all others in the community and world. 
 
-For a personal view of h
+For a personal view of how you can begin to elevate and transform your life, starting with [[Today]], see [[The Power of Today]]. 
+
+## The Integrated Delivery Guide
+For a look at how the total System contemplates empowering [[All]] to align their time, energy, and resources in service of our highest shared goals, see the [[Integrated Delivery Guide]]. 
+
+## The Book of Lionsberg
+If it would be helpful to engage in a more comprehensive unfolding work of story, wisdom, and art, please follow along as [[The Book of Lionsberg]] writes itself. 
 
 ## Links and Resources
 
