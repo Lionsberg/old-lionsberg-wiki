@@ -67,6 +67,9 @@ Recognizing that by investing in index funds and broad ETFs they are blindly pro
 ### Pension Capital
 Pension funds, social security funds, and other major pools of capital face a similar ethical dillemma, and they struggle to find ways to invest massive pools of capital in a way that aligned with the values and best interests of those they serve. 
 
+### Something Big Enough To Move The Needle
+The other frustration that is commonly expressed is the reality that while there are many small opportunities available to help, major holders of resources simply do not have the time, the processes, or the technology that would be required to sort through and evaluate the massive volume of small opportunities. Their models and the volume of capital in play demand that they identify and focus on larger opportunities that are significant enough to move the needle. 
+
 ### A Scarcity of High Quality Impact Projects
 In summary, nearly every capital group we encounter is expressing frustration with the scarcity of high quality projects to invest in that measurably move the needle and advance the critical path towards the Goal. 
 
@@ -74,12 +77,52 @@ In summary, nearly every capital group we encounter is expressing frustration wi
 ### Financial Resources
 On the flip side, potentially valuable impact projects and impact organizations feel scarcity in the reverse direction. Impact projects often feel stuck in a subordinated and disconnected position in relationship to the resource holders, and express concern and dismay at the lack of available funding, and the perceived social and political machinations that drive where funds ultimately flow. 
 
-### Startup Resources
+### Startup Resources and Infrastructure
+Just as flourishing small businesses are the lifeblood of a thriving economy, so too are flourishing small impact projects and organizations the lifeblood of a global community of mission and values driven action. 
+
+While large established impact organizations possess endowments and infrastructure, social entrepreneurs often feel helplessly disconnected from the ladders of infrastructure required to mature through various phases on the path towards realizing their potential.  
+
+### Relationships and Collaboration
+Impact organizations are also constantly looking for the next level of relationships and collaboration, so that they can meet the needs and solve the problems that they know they cannot solve in isolation. 
+
+### Administrative, Operational, and Compliance Support
+Additionally, many impact organizations express that they feel overwhelmed and bogged down the administrative, compliance, and operational burdens of trying to do everything in isolation. They find themselves spending significant time out of their areas of passion and giftings, draining energy on "overhead" activities instead focusing their energy and passion on the real issues and opportunities that drive them.
+
+### Succession
+These burdens coupled with the the fact that the previous generations built millions of impact organizations means that an entire generation of social entrepreneurs is ready to pass the baton and enter a new phase. 
+
+This succession issue is present at massive scale in both the non-profit and for-profit worlds, and small businesses and small impact organizations struggle with issues of legacy and continuity. 
+
+### Help
+Lastly, because of the tremendous inefficiencies and dysfunctions of how things are currently set up, many teams are simply exhausted after years of struggle, and looking around wondering why no one cares enough to roll up their sleeves, open up their resources, and help. 
+
+## What People of Goodwill Are Looking For
+At the same time, countless millions of people of goodwill are on the sidelines, watching with dismay the dysfunctions of the various political, philanthropic, or religous systems or leaders that they hoped would step up and solve the problems. 
+
+There is tremendous frustration with the way things are, tremendous desire for something better, and tremendous potential time and energy that could be mobilized. 
+
+But as the stream of news stories, social media posts, and documentaries rolls by each day, demonstrating how far off track we are, there is a sense of hopelessness and a lack of agency for many. 
+
+We know things are on the wrong track. We want to help. But what could we actually do that would make a difference? 
+
+## The Problem of Activity Vs. Value
+The harsh reality is that even if the latent tsunami of available energy and resources were unleashed on the current array of uncoordinated efforts, temendous resources would be wasted by an increased level of activity that was not truly transforming the deepest root causes of the problems we are facing. 
+
+In a strange way, this additional activity would further mask and subsidize the suffering being caused by the true root causes, and delay the ability of the System to recognize its failing state, and transform into something new. 
+
+So how can we differentiate mere activity, even from the purest of intentions, from true transformational impact that creates genuine value and advances humanity and life on earth towards its Goal? 
+
+## The Problem of Short Term Thinking
+Finally, we have drifted a long way from the multi-generational thinking, planning, and action of ancient 
 
 
+There is a massive chasm we must cross to get the better future we all desire, and a massive chasm requires an unprecedented and massive solution. 
+___
 
-### Execution and Operational Resources
+
 
 
 ## The Critical Path Fund
 Systems entrepreneurs
+
+take organizations through the full stack of infrastructure... 
