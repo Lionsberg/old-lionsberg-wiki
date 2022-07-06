@@ -8,7 +8,7 @@ It is an attempt to invite, empower, and inspire a global Force For Good to embo
 3. A [[Meta Project]]    
 4. A [[Meta Philosophy]]  
 5. A [[Meta Science]]  
-6. A [[Meta Game]]  
+6. A [[The Way/Concepts and Ideas/Meta Game]]  
 7. A [[Meta System]]  
 8. Etc. 
 

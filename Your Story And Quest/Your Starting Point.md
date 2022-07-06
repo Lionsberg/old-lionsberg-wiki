@@ -4,7 +4,7 @@ Hello, welcome to the Lionsberg Meta Project and Community. We are glad you are 
 Until we have a better [[Orientation and Onboarding Process]] up and running, this page is intended as a simple way to help you get quickly oriented and connected. 
 
 ## How We Use The Word Meta
-You may have arrived here by hearing about Lionsberg, or about the [[Meta Project]], [[Meta Game]], or [[Meta Story]]. Before you go further, it might be helpful to understand how we are using the word [[Meta]]. 
+You may have arrived here by hearing about Lionsberg, or about the [[Meta Project]], [[The Way/Concepts and Ideas/Meta Game]], or [[Meta Story]]. Before you go further, it might be helpful to understand how we are using the word [[Meta]]. 
 
 The word [[Meta]] as it is used in the [[Lionsberg System]] points to the most eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
@@ -20,7 +20,7 @@ We are each working on various important projects. Yet at the same time, the tot
 
 We are each engaged in various individual and group [[Quest|Quests]] towards various individual and group [[Goal|Goals]]. Yet at the same time, the the total set of all quests could be viewed in the context of a single highest overarching and uniting [[Meta Quest]] towards a single highest overarching and uniting [[Meta Goal]]. 
 
-The thing about the conceptual [[Meta Project]] | [[Meta Quest]] | [[Meta Game]] is that we are [[All]], without exception, actively engaged in it, whether we acknowledge it or not. 
+The thing about the conceptual [[Meta Project]] | [[Meta Quest]] | [[The Way/Concepts and Ideas/Meta Game]] is that we are [[All]], without exception, actively engaged in it, whether we acknowledge it or not. 
 
 By being aliving, being, and doing, we are all inextricably engaged in the total program of human action at this moment on planet earth. The only question is how Consciously and Competently we are participating in it. 
 

@@ -8,7 +8,7 @@ Concepts and Ideas
 
 - [[All]]
 - [[Lionsberg]]
-- [[Meta Game]]
+- [[The Way/Concepts and Ideas/Meta Game]]
 - [[Meta Goal]]
 - [[Meta Idea]]
 - [[Meta Intention]]

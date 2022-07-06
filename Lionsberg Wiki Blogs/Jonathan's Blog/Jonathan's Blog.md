@@ -8,10 +8,10 @@ I've been thinking about trustworthy sources of news. Currating is time consumin
 I added a definitions for these pages:
 
 - [[All]]  
-- [[Meta Game]]  
+- [[The Way/Concepts and Ideas/Meta Game]]  
 - [[Meta Idea]]  
 - [[Meta Intention]]  
 - [[Meta Project]]  
 - [[One Thing]]  
 
-Regarding the [[Meta Game]], i've been thinking that we can have a ranking system for benefit created, or not. Value is similar to benefit but is easily gamed (pillaging, etc.) so some more thought is needed.
+Regarding the [[The Way/Concepts and Ideas/Meta Game]], i've been thinking that we can have a ranking system for benefit created, or not. Value is similar to benefit but is easily gamed (pillaging, etc.) so some more thought is needed.
