@@ -78,9 +78,49 @@ But does an economy, at the highest level of abstraction, have a specific Goal?
 
 Why do we have economy? 
 
+Economy naturally arises through the creation and exchange of goods and services we perceive we need or want. 
 
-We are defining [Value] as [Throughput of the Goal]. 
+However as humans, we often perceive that we need or want things that are not "good", and which actually harm us and others. 
 
-The [Goal] is the total integrated wellbeing, development, and right relationship of all generations of life in a flourishing and regenerating world. 
+Every human knows that we need to help one another learn the art of self-control, and how to integrate our various drives and desires into a higher order functional unity that actually moves us towards our potential, and not away from it. 
 
-In service of creating [Throughput] of this [Goal], by advancing along the [Critical Path] towards it, the following value was created and recognized by the community: 
+A fully integrated human being has integrated their various potentials and drives into a functioning personality that acts properly in the world for the good of all. 
+
+In the same way, an economy is merely one drive of the total society and living system that we striving to create so that we can flourish. 
+
+All elements of a society, like all elements of a person, should be integrated into a higher order functional unity that is actually moving society towards its goal. 
+
+Therefore the Goal of every sub-system in any person, or any society, needs to be integrated in service of the higher order goals of the higher order systems it exists within. 
+
+Therefore the Goal of the economy should be to properly integrate itself into society and the living system, and to play its unique role in advancing the Whole towards its highest potential and greatest Good. 
+
+### Activity That Does Not Produce Throughput of the Goal is Waste
+The next critical understanding that activity that does not produce [[Throughput]] of the [[Goal]] is not [[Value]]. It is [[Waste]]. 
+
+This is because it consumes energy and resources that could otherwise be directed to creating [[Throughput]] of the [[Goal]], and instead uses them to create other things that are not needed at that time, and end up getting in the way and obstructing the true [[Critical Chain]] of [[Value Creation]]. They obstruct the true [[Flow of Value]]. 
+
+## The Meta System 
+Therefore the [[Meta Idea]] is that [[All]] things should be contained and ordered within [[One Thing]], and that the Spirit of that [[One Thing]] should be Love, and that the [[Goal]] of that One Thing should be for all creation to develop into the fullness of its potential and flourish in harmony. 
+
+If that highest overarching and uniting [[Meta Goal]] is shared by [[All]], then all things can begin self-organizing, integrating, and acting in concert to produce [[Throughput]] of that [[Meta Goal]]. 
+
+## Clarity of Value
+Then, the definition of Value becomes clear. 
+
+[[Value]] is [[Throughput]] of the [[Meta Goal]]. 
+
+If it does not produce [[Throughput]] of the [[Meta Goal]], it is [[Waste]]. 
+
+And the [[Meta Goal]] is the [[One Thing]] that is (something like)
+- _The total integrated wellbeing, development, and right relationship of all generations of life._
+
+## Clarity on Waste
+Through this lens, it becomes clear the vast majority of human activity, which we think it producing Goods and Value, is actually producing Waste, that is hindering our ability to produce [[Throughput]] of the [[Meta Goal]]. 
+
+Therefore, we need to cease the wasteful activity, and redirect all that capital an energy to intelligently working together to operate a [[Meta System]] that is producing [[Throughput]] of the [[Meta Goal]] for the Good of All. 
+
+## Sovereignty, Autonomy, and Decentralization
+The final note is that this [[Meta System]] needs to be co-operated through the voluntary association and free will of decentralized, sovereign, autonomous agents collaborating to bring the Goal into Reality. 
+
+This can be done by forging a shared and continuously improving undersatnding of the [[Critical Path]] or [[Critical Chain]] that marks the [[Way]] towards the Goal, and each doing what is uniquely ours to do to advance along it. 
+
