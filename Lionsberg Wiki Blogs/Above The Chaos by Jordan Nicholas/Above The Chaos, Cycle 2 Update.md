@@ -13,7 +13,11 @@ For some thoughts on where we are, where we are going, and why, see the reflecti
 
 For some thoughts on how we can integrate and align our activites across time into a coherent Whole, there is a book in progress called the Lionsberg [[Integrated Delivery Guide]]. 
 
-For some thoughts on Structure, see [[Provisional Structure]], which includes a video of Bill Larson and I discussing some of what was designed and built as a starting point and why. 
+For some thoughts on Structure, see [[Provisional Structure]], which includes a video of Bill Larson and I discussing some of what was designed and built as a starting point and why.
+
+For a super high level simple statement, see the [[Provisional Declaration]] (Draft for Review). 
+
+For a detailed statement at a higher level of analysis, see the [[Meta Project Program Statement]] (Draft For Review).
 
 For some thoughts on how we can begin to transform each day into a day well lived, see a short manuscript we put together called [[The Power of Today]] (Work in progress). If you don't already have a well thought out [[Daily Practice]], this is a good starting point. 
 

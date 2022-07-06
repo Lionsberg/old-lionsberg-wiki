@@ -1,5 +1,5 @@
 # Map Weavers Group
-Relationships are the new currency. Collective action is the only viable option forward for the human race. Networks are blossoming everywhere. We're using technology to build beautiful, lovable tools to serve relationships and collective action. With which people can find and get to know each other and work together. Which gather data and age it gracefully. Which help you:
+Relationships are the new currency. Creative and coordinated action at unprecedented scale is the only viable option forward for the human race. Networks are blossoming everywhere. We're using technology to build beautiful, lovable tools to serve relationships and collective action. With which people can find and get to know each other and work together. Which gather data and age it gracefully. Which help you:
 
 - see what's hidden to gain deeper understanding
 - recognize patterns (concerns, best practices)
