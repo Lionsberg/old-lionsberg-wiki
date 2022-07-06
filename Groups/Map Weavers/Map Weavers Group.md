@@ -1,11 +1,5 @@
 # Map Weavers Group
-[[MW-2022-05-24-Summary]]  
-[[MW-2022-07-05-Phase-Two]]  
-[Our Catalist Repository of Written Material](https://www.catalist.network/group-public/map-weavers)  
-
-Relationships are the new currency. Collective action is the only viable option forward for the human race.
-
-The goal of this group is to create tools with which people can find and get to know each other and work together. They will gather data and age it gracefully. Anyone can use them to:
+Relationships are the new currency. Collective action is the only viable option forward for the human race. Networks are blossoming everywhere. We're using technology to build beautiful, lovable tools to serve relationships and collective action. With which people can find and get to know each other and work together. Which gather data and age it gracefully. Which help you:
 
 - see what's hidden to gain deeper understanding
 - recognize patterns (concerns, best practices)
@@ -14,7 +8,10 @@ The goal of this group is to create tools with which people can find and get to 
 - reveal the gaps
 - serve collaboration
 
------------
+#### original material
+[[MW-2022-05-24-Summary]]  
+[[MW-2022-07-05-Phase-Two]]  
+[Our Catalist Repository of Written Material](https://www.catalist.network/group-public/map-weavers)  
 
 The goal of this group is to create a tool with which people can find and get to know each other. Relationships are the new currency.
 
