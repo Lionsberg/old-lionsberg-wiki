@@ -157,10 +157,33 @@ In a strange way, the reality is that in a moment of crises on planet earth, eve
 ### A Meta Fund, Whether We Recognize It Or Not
 Like the [[Meta Project]], the [[Meta Fund]] is an interesting concept because it is a reality whether we choose to recognize it and [[Act As If]] it were true or not. 
 
+There is a total set of resources available to meet this moment in history, and the only choice is whether we deploy them wisely in service of All, or whether we selfishly, fearfully, and ineffectively act in isolation to try to preserve our own position or status. 
+
 ### What If... We Were To [[Act As If]] It Were True? 
 So what would it look like IF... we were to [[Act As If]] we were All stewards of a part of something far greater than any of us, and recognize that it was our ethical obligation to coordinate and apply the resources that God / the Universe / Humanity has entrusted us with? 
 
-_There is an ancient story about man who is about to go on a long journey. So he calls his staff together gives them charge over all his possessions. _
+_There is an ancient story about man very rich man who was about to go on a long journey. So he called his staff together gave them charge over all his possessions. As stewards of possessions that belong to another, they are charged with taking care of them, increasing them, and striving to do with them what the Owner would do were he present. To one person he gave $50, to another he gave $500,000, to another he gave $500 Million, and to another he gave $50 Billion. To each one, he gave according to their own ability. Having entrusted them with the resources, and instructed them to do their best to accompish his goals, he left and went on his journey._ 
+
+_The one he gave $500,000 to immediately went out and did business with the resources, and created another $500,000 in Value. In the same way, the one who was entrusted with $50 Billion went out and created another $50 Billion in Value, and the one who was entrusted with $500 Million went out and likewise doubled the Value. However the one was entrusted with $50 went out and dug a hole, and buried the money in the ground._ 
+
+_After a long time, the Lord of the manor came back and called in the staff to find out what they had done, and settle accounts with them. The one who had received the $500,000 came up to him and said, "Sir, you entrusted me with $500,000. See, I have earned $500,000 more. The Lord said unto him, "Well done! You have been good and faithful. Because you were faithful with a few things, I will put you in charge of many things! Come now and experience being in my joy." Likewise the one who was entrusted wtih the $500 Million, and the one who was entrusted with $50 Billion, came unto him and showed him their faithful, and received the same response._ 
+
+_Now the one who had received the $50 also came up and said, "Sir, I knew you to be a hard man, and I was afraid. So I went away and hid your $50 in the ground. See, you still have what is yours." But the Lord answered unto him, "You worthless and lazy person! Did you not know that I desire the creation of Value? Then you at least ought to have put my money in the bank, and on my arrival I would have received my money back with interest. Therefore take the $50 away from him, and give it to the one who has $50 Billion. And cast this unfaithful steward out of my household."_
+
+Recognizing the vast array and disparity of the way the resources belonging to God and all past and future generations are distributed throughout the earth, how might each of us act as if we were faithful stewards of whatever has been trusted to us? 
+
+If you do not already have a clear answer to this question, that also gets you and life on earth across the chasm, we can show you a way that we can act on together if we so choose. 
+
+## Using Resources To Create Value
+The parable above, common sense, and spiritual and economic principles all dictate that whatever resources we are entrusted with should not be stockipiled, buried, or hidden in fear, but should be deployed to create Value. 
+
+However as a human species we are not acting as if we understood what Value is. 
+
+Agreeing on what constitutes Value is a prerequisite to coordinating and applying our energy and resources in harmony. 
+
+## What is Valuable? What is Value? 
+
+
 
 
 
@@ -173,3 +196,6 @@ _There is an ancient story about man who is about to go on a long journey. So he
 Systems entrepreneurs
 
 take organizations through the full stack of infrastructure... 
+
+## What other Funds? 
+Relationship fund
