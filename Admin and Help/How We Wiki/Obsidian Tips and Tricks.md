@@ -12,4 +12,5 @@ See [[Obsidian Git]] for push and pull commands.
 - Command + L Pulls from the cloud
 - Command + U Pushes
 	- Recommendation - Before you Push, click Command + S to make sure that the current page is saved. If you type something and immediately hit Push, you may miss the last changes. 
+	- 
 
