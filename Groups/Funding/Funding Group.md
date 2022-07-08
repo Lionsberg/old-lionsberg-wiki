@@ -10,3 +10,5 @@ Judith proposes we identify and discuss multiple strategies, approaches, executi
 In an email, Judith describes an "endowment strategy model” as our initial framework, with two parts: projects and funding. 1-2 years of projects (individual or team) with specified time frames, scope, complexity and desired outcomes. Will Lionsberg itself be funded and administer everything? Will it matchmake funders to specific projects?
 
 Let's do some pull planning with detailed critical-path goals of what we will accomplish in July. Criteria with measurements and analyses. Models exist and vary across different funding and granting agencies.
+
+[Recording of meeting on July 8](https://us06web.zoom.us/rec/share/eJyqvkOuTYr78ftpdASlyzNZ448dAKMOTM4zEyLQAQ6CSRMgTQKseTSWl4Emh6Fv.kj5Eph6Bz2MTG9TT) passcode is "D1Wh7^MW"
