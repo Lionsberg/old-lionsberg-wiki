@@ -11,4 +11,8 @@ In an email, Judith describes an "endowment strategy model” as our initial fra
 
 Let's do some pull planning with detailed critical-path goals of what we will accomplish in July. Criteria with measurements and analyses. Models exist and vary across different funding and granting agencies.
 
+## Notes
+
 [Recording of meeting on July 8](https://us06web.zoom.us/rec/share/eJyqvkOuTYr78ftpdASlyzNZ448dAKMOTM4zEyLQAQ6CSRMgTQKseTSWl4Emh6Fv.kj5Eph6Bz2MTG9TT) passcode is "D1Wh7^MW"
+[[2022.Q2 Presentation of Value Creation]]  
+[[Bootstrap Funding]]  

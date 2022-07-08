@@ -8,6 +8,7 @@ Gradually all our groups/sovereigns/teams will begin to appear here ... all thos
 [[Education and Training]]  
 [[Funding Group]]  
 [[Guilds]]  
+[[Infrastructure Group]]  
 [[Map Weavers Group]]  
 [[Needs Guild]]  
 [[Onboarding Process]]  
