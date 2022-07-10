@@ -7,6 +7,7 @@ Relationships are the new currency. Creative and coordinated action at unprecede
 - discover synergies
 - reveal the gaps
 - serve collaboration
+- [[Interviewers Group|see others and be seen]]  
 
 #### original material
 [[MW-2022-05-24-Summary]]  
