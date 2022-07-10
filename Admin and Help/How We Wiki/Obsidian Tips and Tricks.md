@@ -19,7 +19,7 @@ See [[Obsidian Git]] for push and pull commands.
 
 ## Recommended Community Plugins
 
-_Remember to Enable plugins after installing._
+_Remember to Enable a plugin after installing it._
 
 - **Collapse All** - simple, useful button for the file navigator
 - **Find unlinked files** - a little funky how it works, but super useful as you're building an information space
