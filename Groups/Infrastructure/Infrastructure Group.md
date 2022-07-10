@@ -4,7 +4,7 @@ During our early phase, we are putting most of our effort into creating groups t
 1. list of [[Grand Challenges]]  
 2. [[Map Weavers Group|mapping people and projects]]  
 3. list of infrastructural [[Needs Guild|needs]]  
-4. [[Cerification]] of ability to contribute  
+4. [[Certification]] of ability to contribute  
 5. [[Metrics of Progress and Contribution]]  
 6. coordination of [[Funding Group|funds]]  
 
