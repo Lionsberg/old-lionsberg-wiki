@@ -8,8 +8,14 @@ I've been thinking about trustworthy sources of news. Currating is time consumin
 I added a definitions for these pages:
 
 - [[All]]  
+
+We propose that **All** means trees, rocks, low income folks, wealthy folks, water.
+
 - [[The Way/Concepts and Ideas/Meta Game]]  
 - [[Meta Idea]]  
+
+We propose that the **Meta Idea** is: We are wise. We make everything work smoothly, efficiently, benevolently, fast.
+
 - [[Meta Intention]]  
 - [[Meta Project]]  
 - [[One Thing]]  
