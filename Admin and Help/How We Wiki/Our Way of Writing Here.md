@@ -43,7 +43,7 @@ Like a complicated system, device, or building, each of these elements is intent
 Because of this, the formal body of work needs to be treated with the integrity and quality control processes found on large scale design build projects. 
 
 For now, the process is as follows: 
-- Jordan is acting in the functional role of Architect, and making sure that the pieces fit together properly, don't conflict, and that the entire System works in the end. This Architect function soon needs to become a team dedicated to this function so that no one person becomes a bottleneck or single point of failure. 
+- Jordan is acting in the functional role of [[Architect Working Group]], and making sure that the pieces fit together properly, don't conflict, and that the entire System works in the end. This [[Architect Working Group]] needs new members dedicated to this function so that no one person becomes a bottleneck or single point of failure. 
 - Everyone is acting as co-creators, and is taking responsibility for designing and building various elements of the System.
 - The simple process is intended to create freedom and agency for anyone to propose any change without needing permission, while simultaneously ensuring the integrity and coherence of the Whole is maintained.
 	- Any co-creator can propose an improvement to any part of the System Design at any time. The entire idea is to ensure it gets a little better every day. 
