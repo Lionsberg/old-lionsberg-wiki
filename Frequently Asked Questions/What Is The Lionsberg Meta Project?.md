@@ -3,12 +3,18 @@ Hello! We are glad you asked.
 
 This is a massive concept with many moving parts. We understand that it can be confusing. 
 
-[[Lionsberg]] is just a mythical name for something we are trying to bring into reality, which is a coordinated global community of goodwill working together to design and build a better world. 
+[[Lionsberg]] is a mythical name for the better world we are working to bring into reality. 
 
-This happens in two interrelated categories: 
+It is an _idea_ of a different and better [[New World]], which includes a Community and a System purpose-built to bring the [[Best Possible Future]] into reality. 
+
+In action, its function is that of a coordinated global community of goodwill working in parntership with [[One]] and [[All]] to meet needs, solve problems, and design and build the best possible world we can conceive of. 
+
+This happens in two interrelated areas: 
 
 1. Inspiring a diverse global community to design and build itself (Relationship / Being)  
 2. Working together to design and build the best possible future for all (Action / Doing)  
+
+These two poles of being and doing reciprocally and progressively help one another open up to ever greater possibility and potential. By acting together to meet needs, solve problems, and accomplish shared goals, we forge greater relationship. Greater relationship in turn forges the ability to do even greater things together. 
 
 The [[Meta Project]] is simply a word tool we use to point at the total set of all possible projects and activity required to: 
 
@@ -22,4 +28,14 @@ Therefore [[Meta Project]] is the highest universal overarching and uniting "pro
 
 The idea of the [[Meta Project]] is critical because it provides a framework in which to stack up and align our individual projects, with the various projects we participate in, with the [[Meta Project]] that is big enough to unite [[All]].  
 
+We are all, by the very fact that we are human actors, engaged in the total program of human activity. It is not a choice. In the [[Old World]], we were divided and engaged in an unconscious and uncoordinated way. In the [[New World]], we can voluntarily choose to engage in the program of human activity in the most conscious and competent [[Way]] we can. 
+
 The basic idea is to [[Act As If]] we were all working towards one [[Meta Goal]] that integrated and united all other Goals, and to figure out how to organize ourselves in order to succeed. 
+
+The Lionsberg Meta Project is a place where we can gather and coordinate to attempt to act out our program of human action more competently. 
+
+Both Lionsberg and the Meta Project flow from one [[Spirit]] and [[Mind]], and speak to different levels of abstraction. 
+
+[[Meta Project]] as a concept is eternal and universal and conceptual, and not defensible or interactable or identifiable. 
+
+[[Lionsberg]] is an idea, system, structure, community, and gathering place purpose built to incarnate the Meta Project and act it out here in our time and place as one human species on planet Earth.  
