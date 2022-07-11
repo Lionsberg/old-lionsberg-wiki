@@ -97,3 +97,5 @@ The Spirit that impels us to love is calling us to arise and embark, to love our
 With Love, In Community, 
 
 ~ J
+
+For more information on how the social and political sides fit together, see [[Why Is Jordan Running For President? Doesn't That Put This All In Jeopardy?]] on the [[Frequently Asked Questions]] page. 
