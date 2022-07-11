@@ -3,7 +3,7 @@ This document is a [[Work In Progress]].
 ___
 Do the wise right thing. 
 
-Do the wise right thing, at that right time, for the right reasons, to accomplish the Goal. 
+Do the wise right thing, at the right time, for the right reasons, to accomplish the [[Meta Goal]].  
 
 Wise right things are things that are done in a spirit of Love to help, and not harm. 
 ____
