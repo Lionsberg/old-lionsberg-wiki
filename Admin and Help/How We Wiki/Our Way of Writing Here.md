@@ -21,17 +21,40 @@ You could also imagine that if someone changed a definition in the main body of 
 
 In order to address this, we are using a framework similar to what is used on large scale design build projects. 
 
-### Blogs
-Blogs are established 
+### Lionsberg Wiki Blogs
+The [[Lionsberg Wiki Blogs]] section was co-created to create the empowerment and freedom for each individual to speak freely and openly from their own perspective and point of view. In this section, we want to bring forth as much truthful diversity and perspective as possible, and our [[Current Best Understanding]] does not need to be reconciled or cohered. We can simply be free to individually think and speak as accurately as we can. 
 
+If you would like to co-Author or edit another Author's blog, please obtain their consent and approval of any proposed changes. 
 
+In order to preserve the integrity and values of the Lionsberg System and prevent intentional disruption, Lionsberg preserves the right to decide who can establish a blog on the main Lionsberg.Wiki site. 
 
-If you would like to propose changes to the main body of work, or define words, processes, or parts of the system, the steps are as follows: 
-1. Please start by clarifying your thoughts and proposals in 
+### Lionsberg Wiki Books
+The [[Lionsberg Wiki Books]] section was co-created to empower individuals to bring forth more formalized, coherent, and persistent bodies of work. Like blogs, these books do not speak from the voice of Lionsberg as "we", and therefore do not necessarily need to reflect the collective best understanding. They can freely speak from the voice of each author. 
 
+If you would like to co-Author or edit another Author's books, please obtain their consent and approval of any proposed changes. 
 
-### 
+In order to preserve the integrity and values of the Lionsberg System and prevent intentional disruption, Lionsberg preserves the right to decide what books can be published on the main Lionsberg.Wiki site. 
 
+### Lionsberg Formal Body of Work / System Design 
+There is also a formal body of work that exists on the Wiki, that speaks from the voice of Lionsberg as "we", and contains things like Declarations, Core Documents, Plans and Specifications, Guides, etc. 
+
+Like a complicated system, device, or building, each of these elements is intentionally designed and built to co-operate and interact as part of one coherent Whole. 
+
+Because of this, the formal body of work needs to be treated with the integrity and quality control processes found on large scale design build projects. 
+
+For now, the process is as follows: 
+- Jordan is acting in the functional role of Architect, and making sure that the pieces fit together properly, don't conflict, and that the entire System works in the end. This Architect function soon needs to become a team dedicated to this function so that no one person becomes a bottleneck or single point of failure. 
+- Everyone is acting as co-creators, and is taking responsibility for designing and building various elements of the System.
+- The simple process is intended to create freedom and agency for anyone to propose any change without needing permission, while simultaneously ensuring the integrity and coherence of the Whole is maintained.
+	- Any co-creator can propose an improvement to any part of the System Design at any time. The entire idea is to ensure it gets a little better every day. 
+	- Proposed improvements are placed in the [[Suggestion Box]] and a message sent to the Lionsberg Wiki Posse mattermost channel. 
+	- The Architect function reviews and has the responsibility to either accept and incorporate the changes, modify them, or reject if they are not compatible with the Whole. 
+	- The Architect should accompany any rejection or modification with an explanation that helps improve understanding and encourages forward momentum. 
+
+### Agency and Ease
+We gratefully accept and appreciate any new information and thoughts in the form of an individual Wiki Blog or Wiki Book. Feel free to link to and cross reference to any concepts or any parts of the System you would like to discuss. 
+
+We also gratefully accept and appreciate any new suggestions that affect core design elements or speak from the voice of Lionsberg in the [[Suggestion Box]]. 
 
 
 ## Questions
