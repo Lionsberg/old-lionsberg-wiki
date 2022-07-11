@@ -4,6 +4,36 @@ Also see: [[The "Way"]]
 
 Here we describe the syntax / semantics / our “Way” of writing on this wiki website. ([[Why We Say Wiki Website Instead of Wiki]])
 
+## Writing As A Team
+We are trying to learn how to write as a team, and reflect both our individual and collective voices and [[Current Best Understanding]]. 
+
+There are several elements or "parts" of the Wiki.
+
+Each section requires a varying level of coordination, depending on how it affects other elements of Lionsberg and the Meta Project. 
+
+Because Lionsberg is being co-created as a coherent System, words and concepts matter a lot, just like they would in a set of plans and specifications for a complex system or building. 
+
+### Imagery
+
+If you were to imagine a community working together to design and build something, you could imagine that every member of the community is always welcomed to speak truthfully and freely and share their own voice, perspective and experience. This can be done in sections of the Wiki that are purpose-built for this, such as the [[People]] pages, and [[Lionsberg Wiki Blogs]] section. These were built so that each individual can freely speak and represent their own best understanding, thoughts, suggestions, etc. 
+
+You could also imagine that if someone changed a definition in the main body of work, or set of plans and specifications, without fully understanding the total philsophy and system architecture, it could potentially "break" the integrity of the system or confuse other co-creators. 
+
+In order to address this, we are using a framework similar to what is used on large scale design build projects. 
+
+### Blogs
+Blogs are established 
+
+
+
+If you would like to propose changes to the main body of work, or define words, processes, or parts of the system, the steps are as follows: 
+1. Please start by clarifying your thoughts and proposals in 
+
+
+### 
+
+
+
 ## Questions
 
 (See "Making Pages" below for these questions)
