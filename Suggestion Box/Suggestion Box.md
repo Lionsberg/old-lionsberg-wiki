@@ -1,5 +1,4 @@
 # Suggestion Box
-
 - Everyone is acting as co-creators, and is taking responsibility for designing and building various elements of the System, continually improving its usefulness and imact.
 - Our simple **Suggestion Box** process is intended to create freedom and agency for anyone to propose any change without needing permission, while simultaneously ensuring the integrity and coherence of the Whole is maintained.
 	- Any co-creator can propose an improvement to any part of the System Design at any time. The entire idea is to ensure it gets a little better every day. 
