@@ -15,16 +15,16 @@ Anyone can select a need and own it. Needs can be owned by multiple people. A ne
 
 Search strings let users locate needs by matching them against description. Tags (aka categories) can be added to needs, as many as are deemed appropriate. These tags are used by the search facility to shrink the number of matches shown and presented for this purpose in a multiple-choice list. Tags are managed separately, made available when creating a need, and can be easily expanded with a need-new-tag function. The importance (payoff, urgency or priority) of each need is another searchable facet. It’s a rough estimate of how much value will accrue from fulfilling the need. Other search parameters can be easily added as we desire. Some tags that come to mind:  
 
-• infrastructure
-• prototype
-• research
-• resource
-• medium
-• trouble
-• design
-• small
-• test
-• big  
+- infrastructure
+- prototype
+- research
+- resource
+- medium
+- trouble
+- design
+- small
+- test
+- big  
 
 **dependencies**
 
@@ -42,7 +42,7 @@ Ranking the performance of the owner in terms of quality, timeliness, communicat
 
 The person who creates a need is its stakeholder and recipient. Any negotiations, requests for information, assessment of completion and of the owner’s accountability are to be directed to / performed by this person.
 
-Let’s say that the effort of meeting the conditions of satisfaction are discovered to be impractical. The stakeholder can choose to ca
+Let’s say that the effort of meeting the conditions of satisfaction are discovered to be impractical. The stakeholder can choose to cancel the need or restate its conditions of satisfaction.
 
 Doing this kind of back and forth with vigor allows us to be agile without sacrificing reliability and accountability. Perhaps the mechanism is a combination of email and chat room, both of which are recorded in the need.
 
@@ -50,28 +50,28 @@ Doing this kind of back and forth with vigor allows us to be agile without sacri
 
 Four tables (and their schemas) come to mind:
 
-• needs (id, description, conditions of satisfaction, date created, stakeholder, owners, rough delivery date, subordinate needs)
-• users (id, name, email, phone number, rating/reliability/accountability)
-• reports (id, description, type, reporter, date, duration)
-• tags (id, description, title)    
+- needs (id, description, conditions of satisfaction, date created, stakeholder, owners, rough delivery date, subordinate needs)
+- users (id, name, email, phone number, rating/reliability/accountability)
+- reports (id, description, type, reporter, date, duration)
+- tags (id, description, title)    
 
 **examples**
 
 Some (obvious?) first needs:  
 
-• needs tracker website
-• state of play synopsis board
-• simple welcome sequence
-• assessment of current technologies
-• road map
+- needs tracker website
+- state of play synopsis board
+- simple welcome sequence
+- assessment of current technologies
+- road map
 
 **user interface**
 
 At minimum, six views will give us a lot, perhaps delivered in the following order:
 
-• create a new need
-• dependency graph
-• search (filter) and view existing needs
-• chat room for stakeholder and owner
-• state of play synopsis board
-• time graph (aka road map)
+- create a new need
+- dependency graph
+- search (filter) and view existing needs
+- chat room for stakeholder and owner
+- state of play synopsis board
+- time graph (aka road map)

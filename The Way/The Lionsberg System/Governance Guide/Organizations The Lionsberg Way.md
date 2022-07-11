@@ -1,12 +1,12 @@
 # Organizations The Lionsberg Way
-[[Organizations The Lionsberg Way]] describes pattens, processes, and tools that help independent and autonomous [[Indivual|Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
+**Organizations The Lionsberg Way** describes pattens, processes, and tools that help independent and autonomous [[Indivual|Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
 
 We are co-creating these recommendations in concert with various soveriegns in the coalition, and intend to continously improve them to reflect the [[Current Best Understanding]] of the [[Community]].  
 
 In the context of the [[Lionsberg Integrated Delivery System]], you may also hear Groups or Organizations referred to as Integrated Program Delivery Teams [[IPD Teams]]. These are relatively interchangable [[Word Tool|Word Tools]] meant to point at autonmous groups collaborating in service of a Goal. 
 
 ## Purpose of Organizations
-Organizations emerge to help groups of people accomplish that that individuals cannot accomplish in isolation. 
+Organizations emerge to help groups of people accomplish what individuals cannot accomplish in isolation. 
 
 Like an individual or other living being, once established organizations can move towards goals, learn, grow, sense, think, and die. 
 
@@ -20,7 +20,7 @@ Like an individual or other living being, once established organizations can mov
 7. To accomplish things, organizations use [[Projects]] and [[Process|Processes]]. 
 8. At the highest level, an organization might view itself as a [[Project of Projects]], [[Process of Processes]] or a [[System of Systems]]. This creates a single overarching and uniting view of the organization as a whole. 
 9. A good starting point is to consider that [[Everything Is A Project]]. 
-10. Organizations can be contain organizations within themselves, and can be nested inside of higher order organizations. This is critical to establishing the fractal patterning that works towards the idea of the universal [[Meta Organization]]. 
+10. Organizations can contain organizations within themselves, and can be contained within higher order organizations. This is critical to establishing the fractal patterning that works towards the idea of the universal [[Meta Organization]]. 
 
 ## How to Co-Create an Organization
 
@@ -28,7 +28,7 @@ First of all, don't be scared. Go for it. Over time, we want to work together to
 
 ### Spotting the Opportunity to Organize: 
 1. Pay attention to what is trying to emerge in conversation. Where are there potential or latent organizations that could come together, if they were noticed and attended to? 
-2. Pay attention to what needs to happen. Where are there things that need to be done, that you are passionate about and qualified to do, that are not being done? 
+2. Pay attention to what needs to happen. Where are there things that need to be done, that you are passionate about and qualified to do, that are not being done? What vital component is missing?
 3. Stone Soup: As you look at what is being cooked up in the field, what could you add that would make the collective experience even more delicious? 
 
 ### The Rule of Three
@@ -36,11 +36,13 @@ There is something very different about two than one, and something different ab
 
 One is a dot. Two is a line. Three is a triangle. 
 
-A triad is the minimum viable unit that creates a field of space. 
+A triad is the minimum viable unit that creates a field of space.
 
 There is an old proverb that says _"A chord of three strands is not quickly torn asunder."_
 
 Wherever possible, forge a chord of at least at three strands. Forge a traingle. Forge a field. Hold space. 
+
+Three can break a tie vote. A third perspective adds depth.
 
 ### Establish a Center of Gravity
 1. Forge a locus of communication and organization that begins to create an identifiable [[Center of Gravity]]. The simplest version of this is three passionate people. 
@@ -86,7 +88,6 @@ A typical progressive formalization pattern might be:
 
 In each case, the key is to start small and interate towards increasing proficiency and maturity. 
 
-
 ### Co-Create It In The Open
 We would recommend the steps above be followed so that it gets the green shoot of what is emerging above the ground where others can see it and help cultivate it if they are interested. A [[Pattern of Failure]] is to try to secretly perfect things in isolation. A [[Pattern of Success]] is to rapidly iterate and collaborate in the open. 
 
@@ -115,3 +116,6 @@ It is cyclical and recursive process, but the patterns are often something like:
 12. Rebirth
 
 The desire of the Lionsberg System is to move towards a future in which these cycles are occurring in a [[Way]] that benefits [[All]], and in which each birth and dissolution enriches the topsoil of the ecosystem from which diverse [[New]] forms of life continually emerge. 
+
+## Rebirth
+People and resources are recycled into other organizations within the [[Meta Federation]]. This makes dissolution a happy and reasonable phase of an organization, rather than a tragedy followed by abandonment.

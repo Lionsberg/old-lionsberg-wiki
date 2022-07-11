@@ -1,4 +1,5 @@
- IPD agreements routinely include the following elements: 
+# Agreements
+IPD agreements routinely include the following elements: 
  
  1. A legal relationship
  2. A management committee
