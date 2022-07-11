@@ -37,4 +37,13 @@ This guide is a [[Work In Progress]].
 [[1.20 Why Martial Arts?]]  
 [[1.21 Which Martial Art Is The Best?]]  
 
-## 2. 
+## 2. Cultivating Energy
+How to Think About Energy
+Sources of Energy
+Types of Energy
+Testing Energy
+How to Eat
+How to Heal
+
+
+## Channeling Energy

@@ -6,11 +6,12 @@ Welcome to the Lionsberg Wiki. We are glad you are here.
 
 Lionsberg is being purpose-built as a system and gathering place where a community of goodwill can work together on the [[One Thing]] that unites us All. 
 
-We often refer to this as the [[Meta Goal]] of the [[Meta Project]] or the [[The Way/The Lionsberg System/The Meta Game/Meta Game]]. 
+We often refer to this as the [[Meta Goal]] of the [[Meta Project]] or the Meta Game. 
 
 Feel free to explore, recognizing that everything here is being built live and transparently as a [[Work In Progress]]. 
 
 ## Read About 
+- [[What Is The Lionsberg Meta Project?]]  
 - [[Your Starting Point]] - One place you can begin to orient yourself and begin to weave your unique story, passions, and goals with the Meta Story. 
 - [[0.3 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.
 - [[Requests For Guidance]] - Find the latest Requests for Guidance, which will help get you up to speed on priorities during recent and present cycles.
