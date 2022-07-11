@@ -1,4 +1,5 @@
 # The Power of Today
+By [[Jordan Nicholas Sukut]]
 
 This is a living [[Work In Progress]]... 
 
