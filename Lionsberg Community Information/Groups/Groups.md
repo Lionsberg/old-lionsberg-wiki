@@ -3,6 +3,7 @@ Gradually all our groups/sovereigns/teams will begin to appear here ... all thos
 
 [Catalist Meta Project Groups Page](https://www.catalist.network/group-public/lionsberg-meta-project?tab=Groups) (catalist.network) 
 
+[[Architect Working Group]]  
 [[Bootstrap Funding]]  
 [[Declaration and Constitution Group]]  
 [[Education and Training]]  
