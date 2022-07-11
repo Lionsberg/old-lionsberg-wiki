@@ -11,5 +11,5 @@ People enjoy being interviewed. We want to interview people and capture their es
 8. What developing skills would you like to strengthen here?
 9. Would you like to tell a story about someone you met here?
 10. What tricks have you learned about sharing ideas?
-11. Do you have any extra stuff?
+11. Do you have any extra stuff to tell others about?
 12. Do you need people to help you do what you are doing?
