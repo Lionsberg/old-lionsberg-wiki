@@ -6,3 +6,5 @@ I am adding stuff to this wiki because i'm excited and feel comfortable. I'm del
 I've been thinking about trustworthy sources of news. Currating is time consuming.
 
 Regarding the [[The Way/Concepts and Ideas/Meta Game]], i've been thinking that we can have a ranking system for benefit created, or not. Value is similar to benefit but is easily gamed (pillaging, etc.) so some more thought is needed.
+
+I've added a [[Jonathan 2022-07-11|suggestion]].
