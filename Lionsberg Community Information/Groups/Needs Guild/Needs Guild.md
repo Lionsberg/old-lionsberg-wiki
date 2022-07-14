@@ -69,9 +69,13 @@ Some (obvious?) first needs:
 
 At minimum, six views will give us a lot, perhaps delivered in the following order:
 
-- create a new need
-- dependency graph
-- search (filter) and view existing needs
-- chat room for stakeholder and fulfillment team
-- state of play synopsis board
-- time graph (aka road map)
+1. create a new need
+2. dependency graph
+3. search (filter) and view existing needs
+4. chat room for stakeholder and fulfillment team
+5. state of play synopsis board
+6. time graph (aka road map)
+
+**current meta work**
+
+Catalist team is working on implementing a needs tracker. 
