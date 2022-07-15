@@ -1,4 +1,6 @@
 # Above The Chaos, Emergent Ideas On Emergency Relief
+This post is a [[Work In Progress]]
+
 Three problems came to my attention this week, that I believe provide a great challenge and test for our ideas and capabilities. 
 
 The Total Set of All Available Resources - the [[]]
