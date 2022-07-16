@@ -82,3 +82,6 @@ The Spirit that impels us to love is calling us to arise and embark, to love our
 With Love, In Community, 
 
 ~ J
+
+Back to: [[Jordan Nicholas Sukut]]  
+Forward to: [[README|Lionsberg Wiki]]

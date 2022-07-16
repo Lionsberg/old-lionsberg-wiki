@@ -41,3 +41,6 @@ If we are going to pull this off, I need your help. And I would like to help you
 With Love, In Community, 
 
 ~ J 
+
+Forward to: [[README|Lionsberg Wiki]]  
+Forward to: [[The Way]]  
