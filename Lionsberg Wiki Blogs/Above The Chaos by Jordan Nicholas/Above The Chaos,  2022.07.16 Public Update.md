@@ -125,4 +125,5 @@ With Love, In Community,
 
 P.S. If you start seeing Jordan Nicholas floating around, it's still me, just using my middle name to make it easier to say, while trying to shield innocent family members from the battles and embarrassments that lie ahead. 
 
-For more information, [Lionsberg Wiki](http:lionsberg.wiki)
+For more information on Lionsberg, see the [Lionsberg Wiki](http:lionsberg.wiki)  
+To stay in touch with me, see [[Jordan Nicholas Sukut]]   
