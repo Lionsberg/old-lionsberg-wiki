@@ -5,7 +5,7 @@
 - Instagram - https://www.instagram.com/jnicholasone  
 - Twitter - https://www.twitter.com/jnicholasone   
 - YouTube - https://youtube.com/channel/UC11z9ZvB0VJATYGN7Zs104w  
-- Blog - 
+- Blog - [Above The Chaos](https://lionsberg.wiki/lionsberg_wiki_blogs/above_the_chaos_by_jordan_nicholas/above_the_chaos_by_jordan_nicholas)
 
 ## One Minute Summary
 
