@@ -7,11 +7,11 @@ What does this mean?
 
 Humanity is currently intellectually and physically subordinated to the power and ideologies of an incoherent and incompatible set of political, religious, and ideological systems. 
 
-This system intentionally exploits physical and emotional vulnerabilities to keep people fearful, divided, and subordinate to various Old power structures. 
+This system intentionally exploits physical, emotional, and spiriutal vulnerabilities to keep people fearful, divided, and subordinate to various Old power structures. 
 
-The end result is a human species that is perpetually fearful, divided against itself and at war. 
+The end result is a human species that is perpetually fearful, divided against itself, and at war. 
 
-This incoherent and fear-driven schizophrenic chaos is not compatible with a species arming itself with weaponized superpowers. 
+We know the end of this is failure, suffering, and death. This incoherent and fear-driven schizophrenic chaos is not compatible with a species arming itself with weaponized superpowers. 
 
 A house divided against itself will not stand. Neither will a nation or species. 
 
@@ -29,14 +29,14 @@ Historically, such realignments of sovereignty have often involved dramatic desc
 
 However revolution and warfare do not necessarily need to accompany this phase transition. 
 
-If enough of us choose to rapidly enough, twe could avoid the descent into greater suffering by voluntarily transcending and integrating ourselves into something New. 
+If enough of us choose to rapidly enough, we could avoid the descent into greater suffering by voluntarily transcending and integrating ourselves into something New. 
 
 This would allow us to retain all the current benefits of the Old through the transition, while simultaneously gaining meaningful New capabilities. 
 
 ## What Is That Something New We Could Choose To Rise Into? 
 As we look at the dysfunction, division, and sheer lack of capability of the Old, what is that New thing that we could choose to rise into? 
 
-In other places we have described the [[Meta Idea]] that we are pointing at as a Community, or a System. Here, we will view it from the standpoint of sovereignty, as a New federation or super nation. 
+In other places we have described the [[Meta Idea]] that we are pointing at as a Community, or a System, or a Goal. Here, we will view it from the standpoint of sovereignty, as a New federation or super nation. 
 
 ## Sovereign Individuals...
 The first idea is that the primary locus of Sovereignty lies not with any temporal form of government, but with the eternal Divine element within each Individual. 
