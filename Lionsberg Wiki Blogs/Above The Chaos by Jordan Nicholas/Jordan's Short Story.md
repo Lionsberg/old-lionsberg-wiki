@@ -19,7 +19,7 @@ I had a vibrant spiritual experience from the time I was young, and a vibrant se
 
 Over time God was kind enough to validate what I was experiencing internally with many external messages and confirmations that helped guide my course. 
 
-When I was 14, and she was 13, my wife and I connected and we were inseparable by our freshman year of high school, united from the start by our shared deep sense of mission and calling. We found ourselves intuitively calling each other up towards a higher purpose. 
+When I was 14, and she was 13, my wife Caity and I connected and we were inseparable by our freshman year of high school, united from the start by our shared deep sense of mission and calling. We found ourselves intuitively calling each other up towards a higher purpose. 
 
 Although my immediate family had sacrificed a life of privilege to serve our community in ministry, the wealth of my extended family privileged me to receive some of the best training and education available in the world, from private secondary school, to a bachelor's degree from Pepperdine’s Graziadio School of Business, to an MBA from UCLA’s Anderson School of Business, to multiple black belt degrees in martial arts. I obtained these primarily on nights and weekends while working full time. 
 
