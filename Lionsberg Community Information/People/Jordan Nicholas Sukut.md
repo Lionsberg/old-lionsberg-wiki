@@ -5,13 +5,17 @@
 - Instagram - https://www.instagram.com/jnicholasone  
 - Twitter - https://www.twitter.com/jnicholasone   
 - YouTube - https://youtube.com/channel/UC11z9ZvB0VJATYGN7Zs104w  
-- Blog - [Above The Chaos](https://lionsberg.wiki/lionsberg_wiki_blogs/above_the_chaos_by_jordan_nicholas/above_the_chaos_by_jordan_nicholas)
+- Blog - [Above The Chaos](https://lionsberg.wiki/lionsberg_wiki_blogs/above_the_chaos_by_jordan_nicholas/above_the_chaos_by_jordan_nicholas) 
+- Book In Progress - [[The Book of Lionsberg]] - 10% complete - follow along as it unfolds! 
+- Book In Progress - [[The Power of Today]]  - 70% complete - follow along as it unfolds!
+- Book In Progress - [[Martial Arts Guide]] - 50% complete - follow along as it unfolds! 
+- Writings on the Way - [[The Way]]    
 
 ## One Minute Summary
 
 Hello friends and allies. 
 
-I am a co-creator. I am passionate about bringing [[Intention Into Reality]]. 
+I am a co-creator. I am passionate about bringing Intention Into Reality. 
 
 Before founding Lionsberg, I practiced that by building projects, portfolios of projects, organizations that built projects, and portfolios of non-profit and for-profit organizations. 
 
