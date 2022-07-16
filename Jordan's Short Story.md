@@ -1,6 +1,7 @@
 # Jordan's Short Story
 
 ## A Short Personal Story For Those Who Asked
+[[Jordan Nicholas Sukut]] 
 
 I have been asked by some for information on who I am and how I got here. 
 
