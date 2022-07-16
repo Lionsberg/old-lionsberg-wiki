@@ -2,7 +2,7 @@
 
 We are shaping this art and building at the same time.
 
-Expect changes, perhaps big ones!
+Expect changes, perhaps big ones! Expect unfinished links, and untied loose ends. Expect typos.
 
 For now, think of this as an unfolding work of art. 
 

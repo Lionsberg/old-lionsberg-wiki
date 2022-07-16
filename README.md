@@ -8,7 +8,7 @@ Lionsberg is being purpose-built as a system and gathering place where a communi
 
 We often refer to this as the [[Meta Goal]] of the [[Meta Project]] or the [[Meta Game]]. 
 
-Simply, we are attempting to inspire a diverse global community to design and build itself so that together we can design and build a better world. 
+Simply, _we are attempting to inspire a diverse global community to design and build itself so that together we can design and build a better world_. 
 
 Feel free to explore, recognizing that everything here is being built live and transparently as a [[Work In Progress]]. 
 

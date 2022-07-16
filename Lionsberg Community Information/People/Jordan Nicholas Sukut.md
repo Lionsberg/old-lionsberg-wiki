@@ -1,10 +1,17 @@
 # Jordan Nicholas Sukut
 
+## Links
+- LinkedIn - https://www.linkedin.com/in/jordannicholassukut  
+- Instagram - https://www.instagram.com/jnicholasone  
+- Twitter - https://www.twitter.com/jnicholasone   
+- YouTube - https://youtube.com/channel/UC11z9ZvB0VJATYGN7Zs104w  
+- Blog - 
+
 ## One Minute Summary
 
 Hello friends and allies. 
 
-I am a co-creator. My superpower is bringing [[Intention Into Reality]]. 
+I am a co-creator. I am passionate about bringing [[Intention Into Reality]]. 
 
 Before founding Lionsberg, I practiced that by building projects, portfolios of projects, organizations that built projects, and portfolios of non-profit and for-profit organizations. 
 
@@ -12,7 +19,7 @@ After having my naivete shattered by confronting the corruption and injustice of
 
 Within me is the potential for every one of the total set of virtues and vices in humanity. I am doing my best to get those all under control, and to discover and integrate all aspects of my being into harmony with and service of [[One]] and [[All]].
 
-Concurrently, I am doing my best to help [[All]] recognize both the Potential for Good and Evil within them, and to work together to discover and integrate all aspects of their beings into harmony with and service of [[One]] and [[All]]. 
+Concurrently, I am doing my best to help [[All]] recognize both the Potential for Good and Evil within them, and to work together to discover and integrate all aspects of our beings into harmony with and service of [[One]] and [[All]]. 
 
 If we are going to pull this off, I need your help. And I would like to help you. Neither of us can succeed in isolation. 
 
