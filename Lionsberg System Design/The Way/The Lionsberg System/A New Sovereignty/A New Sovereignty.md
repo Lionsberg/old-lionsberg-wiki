@@ -156,7 +156,13 @@ Having gone through the once-in-millennia opportunity to forge something New out
 And of this New Sovereign Community of [[One]] and [[All]], there shall be no end. 
 
 ## A Place Suitable For All 
-Who shall we include in this New Sovereignty? [[All]] that flow from [[One]]. 
+Who shall we include in this New Sovereignty? [[All]] that flow from [[One]]. Even the difficult ones. 
 
-There is a citizenship in the New World available for everyone without exception who abides by the Code. How quickly can we invite humanity to take them up, and gain access to all the benefits of the New? 
+We are [[All]] [[One]] family. One body. One Sovereignty. One super nation. 
+
+There is a citizenship in the New World available for everyone without exception who abides by the Code. How quickly can we invite humanity to take up their New citizenships, and gain access to all the benefits of the New? 
+
+We have seen damaging technologies virally scale to billions of users quickly. 
+
+How much more so should we be able to scale something so universally massive, positive, and good, when the the future of our children, our grandchildrens, and all generations to come depends upon it? 
 
