@@ -23,7 +23,7 @@ Before founding Lionsberg, I practiced that by building projects, portfolios of 
 
 After having my naivete shattered by confronting the corruption and injustice of the [[Old World]] and losing my [[Old Life]] in the process, I realized that the only thing I could ethically do next was to attempt to gather my friends and allies around the world to design and build a [[New]] one. 
 
-I believe there this is entirely possible, and there is a very pragmatic and concrete [[The Way|Way]] we can do it. 
+I believe this is entirely possible, and there is a very pragmatic and concrete [[The Way|Way]] we can do it. 
 
 If we are going to pull this off, I need your help. And I would like to help you. Neither of us can succeed in isolation. 
 
