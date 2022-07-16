@@ -23,10 +23,6 @@ Before founding Lionsberg, I practiced that by building projects, portfolios of 
 
 After having my naivete shattered by confronting the corruption and injustice of the [[Old World]] and losing my [[Old Life]] in the process, I realized that the only thing I could ethically do next was to attempt to gather my friends and allies around the world to design and build a [[New]] one. 
 
-Within me is the potential for every one of the total set of virtues and vices in humanity. I am doing my best to get those all under control, and to discover and integrate all aspects of my being into harmony with and service of [[One]] and [[All]].
-
-Concurrently, I am doing my best to help [[All]] recognize both the Potential for Good and Evil within them, and to work together to discover and integrate all aspects of our beings into harmony with and service of [[One]] and [[All]]. 
-
 I believe there this is entirely possible, and there is a very pragmatic and concrete [[The Way|Way]] we can do it. 
 
 If we are going to pull this off, I need your help. And I would like to help you. Neither of us can succeed in isolation. 
