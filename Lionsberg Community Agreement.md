@@ -3,7 +3,7 @@ As a quick placeholder / [[Work In Progress]]...
 
 ## Basic Agreements
 1. We commit to [[Doing Our Best]] to work together towards our One highest overarching and uniting [[Meta Goal]]  
-2. We commit to [[Doing Our Best]] to discern and do the [[Wise Right Thing]]
+2. We commit to [[Doing Our Best]] to discern and do the [[Wise Right Thing]] for the Good of One and All. 
 3. We commit to [[Doing Our Best]] to Love, Help, Serve, and Not Harm One Another  
 5. We commit to [[Doing Our Best]] to [[Help One Another]] develop towards the fullness of our Potential  
 6. We commit to [[Doing Our Best]] to make and secure at least one [[Commitments|Commitment]] each week that advances the [[Whole]] towards [[Meta Goal|The Goal]] 
