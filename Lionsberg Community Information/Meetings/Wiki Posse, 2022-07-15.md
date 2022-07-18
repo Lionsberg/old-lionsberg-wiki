@@ -85,6 +85,8 @@ or, integrate into one website, lionsberg.wiki (probably better)
 
 guide / coach people to support learners
 
+- [[Careful Editing of the Core]]  
+
 core-system uses Git branches and GitHub issues
 
 - sometimes merging is easy (automatic even) and sometimes it can be messy (even if everyone agrees what the end state generally should be)
