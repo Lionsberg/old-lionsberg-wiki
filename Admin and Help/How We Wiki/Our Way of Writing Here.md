@@ -29,7 +29,7 @@ If you would like to co-Author or edit another Author's blog, please obtain thei
 In order to preserve the integrity and values of the Lionsberg System and prevent intentional disruption, Lionsberg preserves the right to decide who can establish a blog on the main Lionsberg.Wiki site. 
 
 ### Lionsberg Wiki Books
-The [[Lionsberg Wiki Books]] section was co-created to empower individuals to bring forth more formalized, coherent, and persistent bodies of work. Like blogs, these books do not speak from the voice of Lionsberg as "we", and therefore do not necessarily need to reflect the collective best understanding. They can freely speak from the voice of each author. 
+The [[Wiki Book Template|Wiki Books]] section was co-created to empower individuals to bring forth more formalized, coherent, and persistent bodies of work. Like blogs, these books do not speak from the voice of Lionsberg as "we", and therefore do not necessarily need to reflect the collective best understanding. They can freely speak from the voice of each author. 
 
 If you would like to co-Author or edit another Author's books, please obtain their consent and approval of any proposed changes. 
 
