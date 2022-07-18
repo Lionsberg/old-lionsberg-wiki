@@ -1,4 +1,26 @@
 
+when they try to cross the boundary, several of them get stuck. 
+
+running at it and smashing into it, bouncing off.
+
+Tell the story of the dream. 
+
+Demonstrate the existential terror and fear of hell. 
+
+Demonstrate the abuse - the childhood... the play... what happened to you child? 
+
+
+______
+Outside teh boundary, seeing babies for teh first time... seeing how things grow... 
+struggle against nature and reality / society... 
+
+The struggle to forge teams. 
+
+Wandering in the desert... 
+_______
+Back and Forth between story and teaching / periodically picking the story back up. 
+____
+
 
 
 "Quickly now. It is time to awaken. It is time to see. It is time to choose."
