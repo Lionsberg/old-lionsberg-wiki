@@ -8,8 +8,8 @@
 ## Agenda
 
 - orient
-- what happened?
-- proposed technical solution
+- [[#Issue What Happened|what happened?]]  
+- [[#Proposed Technical Solution|proposed technical solution]]  
     - technical implications
     - social implications
 - reflect on the continuous improvement pattern we performed this time, and document for sharing
