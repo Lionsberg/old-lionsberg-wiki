@@ -1,15 +1,19 @@
 # Needs Guild
 **needs tracker design**
 
-Throughout the lifetime of building anything, needs arise and are fulfilled. A need is a description and precedes the actions and work details which fulfill it. A need has a condition of satisfaction. By amassing all the needs of a project, anyone can quickly come to understand the thrust of the project.
-
-**maturity**
-
-When a need is fulfilled, it becomes part of the current state of play. The need is then displayed as a completed component, with a description of how it is to be used. This allows the project to retain an audit trail from initial needs to final documentation. The tags and dependencies created along the way are retained, and can be expanded to account for ongoing improvements, and newly emerging needs.  
+Throughout the lifetime of building anything, needs arise and are fulfilled. A need is something missing. It has a description and a condition of satisfaction. By amassing all the needs of a project, anyone can quickly come to understand the thrust of the project.
 
 **owner**
 
 A need has two owners: the stakeholder and the fulfillment team. Anyone or any team can select a need, promising to fulfill it. A need can be worked on in a variety of ways. It can be assessed for (and committed according to) time and broken down into sub-needs, resources, and milestones. Progress, designs, decisions, and other activities can be reported within a need. Each of these will be date stamped, including duration.  
+
+**tasks**
+
+The team signs a promise to fulfill the need. The team works out the actions and work details which fulfill the need. Agile tasks are included.
+
+**maturity**
+
+When a need is fulfilled, it becomes part of the current state of play. The need is then displayed as a completed component, with a description of how it is to be used. This allows the project to retain an audit trail from initial needs to final documentation. The tags and dependencies created along the way are retained, and can be expanded to account for ongoing improvements, and newly emerging needs.  
 
 **search**
 
@@ -64,18 +68,23 @@ Some (obvious?) first needs:
 - simple onboarding content and presentation
 - assessment of current technologies
 - road map
+- knowledge base (tutorials, documentation, how to guides)
 
 **user interface**
 
 At minimum, six views will give us a lot, perhaps delivered in the following order:
 
-1. create a new need
-2. dependency graph
-3. search (filter) and view existing needs
-4. chat room for stakeholder and fulfillment team
-5. state of play synopsis board
-6. time graph (aka road map)
+- create a new need
+- dependency graph
+- search (filter) and view existing needs
+- chat room for stakeholder and fulfillment team
+- state of play synopsis board
+- road map (time graph)
 
 **current meta work**
 
 Catalist team is working on implementing a needs tracker. 
+
+**needs clearinghouse**
+
+All of us working together to operationalize the [[Meta Project]] are gradually meeting people and learning from them, collaborating with them. Some of us, however have ideas that have stalled for lack of something (guidance, funding, knowledge, skill). For such folks, would it make sense to provide a repository of personal needs?
