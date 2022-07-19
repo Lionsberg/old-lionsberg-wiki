@@ -10,14 +10,18 @@ To make this easier, we are going to test out a new [[Battle Rhythm]] to create 
 ## Asynchronous Communications
 The vast majority of the work and relationship in the community is created asychronously and in small teams and groups. 
 
-To stay connected, please make sure that you are engaged in at least one small team or group that you are passionate about. See [[Forging Or Joining A Team]] and [[Organizations The Lionsberg Way]]. 
+To stay connected, please engage in at least one small team or group that you are passionate about. See [[Forging Or Joining A Team]] and [[Organizations The Lionsberg Way]]. 
 
 ## Attendence 
-All meetings are voluntary. Everyone is welcome to be in Community in whatever ways they are most comfortable. 
+Everyone is welcome to be in Community in whatever ways they are most comfortable. Engage as much as you would like, and don't overwhelm yourself. 
 
-Meetings will be broadcast and can be watched live by anyone with an internet connection. Meetings can be joined "live" by those who have agreed to the [[Lionsberg Community Agreement]].  
+Meetings will be broadcast and can be watched live by anyone with an internet connection. Meetings can be joined "live" by those who have agreed to the [[Provisional Community Agreement]].  
 
-To limit the number of disruptive interlopers and spies to less than 10%, we are extending invitations to formally join the Community at the rate of 62% growth every 4 to 6 weeks. 
+## Dinner Party Standards
+Until we establish a better standard, we are going to treat our gatherings as if they were something like a dinner party. Everyone is expected to follow the spirit of the [[Provisional Code]] and , and the host reserves the right to ask [[Provisional Code]] 
+
+
+To limit the number of disruptive interlopers and spies to less than 10%, we are extending invitations to formally join the Community at the rate of ~62% growth every 4 to 6 weeks. 
 
 If you would like to be added to the waiting list, please let [[Jordan Nicholas Sukut|Jordan]] know. We are towards setting up an [[Onboarding Process]] and Team. 
 

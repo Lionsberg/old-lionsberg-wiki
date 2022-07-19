@@ -15,6 +15,6 @@ Do no harm.
 _____
 Love.
 
-Love God, and Love All as your Self. 
+Love [[One]] and Love [[All]] as your Self. 
 ___
-From any of these word tools, the entire Universal Law can be derived. 
+From any of these word tools, the entire Universal Law and Code can be derived. 

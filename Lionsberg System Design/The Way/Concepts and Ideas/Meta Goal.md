@@ -6,6 +6,10 @@ Therefore the **Meta Goal** is the highest universal overarching and uniting "Go
 
 The idea of the **Meta Goal** is critical because it provides a framework in which to stack up and align our individual goals, with the goals of the various things we participate in, with the **Meta Goal** that is big enough to unite [[All]].  
 
-So, what indeed is our **Meta Goal**?
+Because the word [[Meta]] in the System points towards the [[Absolute]], it is intentionally not concretized. This is to avoid [[Pattern of Failure]] that occurs when we [[Concretize The Absolute]]. 
 
-We propose that our **Meta Goal** is to purpose-build an ethical, efficient, transparent, thriving way of going about human affairs. We intend for many wonderful qualities to emerge from this goal. Abundance, excitement, creativity, passion. We will draw from the best of human wisdom.
+It could be described as (something like): 
+
+*The total integrated wellbeing, development, and right relationship of all generations of life.*
+
+Making this Goal a Reality would require solving the total set of problems and accomplishing the total set of goals. 
