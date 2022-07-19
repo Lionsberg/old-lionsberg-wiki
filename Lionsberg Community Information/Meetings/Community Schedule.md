@@ -18,12 +18,7 @@ Everyone is welcome to be in Community in whatever ways they are most comfortabl
 Meetings will be broadcast and can be watched live by anyone with an internet connection. Meetings can be joined "live" by those who have agreed to the [[Provisional Community Agreement]].  
 
 ## Dinner Party Standards
-Until we establish a better standard, we are going to treat our gatherings as if they were something like a dinner party. Everyone is expected to follow the spirit of the [[Provisional Code]] and , and the host reserves the right to ask [[Provisional Code]] 
-
-
-To limit the number of disruptive interlopers and spies to less than 10%, we are extending invitations to formally join the Community at the rate of ~62% growth every 4 to 6 weeks. 
-
-If you would like to be added to the waiting list, please let [[Jordan Nicholas Sukut|Jordan]] know. We are towards setting up an [[Onboarding Process]] and Team. 
+Until we establish a better standard, we are going to treat our official gatherings as if they were something like a dinner party. Everyone is expected to follow the spirit of the [[Provisional Code]] and the host reserves the right to ask anyone to leave. 
 
 ## Quarterly Summit
 - Purpose - Build Relationships, Orient, Navigate, and Set Milestones and Goals for the Quarter
@@ -68,11 +63,11 @@ We Progress together towards the Milestones and Goals we set through Daily and W
 	- 07:00 to 07:30 - Silent Meditation / Prayer
 	- 07:30 to 08:00 - Philosophy 
 	- 08:00 to 09:30 - Martial Arts  
-- Sunday 
-	- 08:00 to 08:20 - Silent Meditation / Prayer 
-	- 08:20 to 08:40 - Music 
-	- 08:40 to 09:00 - Philosophy 
-	- 09:00 to 09:30 - Discernment / What's Alive? 
+- Sunday - TBD BASED ON INTEREST
+	- 08:00 to 08:05 - Welcome
+	- 08:05 to 08:30 - Silent Meditation and Prayer with Music
+	- 08:30 to 08:50 - Philosophy 
+	- 08:50 to 09:30 - Discernment / What's Alive? 
 
 ## Special Seminars and Trainings
 - To Be Announced 

@@ -4,7 +4,11 @@ The **Meta Idea** of the [[Lionsberg System]] and the [[Meta Project]] is that [
 
 This notion points at the same [[Ultimate Reality]] that words like [[One]], [[God]], and [[Absolute]] point to. Rather than adopt any existing concretization of the [[Absolute]], the [[Lionsberg System]] intentionally leaves this in the [[Abstract]] so that it stays transcendent of human ideology. 
 
+## Extension 
+
 The pragmatic extension of this idea is that [[All]] things that flow from the [[One]] thing are intended to function in [[Higher Order Functional Unity]] and [[Harmony]]. 
+
+## Application 
 
 The [[Lionsberg System]] was incarnated as a [[The Way|Way]] to pragmatically [[Act As If]] the [[Meta Idea]] were [[True]]. It is an attempt to help people [[Operationalize]] the [[Universal and Eternal]] right here in our own [[Time]] and Place. 
 
