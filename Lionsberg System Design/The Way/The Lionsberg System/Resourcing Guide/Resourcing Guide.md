@@ -67,6 +67,9 @@ Recognizing that by investing in index funds and broad ETFs they are blindly pro
 ### Pension Capital
 Pension funds, social security funds, and other major pools of capital face a similar ethical dillemma, and they struggle to find ways to invest massive pools of capital in a way that aligned with the values and best interests of those they serve. 
 
+### Crowdfunding Capital
+In recent political and philanthropic campaigns, we have seen evidence of tens of millions of dollars a month of capital available $5 or $100 at a time from the growing wave of individuals longing for change. We anticipate that this will be one of the ultimate long term sources of capital that drives the Critical Path towards The Goal. 
+
 ### Something Big Enough To Move The Needle
 The other frustration that is commonly expressed is the reality that while there are many small opportunities available to help, major holders of resources simply do not have the time, the processes, or the technology that would be required to sort through and evaluate the massive volume of small opportunities. Their models and the volume of capital in play demand that they identify and focus on larger opportunities that are significant enough to move the needle. 
 
@@ -182,15 +185,10 @@ However as a human species we are not acting as if we understood what Value is.
 Agreeing on what constitutes Value is a prerequisite to coordinating and applying our energy and resources in harmony. 
 
 ## What is Valuable? What is Value? 
-
-
-
-
-
-
+For a discussion on this topic, see [[Value]]. 
 
 ## The Lionsberg System
-
+The [[Lionsberg System]] was established to realign and optimie these various resource flows in a multi-side economy and system _aimed at_ The Goal, and recognizing Value on that basis. 
 
 ## The Critical Path Fund
 Systems entrepreneurs

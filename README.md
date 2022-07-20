@@ -23,6 +23,7 @@ Feel free to explore, recognizing that everything here is being built live and t
 - [[Groups]]  
 - [[People]]  
 - [[Meetings]] - A growing repository of meeting notes and recording links. 
+- [[Community Schedule]] - Draft for Review 
 
 ## Lionsberg System Design
 - [[Core Documents]] - A place where you can find the [[Provisional Declaration]], [[Provisional Structure]] and [[Provisional Code]] that we are striving to act out and improve. 

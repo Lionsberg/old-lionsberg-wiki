@@ -3,7 +3,7 @@
 ## Genesis
 [[0.1 Title Page]]  
 [[0.2 Introduction]]  
-[[0.3 Lionsberg]]  
+[[0.4 Lionsberg]]  
 
 ## Part 1: Designer's Intent
 [[1.1 Designer's Intent]]  
