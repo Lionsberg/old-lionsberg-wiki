@@ -36,11 +36,13 @@ We Progress together towards the Milestones and Goals we set through Daily and W
 - Monday
 	- 07:00 to 7:50 - [[Daily Practice]]  
 	- 08:00 to 8:50 -  [[Daily Alignment]]   
-	- 04:30 to 05:15 - [[Daily Wrap]]  
+	- 4:30 to 5:15 - [[Daily Wrap]]  
+	- 6:00 - Hard Stop For Family Time
 - Tuesday 
 	- 07:00 to 7:50 - [[Daily Practice]]  
 	- 08:00 to 8:50 -  [[Daily Alignment]] 
-	- 04:30 to 05:15 - [[Daily Wrap]]  
+	- 4:30 to 5:15 - [[Daily Wrap]]  
+	- 6:00 - Hard Stop For Family Time
 - Wednesday 
 	- 07:00 to 7:50 - [[Daily Practice]]  
 	- 08:00 to 8:50 -  Daily Alignment
@@ -54,10 +56,11 @@ We Progress together towards the Milestones and Goals we set through Daily and W
 - Thursday
 	- 07:00 to 7:50 - [[Daily Practice]]  
 	- 08:00 to 8:50 -  Daily Alignment 
-	- 04:30 to 05:15 - Daily Wrap 
+	- 4:30 to 5:15 - Daily Wrap 
+	- 6:00 - Hard Stop For Family Time
 - Friday
-	- 07:00 to 7:50 - [[Daily Practice]]  
-	- 08:00 to 8:50 -  Daily Alignment 
+	- 07:00 to 08:20 - Take Your Child To Breakfast / School Date  
+	- 08:20 to 8:50 -  Daily Alignment 
 	- 04:30 to 05:15 - Daily Wrap 
 - Saturday
 	- 07:00 to 07:30 - Silent Meditation / Prayer
