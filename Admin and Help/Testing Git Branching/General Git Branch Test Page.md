@@ -1,6 +1,6 @@
 # General Git Branch Test Page
 
-In hac habitasse platea dictumst. Quisque faucibus justo volutpat neque auctor feugiat. Sed gravida dictum posuere. Donec placerat ligula a mi hendrerit condimentum. Nulla lacus dolor, suscipit luctus sapien id, euismod luctus metus. Maecenas eget venenatis ipsum. Cras metus nunc, convallis at vehicula a, sodales in ante. Aenean congue elit odio, eget ultrices est faucibus sed. Curabitur semper quis purus eget pretium. Phasellus et lorem non libero lobortis elementum et nec mauris. Ut convallis tincidunt ultricies. Quisque tellus mi, vestibulum at iaculis eget, auctor vel turpis. Vivamus at rhoncus magna. Sed eu iaculis ipsum.
+In hac habitasse platea dictumst. **There is now English in the middle of this fake Latin.** Sed eu iaculis ipsum.
 
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum purus ante, finibus in diam et, venenatis euismod libero. Nunc in massa lacus. Donec pretium eros id massa viverra rutrum. Aenean justo arcu, eleifend a tincidunt ac, ultrices at erat. Nulla accumsan quis erat id consequat. In rhoncus vestibulum nisl, eget dapibus nisi mattis dapibus. Sed cursus augue malesuada, porta nibh eu, ornare orci. Proin nec convallis risus, quis elementum massa.
 
