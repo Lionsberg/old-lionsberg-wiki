@@ -1,5 +1,5 @@
 # Idolatry
-Idolatry refers to the [[Sin]] / [[Pattern of Failure]] of [[Concretize The Absolute|Concretizing The Absolute]]. 
+Idolatry refers to the [[Sin]] / [[Pattern of Failure]] of [[Concretizing The Absolute]]. 
 
 In other words, creating something (a form, an image, a set of propositions), and setting those up in place of the [[One]]. 
 

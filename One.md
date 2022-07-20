@@ -7,4 +7,4 @@ Rather than adopt any existing concretization of the [[Absolute]], the [[Lionsbe
 
 By putting our Selves in service of [[One]] and [[All]], we are compelled to align our [[Aim]] with the [[Highest Intention and Greatest Good]] of which we can presently conceive. 
 
-WARNING: Do not attempt to [[Concretize The Absolute]] or the System will fail! In religious terms, reducing [[Ultimate Reality]] to a human-made set of forms or propositions is akin to [[Idolatry]]. 
+WARNING: Do not attempt to [[Concretizing The Absolute|Concretize The Absolute]] or the System will fail! In religious terms, reducing [[Ultimate Reality]] to a human-made set of forms or propositions is akin to [[Idolatry]]. 

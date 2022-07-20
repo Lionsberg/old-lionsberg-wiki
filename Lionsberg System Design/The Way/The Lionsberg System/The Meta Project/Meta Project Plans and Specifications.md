@@ -1,1 +1,0 @@
-# Meta Project Plans and Specifications

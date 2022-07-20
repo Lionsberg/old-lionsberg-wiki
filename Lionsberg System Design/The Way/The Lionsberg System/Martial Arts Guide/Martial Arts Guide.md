@@ -2,7 +2,7 @@
 This guide is a [[Work In Progress]]. 
 
 ## 0. Introduction
-- [[0.1 Introduction]]  
+- [[0.1 Introduction]]
 - [[0.2 A Warning]]. 
 - [[0.3 A Story]]. 
 - [[0.4 A Way of Life]]  
