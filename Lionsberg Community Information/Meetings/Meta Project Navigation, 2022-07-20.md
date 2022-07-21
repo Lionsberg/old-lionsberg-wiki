@@ -391,5 +391,4 @@ See Mountain Goat Software, [User Stories and User Story Examples by Mike Cohn](
 
 ## Resources
 
-- [Sagas: Bringing Life to the Strategic Vision](https://web.archive.org/web/20120124201149/https://www.scrumalliance.org/articles/372-sagas-bringing-life-to-the-strategic-vision)
-- 
+- [Sagas: Bringing Life to the Strategic Vision](https://web.archive.org/web/20120124201149/https://www.scrumalliance.org/articles/372-sagas-bringing-life-to-the-strategic-vision) (Agile Epics / Sagas)
