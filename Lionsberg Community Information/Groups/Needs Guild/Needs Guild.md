@@ -1,4 +1,10 @@
 # Needs Guild
+**why needs?**
+
+Most of us do not know what need is driving our emotions. This makes it all too easy for us to react to our emotional state with strategies that don't fulfill our needs. The need remains unfilled, the emotions remain, mysterious, haunting, implacable.
+
+The idea here, though, is to get really good at identifiying needs, personal needs, project needs, community needs. How? At first, by looking deep below the emotions for associated needs, probably by running your fingers through [a typical needs list](https://www.cnvc.org/training/resource/needs-inventory) and finding the one that best describes you in the moment. Imagine that eventually all of us get really good at identifying needs and at satisfying them. Tracking project and community needs is what the following is about.
+
 **needs tracker design**
 
 Throughout the lifetime of building anything, needs arise and are fulfilled. A need is something missing. It has a description and a condition of satisfaction. By amassing all the needs of a project, anyone can quickly come to understand the thrust of the project.
