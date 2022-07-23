@@ -13,7 +13,7 @@
 - Writings on the Way - [[The Way]]  
 - Jordan's Short Story - [[Jordan's Short Story]]  
 
-## One Minute Summary
+## One Minute Summary 
 
 Hello friends and allies. 
 

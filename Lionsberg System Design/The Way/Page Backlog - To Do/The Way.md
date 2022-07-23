@@ -2,7 +2,7 @@
 
 There is no Way around it. The root cause of all the unnecessary corruption, suffering, and injustice is our [[Way of Being]] as a human species on planet earth. 
 
-When our Way of Being is spiraling us down towards failure, it is wise transform our Way, and therefore our trajectory, and therefore our [[Destiny]]. It is the Way we attain a future that is as close to heaven as possible, and avoid a future that is something like hell. 
+When our Way of Being is spiraling us down towards failure, it is wise to transform our Way, and therefore our trajectory, and therefore our [[Destiny]]. It is the Way we attain a future that is as close to heaven as possible, and avoid a future that is something like hell. 
 
 The good news is that in partnership with [[One]] and [[One Another]], we can change our Way. 
 
