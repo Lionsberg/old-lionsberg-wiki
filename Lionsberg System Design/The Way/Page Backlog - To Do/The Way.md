@@ -8,7 +8,7 @@ The good news is that in partnership with [[One]] and [[One Another]], we can ch
 
 This page is a [[Work In Progress]] meant to progressively grow out into a comprehensive New [[Way of Being]] that, if [[Operationalize|Operationalized]], can _cause_ us to progressively rise towards the fullness of our [[Potential]] and flourish in harmony with [[One]] and [[All]]. 
 
-This can be done by integrating and aligning our Selves, our families, our teams, our groups, our organizations, our communities, and the total community of communities in a Way that creates throughput of our overarching and uniting Goals and Values. 
+This can be done by integrating and aligning our Selves, our families, our teams, our groups, our organizations, our communities, and the total community of communities in a Way that creates [[Throughput]] of our overarching and uniting Goals and Values. 
 
 Our [[Way of Being]] must comprehensively grapple with and address all elements of life and society, at every fractal level without exception. 
 
