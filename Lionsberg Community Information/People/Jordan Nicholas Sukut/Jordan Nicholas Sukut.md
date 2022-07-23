@@ -1,11 +1,11 @@
 # Jordan Nicholas Sukut
 
 ## Links
+- Jordan's Blog - [Above The Chaos](https://lionsberg.wiki/lionsberg_wiki_blogs/above_the_chaos_by_jordan_nicholas/above_the_chaos_by_jordan_nicholas)  
 - LinkedIn - [Jordan's LinkedIn](https://www.linkedin.com/in/jordannicholassukut)    
 - Instagram - [Jordan's Instagram](https://www.instagram.com/jnicholasone)    
 - Twitter - [Jordan's Twitter](https://www.twitter.com/jnicholasone)     
 - YouTube - [Jordan's YouTube](https://youtube.com/channel/UC11z9ZvB0VJATYGN7Zs104w)    
-- Jordan's Blog - [Above The Chaos](https://lionsberg.wiki/lionsberg_wiki_blogs/above_the_chaos_by_jordan_nicholas/above_the_chaos_by_jordan_nicholas)  
 - Book In Progress - [[The Book of Lionsberg]] - 10% complete - follow along as it unfolds!  
 - Book In Progress - [[The Power of Today]]  - 70% complete - follow along as it unfolds! 
 - Book In Progress - [[Martial Arts Guide]] - 50% complete - follow along as it unfolds!  
