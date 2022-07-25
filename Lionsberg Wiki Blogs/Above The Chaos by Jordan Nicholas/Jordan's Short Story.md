@@ -79,6 +79,8 @@ If we can succeed in this quest, we can realize a future that is better for all.
 
 The Spirit that impels us to love is calling us to arise and embark, to love our neighbors as ourselves, to regenerate this precious planet and living system that sustains us all, and to begin to individually and collectively embody the eternal values that we all cling to. It is something like that. 
 
+If you would like more information on my personal experience and perspective with Faith, please see [[Jordan and Faith]].  
+
 With Love, In Community, 
 
 ~ J

@@ -13,10 +13,11 @@ Enjoy! Be encouraged, and be inspired!
 [[0.0 Work In Progress]]  
 [[0.1 Book of Lionsberg Title Page]]  
 [[0.2 Book of Lionsberg Legal Page]]  
-[[0.3 The Meta Story]]  
-[[0.4 Attribution]]  
-[[0.5 Authority]]  
-[[0.6 No Boundaries]]  
+[[0.3 Author's Note]]  
+[[0.4 The Meta Story]]  
+[[0.5 Attribution]]  
+[[0.6 Authority]]  
+[[0.7 No Boundaries]]  
 
 ### Chapter One - Genesis
 

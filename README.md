@@ -15,7 +15,7 @@ Feel free to explore, recognizing that everything here is being built live and t
 ## Read About 
 - [[What Is The Lionsberg Meta Project?]]  
 - [[Your Starting Point]] - One place you can begin to orient yourself and begin to weave your unique story, passions, and goals with the Meta Story. 
-- [[0.3 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.
+- [[0.4 The Meta Story|The Meta Story]] - A big picture story of where we are, where we are going, and why it matters.
 - [[Requests For Guidance]] - Find the latest Requests for Guidance, which will help get you up to speed on priorities during recent and present cycles.
 
 ## Lionsberg Community Information

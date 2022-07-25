@@ -2,7 +2,7 @@ This site is a [[Work In Progress]]
 
 # Site Navigation
 [[Your Starting Point]]   
-[[0.3 The Meta Story|The Meta Story]]  
+[[0.4 The Meta Story|The Meta Story]]  
 [[The Book of Lionsberg|The Book of Lionsberg]]  
 [[The Way]]  
 [[Integrated Delivery Guide]]  

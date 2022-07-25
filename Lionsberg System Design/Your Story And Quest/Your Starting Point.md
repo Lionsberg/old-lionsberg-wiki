@@ -1,28 +1,34 @@
 # Your Starting Point
-Hello, welcome to the Lionsberg Meta Project and Community. We are glad you are here! 
+Hello, welcome to Lionsberg. 
+
+Lionsberg is mythical place where a Community of Sovereign Individuals, Organizations, and Communities are attempting to [[Help One Another]] learn how to act out and embody the [[Meta Idea]] that we are [[All]] part of a [[Meta Community]], a [[Meta Project]], and a [[Meta Game]] that is bigger than any of us. And the only way we can 'win' the Game and accomplish [[The Goal]] is if we do it together in the [[Wise Right]] [[Way]]. 
+
+We are glad you are here, and happy to be of service to you if you find it useful. 
 
 Until we have a better [[Orientation and Onboarding Process]] up and running, this page is intended as a simple way to help you get quickly oriented and connected. 
 
 ## How We Use The Word Meta
-You may have arrived here by hearing about Lionsberg, or about the [[Meta Project]], [[The Way/Concepts and Ideas/Meta Game]], or [[Meta Story]]. Before you go further, it might be helpful to understand how we are using the word [[Meta]]. 
+You may have arrived here by hearing about Lionsberg, or about the [[Meta Project]], the [[Meta Game]], or  the [[Meta Story]]. Before you go further, it might be helpful to understand how we are using the word [[Meta]]. 
 
 The word [[Meta]] as it is used in the [[Lionsberg System]] points to the most eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
 ## The Meta Story
-If you haven't seen it yet, you may want to spend a few minutes to read a simple working version of [[0.3 The Meta Story|The Meta Story]].  
+If you haven't seen it yet, you may want to spend a few minutes to read a simple working version of [[0.4 The Meta Story|The Meta Story]].  
 
 The Meta Story is intended to begin laying out an overarching and uniting story of [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and [[Why]] it all matters. 
 
 ## The Meta Project | The Meta Quest
-The [[Meta Idea]] is that we are [[All]] here to work together towards something that is bigger than [[Any]] of us. 
+The [[Meta Idea]] is that we are [[All]] here to work together towards something that is bigger than Any of us. 
 
 We are each working on various important projects. Yet at the same time, the total set of all human endeavor on planet earth could be viewed in the context of a single overarching and uniting program of action we could call the [[Meta Project]]. 
 
 We are each engaged in various individual and group [[Quest|Quests]] towards various individual and group [[Goal|Goals]]. Yet at the same time, the the total set of all quests could be viewed in the context of a single highest overarching and uniting [[Meta Quest]] towards a single highest overarching and uniting [[Meta Goal]]. 
 
-The thing about the conceptual [[Meta Project]] | [[Meta Quest]] | [[The Way/Concepts and Ideas/Meta Game]] is that we are [[All]], without exception, actively engaged in it, whether we acknowledge it or not. 
+The thing about the conceptual [[Meta Project]] | [[Meta Quest]] | [[Meta Game]] is that we are [[All]], without exception, actively engaged in it, whether we acknowledge it or not. 
 
 By being aliving, being, and doing, we are all inextricably engaged in the total program of human action at this moment on planet earth. The only question is how Consciously and Competently we are participating in it. 
+
+Lionsberg is simply a mythical place in which we can begin to weave together and align our stories, and learn how to [[Act As If]] the [[Meta Idea]] were True. 
 
 ## Your Story and Your Quest
 Now that you have roughly oriented yourself to the [[Meta Idea]], let's bring it right back down to where the rubber meets the road in your own life and your own story. 
@@ -31,7 +37,7 @@ Understanding who *you* are, where *you* are, how *you* got here, where *you* ar
 
 ...is just as important as understanding [[Who We Are]], [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and [[Why]] it all matters. 
 
-Our ability to work together and [[Help One Another]] is going to be directly dependent upon our ability to align our stories, our quests, and our goals in the overarching and uniting [[Meta Story]], [[Meta Quest]], and [[Meta Goal]]. 
+Our ability to work together and [[Help One Another]] is directly dependent upon our ability to align our stories, our quests, and our goals in the overarching and uniting [[Meta Story]], [[Meta Quest]], and [[Meta Goal]]. 
 
 To help begin that process, we would invite you to visit the [[Your Story]] page to begin thinking through your own life and your own story, perhaps in a deeper and more profound way that you have before. 
 

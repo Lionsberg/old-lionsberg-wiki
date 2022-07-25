@@ -13,3 +13,5 @@ It could be described as (something like):
 *The total integrated wellbeing, development, and right relationship of all generations of life.*
 
 Making this Goal a Reality would require solving the total set of problems and accomplishing the total set of goals. 
+
+This is our [[Current Best Understanding]] of the [[Aim]] of the [[One]]. It is the perfect [[Unity]] that lies at the end of the [[Logic of Love]].  
