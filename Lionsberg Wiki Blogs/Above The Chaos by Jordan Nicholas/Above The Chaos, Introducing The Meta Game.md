@@ -32,6 +32,10 @@ It also merges out towards the ideas contained in [[A New Sovereignty]] and arti
 
 If you would like to be part of a Working Group to specifcally focus on the co-creation / design-build of the Meta Game and its associated Currencies and Energy Accounting, please let us know! 
 
+Lastly - I fully recognize that there are A LOT of people out there working on similar games. The game we build should help and accelerate them all, while hopefully inviting and integrating all similar emergent ideas into some higher order form of functional unity that _might work._ 
+
+This is going to be fun! Let's Co-Create and Play The Game! 
+
 With Love, In Community, 
 
 ~ J 
