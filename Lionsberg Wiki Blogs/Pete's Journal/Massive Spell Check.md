@@ -8,7 +8,7 @@ In a bit of productive procrastination, I experimented with some bulk spell corr
 
 Thanks to our prolific contributor [[Jordan Nicholas Sukut]], we have a lot of text, with an attendant number of typos that can be found and fixed.
 
-Today, I tried using `aspell` and some not-really-automation to fix about 30 typos in as many files.
+Today, I tried using `aspell` and some not-really-automation to fix about 30 typos in as many files.  (On a Mac, `aspell` can be installed with Homebrew.)
 
 I hope this helps prototype something that might ultimately be packaged more nicely and productively.
 
