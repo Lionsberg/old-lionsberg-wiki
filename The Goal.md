@@ -4,6 +4,6 @@ The Goal refers to the single highest overarching and uniting [[Meta Goal]] that
 
 It can be articulated in terms such as: 
 
-_The total integrated wellbeing, development, and [[Right Relationship]] of [[All]] generations of LIfe._ 
+_The total integrated wellbeing, development, and [[Right Relationship]] of [[All]] generations of LIfe and Consciousness._ 
 
 This is our [[Current Best Understanding]] of the [[Aim]] of the [[One]]. It is the perfect [[Unity]] that lies at the end of the [[Logic of Love]].  
