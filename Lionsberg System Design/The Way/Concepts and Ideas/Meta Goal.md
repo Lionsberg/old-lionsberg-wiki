@@ -10,7 +10,7 @@ Because the word [[Meta]] in the System points towards the [[Absolute]], it is i
 
 It could be described as (something like): 
 
-*The total integrated wellbeing, development, and right relationship of all generations of life.*
+*The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness.*
 
 Making this Goal a Reality would require solving the total set of problems and accomplishing the total set of goals. 
 
