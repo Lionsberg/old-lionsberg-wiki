@@ -1,7 +1,7 @@
 # Organizations The Lionsberg Way
 **Organizations The Lionsberg Way** describes pattens, processes, and tools that help independent and autonomous [[Indivual|Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
 
-We are co-creating these recommendations in concert with various soveriegns in the coalition, and intend to continously improve them to reflect the [[Current Best Understanding]] of the [[Community]].  
+We are co-creating these recommendations in concert with various sovereigns in the coalition, and intend to continously improve them to reflect the [[Current Best Understanding]] of the [[Community]].  
 
 In the context of the [[Lionsberg Integrated Delivery System]], you may also hear Groups or Organizations referred to as Integrated Program Delivery Teams [[IPD Teams]]. These are relatively interchangable [[Word Tool|Word Tools]] meant to point at autonmous groups collaborating in service of a Goal. 
 

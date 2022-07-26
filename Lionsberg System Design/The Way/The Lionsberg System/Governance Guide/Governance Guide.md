@@ -140,6 +140,6 @@ While the [[Old]] authorities are subordinate to us as individuals striving towa
 2. Each individual is [[Organize and Federate|Organizing and Federating]] themselves into Groups, and with the Whole. 
 3. Each Family, Team, Tribe, Organization, Group, and Community is sovereign, autonomous, and responsible for integrating, aligning, and navigating themselves in the [[Wise Right]] Way towards the Goal
 4. Each Family, Team, Tribe, Organization, Group, and Community  is [[Organize and Federate|Organizing and Federating]] with One Another, and the Whole. 
-5. The Whole is itself soveriegn, autonomous, and responsible for integrating, aligning, and navigating itself in the [[Wise Right]] Way towards the Goal. 
+5. The Whole is itself sovereign, autonomous, and responsible for integrating, aligning, and navigating itself in the [[Wise Right]] Way towards the Goal. 
 6. Each individual and element of the System / Community is setting and achieving individual milestones and goals, in service of higher order milestones and goals, that advance the [[Critical Path]] towards the [[Meta Goal]]. 
 7. Each individual and element of the System tracks their goals in the [[Commitment Tracker]]. 

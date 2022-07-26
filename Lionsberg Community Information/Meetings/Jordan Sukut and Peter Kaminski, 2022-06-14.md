@@ -9,7 +9,7 @@
 - [x] Jordan's week
 - [x] There's maybe going to be 1) attention... that needs to get wisely directed towards 2) engagement... directed towards 3) orientation / etc.... towards 4) deepening X.
 
-## Which Soveriegns, When?
+## Which Sovereigns, When?
 
 ### Existing Groups and Sovereigns
 
