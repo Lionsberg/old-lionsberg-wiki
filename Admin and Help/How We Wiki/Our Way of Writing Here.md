@@ -17,16 +17,16 @@ Because Lionsberg is being co-created as a coherent System, words and concepts m
 
 If you were to imagine a community working together to design and build something, you could imagine that every member of the community is always welcomed to speak truthfully and freely and share their own voice, perspective and experience. This can be done in sections of the Wiki that are purpose-built for this, such as the [[People]] pages, and [[Lionsberg Wiki Blogs]] section. These were built so that each individual can freely speak and represent their own best understanding, thoughts, suggestions, etc. 
 
-You could also imagine that if someone changed a definition in the main body of work, or set of plans and specifications, without fully understanding the total philsophy and system architecture, it could potentially "break" the integrity of the system or confuse other co-creators. 
+You could also imagine that if someone changed a definition in the main body of work, or set of plans and specifications, without fully understanding the total philosophy and system architecture, it could potentially "break" the integrity of the system or confuse other co-creators. 
 
 In order to address this, we are using a framework similar to what is used on large scale design build projects. 
 
-### Lionsberg Wiki Blogs
-The [[Lionsberg Wiki Blogs]] section was co-created to create the empowerment and freedom for each individual to speak freely and openly from their own perspective and point of view. In this section, we want to bring forth as much truthful diversity and perspective as possible, and our [[Current Best Understanding]] does not need to be reconciled or cohered. We can simply be free to individually think and speak as accurately as we can. 
+### Lionsberg Wiki Blogs (aka Journals)
+The [[Lionsberg Wiki Blogs]] (aka Journals) section was co-created to create the empowerment and freedom for each individual to speak freely and openly from their own perspective and point of view. In this section, we want to bring forth as much truthful diversity and perspective as possible, and our [[Current Best Understanding]] does not need to be reconciled or cohered. We can simply be free to individually think and speak as accurately as we can. 
 
 If you would like to co-Author or edit another Author's blog, please obtain their consent and approval of any proposed changes. 
 
-In order to preserve the integrity and values of the Lionsberg System and prevent intentional disruption, Lionsberg preserves the right to decide who can establish a blog on the main Lionsberg.Wiki site. 
+In order to preserve the integrity and values of the Lionsberg System and prevent intentional disruption, Lionsberg reserves the right to decide who can establish a blog on the main Lionsberg.Wiki site. 
 
 ### Lionsberg Wiki Books
 The [[Wiki Book Template|Wiki Books]] section was co-created to empower individuals to bring forth more formalized, coherent, and persistent bodies of work. Like blogs, these books do not speak from the voice of Lionsberg as "we", and therefore do not necessarily need to reflect the collective best understanding. They can freely speak from the voice of each author. 
