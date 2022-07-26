@@ -36,6 +36,8 @@ Lastly - I fully recognize that there are A LOT of people out there working on s
 
 This is going to be fun! Let's Co-Create and Play The Game! 
 
+If / as we succeed, this could create full time work for a LOT of people... 
+
 With Love, In Community, 
 
 ~ J 
