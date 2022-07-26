@@ -105,7 +105,7 @@ And then, then, when the team says okay, i'll do that by this date they have a c
 - Failure modes of large platforms
     - Google decides what is allowable
     - Government decides
-    - Acquition... 
+    - Acquisition... 
     - Solar storms take out electronics... 
     - This tech does not require a functioning cloud. 
     - Does not require internet... 
@@ -369,7 +369,7 @@ See Mountain Goat Software, [User Stories and User Story Examples by Mike Cohn](
 - In the Lionsberg System, commitments are made as a TEAM. 
 - Inside of the Team, rich internal human dynamics determine how things get done or not. 
 - Teams self select, and teams have a duty to elevate and transform towards thier potential, including changing the team as required. 
-- The System relies on strong Teams to autonomouosly govern themselves. 
+- The System relies on strong Teams to autonomously govern themselves. 
 - This couples with a [[Zero Blame Environment]] to ensure that the weight of the project doesn't rest on any one individual or team, but on the entire [[Team of Teams]]. 
 
 

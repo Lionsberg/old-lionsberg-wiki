@@ -12,7 +12,7 @@ The vast majority of the work and relationship in the community is created asych
 
 To stay connected, please engage in at least one small team or group that you are passionate about. See [[Forging Or Joining A Team]] and [[Organizations The Lionsberg Way]]. 
 
-## Attendence 
+## Attendance 
 Everyone is welcome to be in Community in whatever ways they are most comfortable. Engage as much as you would like, and don't overwhelm yourself. 
 
 Meetings will be broadcast and can be watched live by anyone with an internet connection. Meetings can be joined "live" by those who have agreed to the [[Provisional Community Agreement]].  

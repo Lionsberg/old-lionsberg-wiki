@@ -20,7 +20,7 @@ Our [[Current Best Understanding]] of the [[Wise Right]] [[Way of Being]] is tha
 2. All ideas and thought generated in partnership is for the common the good and will be stewarded as part of the Commons. Until a successor agreement is developed, the Creative Commons license at the bottom of this web page will apply. 
 3. All official meetings will be recorded, broadcasted and otherwise used as part of the [[Lionsberg Media Project]] to engage hearts, minds, and momentum around the world.  
 4. If individuals wish to discuss non-public or proprietary information, individuals should set up separate forums for those discussions. 
-5. All Teams / Groups we co-create will devote approximately 1/10th of their avaiable [[Flow]] of time and resources to co-creating the shared infrastructure, resources, and services that lift up [[All]]. 
+5. All Teams / Groups we co-create will devote approximately 1/10th of their available [[Flow]] of time and resources to co-creating the shared infrastructure, resources, and services that lift up [[All]]. 
 6. All shared infrastructure, resources, and services will be stewarded and continously improved as part of the multi-generational Commons. 
 
 ## Basic Structure and Development

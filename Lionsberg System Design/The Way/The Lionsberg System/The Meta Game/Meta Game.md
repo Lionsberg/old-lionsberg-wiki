@@ -24,7 +24,7 @@ The purpose / intention of the game is to empower everyone, everywhere to begin 
 
 ## Place in the Lionsberg System
 
-Whereas the Lionsberg | [[Meta Project]] was designed to be a more rigorous and technical view of the total program of action required to solve the grand challenges and accompish the global goals...
+Whereas the Lionsberg | [[Meta Project]] was designed to be a more rigorous and technical view of the total program of action required to solve the grand challenges and accomplish the global goals...
 
 ...the [[Meta Game]] is intended as an accessible entry point for any child, family, or playful adult. It helps solve the core requirement that the platforms and infrastructure of the New World reach out and are accessible to every being on earth, without exception, regardles of their background of current [[State of Being]]. 
 
@@ -182,7 +182,7 @@ The team would "pay out" 1,600 Units of [[Time Currency]] to the team members, a
 ## Time Currency x Fiat Currency Interface 
 Because Time Currency can only be exchanged between those playing the Game, a [[Time Currency x Fiat Currency Interface]] will need to be established. 
 
-This Interface will need to allow for Individuals and Teams to exchange some percentage of the [[Time Currency]] they earn for Fiat Currency so that they can acquire goods, services, and provisions that are not avaiable within the Game. 
+This Interface will need to allow for Individuals and Teams to exchange some percentage of the [[Time Currency]] they earn for Fiat Currency so that they can acquire goods, services, and provisions that are not available within the Game. 
 
 REMEMBER - Whenever possible, a Team should be established _within_ the Game to meet whatever need or solve whatever problem is forcing an Individual or Team to to exhange Internal Currency for External Currency. 
 
@@ -191,7 +191,7 @@ The technical reason for this relates to the [[Velocity of Currency]] within the
 Currency can be exchanged via the [[Lionsberg Central Bank]].  
 
 ## Flow and Velocity of Currency Within the System
-When [[Time Currency]] is earned within the Game, and Spent within the Game, it is gauranteed to return much faster to the spender, leading to ever greater abudnance and exchange between Agents in the Game. 
+When [[Time Currency]] is earned within the Game, and Spent within the Game, it is gauranteed to return much faster to the spender, leading to ever greater abundance and exchange between Agents in the Game. 
 
 When [[Time Currency]] is exchanged for [[Fiat Currency]] and leaves the System, the Energy associated with that unit of Value is dissipated into the [[Old World]], where it will be very difficult to recover it from. 
 
@@ -330,14 +330,14 @@ This [[Universal Scenario Modeling]] capability forms a critical companion eleme
 
 Understanding the different outcomes that various potential paths of action and ways of being might lead to will be critical to determing the [[Critical Path]] / [[Critical Chain]] that informs what Work is [[Meaningful Work|Meaningful]].  
 
-No later than 2025, the next versions of Artificial Intelligence and Web 3 / 4 / 5 applications should be avaiable, that when coupled with a massive program of [[Citizen Science]] executed by Agents in the Game, should enable this [[Universal Scenario Modeling]] to be conducted in [[Realtime]] based on actual on the ground conditions around the world. 
+No later than 2025, the next versions of Artificial Intelligence and Web 3 / 4 / 5 applications should be available, that when coupled with a massive program of [[Citizen Science]] executed by Agents in the Game, should enable this [[Universal Scenario Modeling]] to be conducted in [[Realtime]] based on actual on the ground conditions around the world. 
 
 We anticipate that the stewards of bodies of work such as those of Buckminister Fuller and various universities will want to participate in this co-creation. 
 
 And we anticipate that it ultimately will be what allows the elected leaders of all nations and institutions to make [[Wise Right]] decisions that advance the populations they serve, and All, towards [[The Goal]]. 
 
 ## Saving The World 
-It may be that rigorous [[Universal Scenario Modeling]] could be the means through which various Actors around the world could evaluate all the different pathways avaiable to us a Human Species aboard [[Vessel: Earth]], choose the [[Best And Highest]] One, and then have a logical [[Network of Commitments]] that could be progressively implemented and measured through the [[Meta Project]] and [[Meta Game]] frameworks to accomplish of the [[Total Nested Hierarchy of Goals]] implied.
+It may be that rigorous [[Universal Scenario Modeling]] could be the means through which various Actors around the world could evaluate all the different pathways available to us a Human Species aboard [[Vessel: Earth]], choose the [[Best And Highest]] One, and then have a logical [[Network of Commitments]] that could be progressively implemented and measured through the [[Meta Project]] and [[Meta Game]] frameworks to accomplish of the [[Total Nested Hierarchy of Goals]] implied.
 
 ## Why This Matters / What This Makes Possible If It Succeeds
 If it was possible to design a Game that could expand at that rate, it would empower every individual on earth to progressively rise towards their potential by engaging in the most meaningful work they could negotiate, for the benefit of All. 
@@ -345,7 +345,7 @@ If it was possible to design a Game that could expand at that rate, it would emp
 Combined with the in-breaking new superpowers of technology, this could create a level of abundance and standard of living that was better for All than Any has enjoyed in the past. 
 
 ## What Is At Risk If It Fails
-If we cannot get the world to aggree on a mission and values driven New Game, we are doomed to another cycle of warfare and conflict, this time with every more powerful tools and technology that will make the destruction of the past look elementary. 
+If we cannot get the world to agree on a mission and values driven New Game, we are doomed to another cycle of warfare and conflict, this time with every more powerful tools and technology that will make the destruction of the past look elementary. 
 
 There is a very real and non-zero probability of a significant collapse of life and society if this, or something like it but better, does not succeed. 
 

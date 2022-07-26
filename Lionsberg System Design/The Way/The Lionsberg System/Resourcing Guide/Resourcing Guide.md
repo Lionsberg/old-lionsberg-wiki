@@ -58,7 +58,7 @@ A massive and positive change is required.
 Seeing the chaotic and disconnected array of efforts, and understanding that resources must be applied to solutions that are actually powerful enough to meaningfully move the needle and shift the trajectory, philanthropic capital is increasingly growing frustrated with the lack of high quality impact investment opportunities. 
 
 ### Investment Capital
-Recognizing that they cannot keep fueling extractive economic systems that are antithetical to our goals and values, investment capital is increasingly growing frustrated with the lack of high quality investments opportunities into projects and organizations that advanding life on earth towrds flourishing. 
+Recognizing that they cannot keep fueling extractive economic systems that are antithetical to our goals and values, investment capital is increasingly growing frustrated with the lack of high quality investments opportunities into projects and organizations that advancing life on earth towrds flourishing. 
 
 ### Endowment Capital 
 
@@ -149,7 +149,7 @@ The important note is that they are interoperable, created to function together,
 ## The Meta Fund
 The [[Meta Idea]] that is expressing itself through Lionsberg and the [[Meta Project]] and surrounding network of networks is that we are all working in service of a single overarching and uniting [[Meta Goal]]. 
 
-Our unique named expressions, skills, platforms, networks, focuses, and passions are elements of something larger than any of us, which is the collective ethical imperative of every human being on earth to do their aboslute best to rise and meet this moment in history. 
+Our unique named expressions, skills, platforms, networks, focuses, and passions are elements of something larger than any of us, which is the collective ethical imperative of every human being on earth to do their absolute best to rise and meet this moment in history. 
 
 In the same we can view our diverse array of unique organizations, networks, and projects as a single uniting [[Meta Project]] that we should coordinate and succeed in... 
 
@@ -165,7 +165,7 @@ There is a total set of resources available to meet this moment in history, and 
 ### What If... We Were To [[Act As If]] It Were True? 
 So what would it look like IF... we were to [[Act As If]] we were All stewards of a part of something far greater than any of us, and recognize that it was our ethical obligation to coordinate and apply the resources that God / the Universe / Humanity has entrusted us with? 
 
-_There is an ancient story about man very rich man who was about to go on a long journey. So he called his staff together gave them charge over all his possessions. As stewards of possessions that belong to another, they are charged with taking care of them, increasing them, and striving to do with them what the Owner would do were he present. To one person he gave $50, to another he gave $500,000, to another he gave $500 Million, and to another he gave $50 Billion. To each one, he gave according to their own ability. Having entrusted them with the resources, and instructed them to do their best to accompish his goals, he left and went on his journey._ 
+_There is an ancient story about man very rich man who was about to go on a long journey. So he called his staff together gave them charge over all his possessions. As stewards of possessions that belong to another, they are charged with taking care of them, increasing them, and striving to do with them what the Owner would do were he present. To one person he gave $50, to another he gave $500,000, to another he gave $500 Million, and to another he gave $50 Billion. To each one, he gave according to their own ability. Having entrusted them with the resources, and instructed them to do their best to accomplish his goals, he left and went on his journey._ 
 
 _The one he gave $500,000 to immediately went out and did business with the resources, and created another $500,000 in Value. In the same way, the one who was entrusted with $50 Billion went out and created another $50 Billion in Value, and the one who was entrusted with $500 Million went out and likewise doubled the Value. However the one was entrusted with $50 went out and dug a hole, and buried the money in the ground._ 
 

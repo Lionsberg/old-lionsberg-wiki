@@ -69,7 +69,7 @@ Beyond our own experience with church and County governance, new evidence is sur
 
 In our own story, after 150 families lost their livlihoods and we lost our wealth, home, spiritual community, and reputation standing up to corrupt actors, we were unable to approach even the outer fringes of Justice through the mandatory mediation processes with Church and State. Not surprisignly, our experience is that bad actors do not operate in good faith. The good news is that our naivete has now been shattered entirely and we are more prepared and awake than ever for the battles that lie ahead. 
 
-This week marks a milestone decision as the statue of limitations approachs, and we decide in the wake of failed mediation whether and how to leverage the existing systems of justice.
+This week marks a milestone decision as the statue of limitations approaches, and we decide in the wake of failed mediation whether and how to leverage the existing systems of justice.
 
 The reality is that thousands of cases like ours, and far more significant, will have to be litigated in order to get corrupt and bad actors to cease their exploitation of the earth and its inhabitants. 
 

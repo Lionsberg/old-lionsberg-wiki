@@ -14,7 +14,7 @@ After decades building infrastructure and superstructure for humanity, we have r
 
 We spent a few lifetimes thinking about the state of our world, this moment in history, what needed to be done, and what was required of us relative to it all. 
 
-We spent the last few years gathering together the wisest people we could find to co-create a solution audaceous enough that [[It Might Work]]. 
+We spent the last few years gathering together the wisest people we could find to co-create a solution audacious enough that [[It Might Work]]. 
 
 We brought together lifetimes of work and insight to create what we hope will be a comprehensive solution capable of uniting humanity to: 
 

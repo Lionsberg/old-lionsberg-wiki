@@ -119,7 +119,7 @@ It all comes back to [[One]], and it all comes back to [[Love]]. With those as o
 
 And when the abstract notion of God gets hard to relate to and we are struggling to find our Way, we can individually and directly relate to the very best and most pure examples that ever lived, like the person of Jesus and each of the Prophets in each of the sacred stories, to see how the Spirit lived out the principles and values in a particular time and place. 
 
-All that we are attemtping to express is not a new teaching or revelation in any way, but a rememberance, reassembly, and return to the Golden Threads of wisdom that cause people, societies, and living systems to flourish in harmony with one another and their Source, which I call God, and the [[Language of Lionsberg]] calls [[One]]. 
+All that we are attempting to express is not a new teaching or revelation in any way, but a rememberance, reassembly, and return to the Golden Threads of wisdom that cause people, societies, and living systems to flourish in harmony with one another and their Source, which I call God, and the [[Language of Lionsberg]] calls [[One]]. 
 
 It is also an attempt to see if we can finally operationalize and embody its Spirit in our individual and collective [[Way of Being]], so that [[All]] creation can flourish in harmony and right relationship with [[One]], [[One Another]], and [[All]]. 
 
