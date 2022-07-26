@@ -291,7 +291,7 @@ The total Value stewarded by the Lionsberg Sovereign Wealth Fund, divided by the
 
 However unlike the Old System, in which wealth was hoarded by individuals, in the New System wealth will be represented by rapidly circulating [[Time Currency]] that is used to unlock abundance, meet needs, and solve problems for All. 
 
-### Protecting The Soveriegn Wealth Fund
+### Protecting The Sovereign Wealth Fund
 As assets in the Sovereign Wealth Fund grow, it may become a massive target for Actors in the Old World who are still vying for thier own wealth, positions, and power. 
 
 The Sovereign Wealth Fund should, therefore, while remaining entirely unified and interoperable, be aggregate in an entirely distributed-yet-coordinated-and-interoperable way. 
