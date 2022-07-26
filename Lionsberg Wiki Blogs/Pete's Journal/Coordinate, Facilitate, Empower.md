@@ -1,6 +1,6 @@
 # Coordinate, Facilitate, Empower
 
-_a post in [[Thoughts Blog by Peter Kaminski]]_
+_a post in [[Pete's Journal]]_
 
 by [[Peter Kaminski]], 2022-07-20
 

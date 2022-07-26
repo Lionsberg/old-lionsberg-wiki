@@ -1,6 +1,6 @@
-# Thoughts Blog, reflections on self
+# Pete's Journal, reflections on self
 
-_a post in [[Thoughts Blog by Peter Kaminski]]_
+_a post in [[Pete's Journal]]_
 
 by [[Peter Kaminski]], 2022-06-18
 
