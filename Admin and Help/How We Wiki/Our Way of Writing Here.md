@@ -116,9 +116,10 @@ If you want multiple lines not parsed and in monospaced font, use three backtick
 - Incipient Links - links to things that don't exist yet... are just as important as a page. You can make them, without stopping your train of thought, and they will be there as placeholders. 
 	- Obsidian knows a link that doesn't exist is still a link. 
 	- If you click on the [[Incipient Link]], then the page exists. 
-- Hashtags - #hashtag - 
+- Hashtags - #hashtag
 - Over time, we need to evolve towards both the right kinds of hierarchy and linking, and have wiki gardeners develop guidance nodes, jump pages, and other tools. 
 - Table of contents page, and jump page are similar. 
-- [[wiki link]]
-- [external link to somewhere on the web](https://www.example.com/)
+- [[wiki link]] = `[[wiki link]]`
+- [external link to somewhere on the web](https://www.example.com/) =  `[external link to somewhere on the web](https://www.example.com/)`
+- For a bare URL, use angle brackets around it, `<https://example.com/>` or `<mailto:someone@example.com>`. Without angle brackets, some wiki clients will make it a live link, and some won't.
 
