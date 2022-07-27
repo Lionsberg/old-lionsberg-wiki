@@ -6,7 +6,7 @@ Therefore the **Meta Goal** is the highest universal overarching and uniting "Go
 
 The idea of the **Meta Goal** is critical because it provides a framework in which to stack up and align our individual goals, with the goals of the various things we participate in, with the **Meta Goal** that is big enough to unite [[All]].  
 
-Because the word [[Meta]] in the System points towards the [[Absolute]], it is intentionally not concretized. This is to avoid [[Pattern of Failure]] that occurs when we [[Concretizing The Absolute|Concretize The Absolute]]. 
+Because the word [[Meta]] in the System points towards the [[Absolute]], it is intentionally not concretized. This is to avoid the [[Patterns of Failure|Pattern of Failure]] that occurs when we [[Concretizing The Absolute|Concretize The Absolute]]. 
 
 It could be described as (something like): 
 

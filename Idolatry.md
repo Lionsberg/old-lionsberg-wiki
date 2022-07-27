@@ -1,5 +1,5 @@
 # Idolatry
-Idolatry refers to the [[Sin]] / [[Pattern of Failure]] of [[Concretizing The Absolute]]. 
+Idolatry refers to the [[Sin]] / [[Patterns of Failure|Pattern of Failure]] of [[Concretizing The Absolute]]. 
 
 In other words, creating something (a form, an image, a set of propositions), and setting those up in place of the [[One]]. 
 
@@ -9,4 +9,4 @@ In the [[Lionsberg System]], the [[One]] Ultimate Reality That Creates and Susta
 
 [[Knowledge]] in the System is organized through the lens of a [[Meta Science]] that reflects our [[Current Best Understanding]], with the humble acknowledgement that it is partial and incomplete at best. 
 
-Grappling with the [[Absolute]] as a eternal and ineffable mystery, while still aiming at it and trying to [[Get A Little Better Every Day]] as we progress towards It, is the antidote to the [[Pattern of Failure]] of Idolatry. 
+Grappling with the [[Absolute]] as a eternal and ineffable mystery, while still aiming at it and trying to [[Get A Little Better Every Day]] as we progress towards It, is the antidote to the [[Patterns of Failure|Pattern of Failure]] of Idolatry. 

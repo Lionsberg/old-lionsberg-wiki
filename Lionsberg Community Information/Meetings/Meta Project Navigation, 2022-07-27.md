@@ -2,7 +2,6 @@
 
 Collaborative note taking
 
-
 ## Issues
 
 - Bring in more project management v deeper dive on discernment and community building

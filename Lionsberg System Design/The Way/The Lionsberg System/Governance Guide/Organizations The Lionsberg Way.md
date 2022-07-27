@@ -89,7 +89,7 @@ A typical progressive formalization pattern might be:
 In each case, the key is to start small and interate towards increasing proficiency and maturity. 
 
 ### Co-Create It In The Open
-We would recommend the steps above be followed so that it gets the green shoot of what is emerging above the ground where others can see it and help cultivate it if they are interested. A [[Pattern of Failure]] is to try to secretly perfect things in isolation. A [[Pattern of Success]] is to rapidly iterate and collaborate in the open. 
+We would recommend the steps above be followed so that it gets the green shoot of what is emerging above the ground where others can see it and help cultivate it if they are interested. A [[Patterns of Failure|Pattern of Failure]] is to try to secretly perfect things in isolation. A [[Patterns of Success|Pattern of Success]] is to rapidly iterate and collaborate in the open. 
 
 ## How to Operate and Organization
 
