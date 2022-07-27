@@ -1,5 +1,19 @@
 # Meta Game
-## Introduction
+The word [[Meta]] as it is used in the [[Lionsberg System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
+
+Therefore the **Meta Game** is the highest universal overarching and uniting "Game of games", that by definition contains within itself and orders all other possible games.
+
+The idea of the **Meta Game** is critical because it provides a framework in which to stack up and align our individual Games with the **Meta Game** that is big enough to unite us [[All]].  
+
+Success in the Meta Game is measured in terms of progress towards the [[Meta Goal]].  
+
+Below is a _starting point_ / conceptual design for how we might attempt to instantiate / act out a continuously improving version of the Meta Game. 
+
+To avoid [[Concretizing The Absolute]], we call it the Lionsberg | Meta Game to differentiate it from the Absolute concept. 
+___
+# The Lionsberg | Meta Game
+
+## Introduction  
 Over the past years, it has become obvious that in addition to the [[Meta Project]] framework a [[Meta Game]] is also trying to emerge. 
 
 Like the [[Meta Project]], no one "owns" the universal and eternal Meta Game that we are all trying to discover / embody / act out together. 

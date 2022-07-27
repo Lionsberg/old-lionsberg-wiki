@@ -18,7 +18,7 @@ If you haven't seen it yet, you may want to spend a few minutes to read a simple
 The Meta Story is intended to begin laying out an overarching and uniting story of [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and [[Why]] it all matters. 
 
 ## The Meta Project | The Meta Quest
-The [[Meta Idea]] is that we are [[All]] here to work together towards something that is bigger than Any of us. 
+The [[Meta Idea]] is that we are [[All]] here to work together towards something that is bigger than Any of us, and unites us All. 
 
 We are each working on various important projects. Yet at the same time, the total set of all human endeavor on planet earth could be viewed in the context of a single overarching and uniting program of action we could call the [[Meta Project]]. 
 
@@ -28,14 +28,8 @@ The thing about the conceptual [[Meta Project]] | [[Meta Quest]] | [[Meta Game]]
 
 By being aliving, being, and doing, we are all inextricably engaged in the total program of human action at this moment on planet earth. The only question is how Consciously and Competently we are participating in it. 
 
-Lionsberg is simply a mythical place in which we can begin to weave together and align our stories, and learn how to [[Act As If]] the [[Meta Idea]] were True. 
-
 ## Your Story and Your Quest
 Now that you have roughly oriented yourself to the [[Meta Idea]], let's bring it right back down to where the rubber meets the road in your own life and your own story. 
-
-Understanding who *you* are, where *you* are, how *you* got here, where *you* are going, and why it all matters... 
-
-...is just as important as understanding [[Who We Are]], [[Where We Are]], [[How We Got Here]], [[Where We Are Going]], and [[Why]] it all matters. 
 
 Our ability to work together and [[Help One Another]] is directly dependent upon our ability to align our stories, our quests, and our goals in the overarching and uniting [[Meta Story]], [[Meta Quest]], and [[Meta Goal]]. 
 
