@@ -18,3 +18,9 @@ I have not yet found the wise right time or words to fully articulate my thought
 If others sensing this same aspect of Reality would be willing to do some hard work to increasingly help articulate this, I would be grateful. 
 
 For now, we can rest assured that the tension we are sensing and leaning into is absolutely central to the emergence of New Life... and our job is to [[All]] hold fast to the Centerline with all our might... 
+
+When something this powerful is emerging, the _only_ peaceful place will be _directly_ in the Center. 
+
+In my Mind I am envisioning a Standard or Pole, as faithfully and foundationally planted in the Center and Source as we can possibly muster, that anyone caught out in the Chaos of the storm can rally to, and find Community, comfort, peace, and joy as we dwell securely and at ease in the eye of the storm. 
+
+How faithfully can we forge such an Standard? 

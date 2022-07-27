@@ -47,16 +47,26 @@ This relates to the fundamental [[Reciprocal Opening]] that is occuring between 
 ### Values 
 Generally, these explicit and implicit Codes relate to [[Values]]. 
 
-There are certain sets of behaviors that bring forth that which the Community Values - perhaps comprising the basic [[Pattern of Success]] / [[Patterns of Life]] that the Community believes brings forth that which is views as [[Good]] or [[Better]]... 
+There are certain sets of behaviors that bring forth That Which The Community Values.
 
-... and the basic [[Patterns of Failure]] / [[Patterns of Death]] that the Community believes brings forth that which it views as [[Anti-Good]] or [[Worse]]. 
+These sets of behaviors can forge more of less complete [[Pattern Language|Pattern Languages]] that any member of the Community can instantiate / embody in their own time and space. 
 
-What constitutues [[Good]] is what the Community [[Values]]. 
+The total set of All members of the Community acting out the Code / Pattern simultaneously is what creates a cohesive, integrated, and well-ordered society. 
+
+Generally Values are defined on two poles, Values, and [[Anti-Values]]. 
+
+The Patterns associated with bringing forth [[That Which The Community Values]] can be thought of as [[Patterns of Success]] / [[Patterns of Life]]... 
+
+...and the Patterns associated with bringing forth That Which The Community Does Not Value can be thought of as [[Patterns of Failure]] / [[Patterns of Death]]. 
+
+The [[Patterns of Success]] bring forth that which the Community views as [[Good]] or [[Better]]... 
+
+The [[Patterns of Failure]] bring forth that which the Community views as [[Anti-Good]] or [[Worse]]. 
 
 ### Universal Values
 Across time and space, a core set of Universal Values has emerged. 
 
-### The Code
+### The Meta Code
 Because Values are abstract
 
 ## Universal Values 
