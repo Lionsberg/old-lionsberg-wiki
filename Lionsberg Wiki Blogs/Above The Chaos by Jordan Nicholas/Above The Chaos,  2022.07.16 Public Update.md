@@ -1,5 +1,5 @@
 # Above The Chaos,  2022.07.16 Public Update
-By [[Jordan Nicholas Sukut]], 2022.07.16 _(updated 2022.07.16)_
+By [[Jordan Nicholas Sukut]], 2022.07.16 _(updated 2022.07.28)_
 
 A post in [[Above The Chaos By Jordan Nicholas]].
 
@@ -86,14 +86,8 @@ For now, all resources and efforts are being directed to building the thought, i
 
 **Action**: We will soon begin to assemble a political exploratory / advisory committee and resources in preparation for 2024 - if you would like to engage with us on the political fronts of battle, please reach out and let me know. 
 
-## None of This Can Succeed, Unless It All Succeeds
-There is nothing in our backgrounds that demonstrates our qualifications for any of this. 
-
-No part of this plan of action can succeed, unless it all succeeds simultaneously and in parallel. 
-
-It might not work. 
-
-The only way this will work is if, over the next 24 months, we collectively demonstrate the ability to partner with God to help the global community of goodwill recognize and organize itself under the One Thing that unites us All. 
+## It Might Work 
+This might work. It might not work. But we still remain convinced we have to at least try. 
 
 If we can help inspire a global community to design and build _itself_, together we will be able to accomplish every other thing that must logically follow. 
 
