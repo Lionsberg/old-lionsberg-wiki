@@ -7,6 +7,7 @@ During our early phase, we are putting most of our effort into creating groups t
 4. [[Certification]] of ability to contribute  
 5. [[Metrics of Progress and Contribution]]  
 6. Coordination of [[Funding Group|funds]]  
+7. Easily navigable [[Hierarchies of Data|graph of hierarchal data]]  
 
 ##### A pull plan might look like this
 Our end goal: We possess billions of dollars and have hundreds of projects and thousands of people in coordinated action solving all the hard problems. This pulls in the need for a compelling funding invitation, articulation of those hard problems and the projects working to resolve them, assignment of people to projects, metrics of progress. These needs pull for a well organized repository of all relevant data and description that is easy to browse and where nothing is hidden, a core team whose members will assure smooth functioning, resolve issues and workaround obstacles. 
