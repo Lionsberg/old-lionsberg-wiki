@@ -8,4 +8,6 @@ Perhaps what unites us is (something like) Life and its Source. Perhaps it is (s
 
 *The total integrated wellbeing, development, and right relationship of All generations of Life and Consciousness.*
 
-What if we All actually worked together and helped One Another towards that Goal? It would require that we 1) solve the total set of grand challenges 2) accomplish the total set of global goals, and 3) forge the [[Best Possible Future]] for all. 
+What if we All actually worked together and helped One Another towards that Goal? It would require that we 1) solve the total set of grand challenges 2) accomplish the total set of global goals, and 3) forge the [[Best Possible Future]] in partnership with [[One]] and [[All]]. 
+
+The [[One Thing]] is [[One]] and [[All]]. 
