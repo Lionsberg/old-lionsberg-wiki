@@ -1,4 +1,8 @@
-# Hello Capital 
+# Above the Chaos, Hello Capital 
+By [[Jordan Nicholas Sukut]], 2022.07.30 _(updated 2022.07.30)_
+
+A post in [[Above The Chaos By Jordan Nicholas]].
+
 This post is written to lay down some opening thoughts on [[Capital]], specifically as it relates to the [[Meta Crisis]] and the [[Meta Project]].  
 
 In the same way that the total set of all human activity that is succeding or failing in its Quest towards the [[Meta Goal]] can be considered as one overarching and uniting [[Meta Project]]... 
@@ -173,7 +177,11 @@ As Requests for Payment based on [[Value Creation]] are made monthly to the memb
 #### Step 5: Incrementally Release Resources to Fund Value Creation That Advances The Critical Path, Incrementally Remove Resources from activity that produces Waste
 Work with other members of the [[Meta Fund]] and the [[Meta Community]] to 
 
+## Conclusion 
+That's all for now. If you would like to help develop the [[Meta Fund]] or the [[Lionsberg System]], please reach out and let's design and build together. 
 
+#### p.s. 
+p.s. - if you are interested, start thinking about the concepts of [[Time Currency]] and [[Time Price]] in a [[New World]] that has advanced beyond the artificial scarcity created by fiat currencies in the [[Old World]]. 
 
 [[Time Price]] - The amount of time that a person must work to earn enough [[Time Currency]] to acquire something. 
 

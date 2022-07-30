@@ -10,6 +10,7 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 
 ## July 2022
 
+- [[Above the Chaos, Hello Capital]]  
 - [[Above the Chaos, Learning and Education]]  
 - [[Above The Chaos, Reciprocal Opening]]  
 - [[Above The Chaos, The Best Possible Future]]  
