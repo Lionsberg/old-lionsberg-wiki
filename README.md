@@ -21,7 +21,7 @@ Feel free to explore, recognizing that everything here is being built live and t
 ## Lionsberg Community Information
 - [[Frequently Asked Questions]]  
 - [[Groups]]  
-- [[People]]  
+- [[Membership]]  
 - [[Meetings]] - A growing repository of meeting notes and recording links. 
 - [[Community Schedule]] - Draft for Review 
 
