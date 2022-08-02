@@ -97,4 +97,5 @@ All of us working together to operationalize the [[Meta Project]] are gradually 
 
 **possible existing tools**
 
-[Nolt](https://nolt.io/) (crap name and minimum $25 / month) <a data-nolt="button" href="https://meta-project.nolt.io">Click here to try a Meta Project Nolt entry form</a><script async src="https://cdn.nolt.io/widgets.js"></script>
+- [Nolt](https://nolt.io/) 
+	- (crap name. and minimum $25 / month) <a data-nolt="button" href="https://meta-project.nolt.io">Click here to try a Meta Project Nolt entry form</a><script async src="https://cdn.nolt.io/widgets.js"></script> it deals with dependencies very poorly and consequently no hierarchy graph. i cannot recommend it.
