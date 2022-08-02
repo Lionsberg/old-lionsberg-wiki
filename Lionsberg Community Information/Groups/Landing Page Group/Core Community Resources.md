@@ -13,7 +13,7 @@ Our initial core community resources are:
 	1. Audio recording and transcript
 	2. Chat
 	3. HackMD meeting notes
-4. [[Mattermost channels]]  
+4. [[Mattermost Channels]]  
 5. External material
 	1. Websites
 	2. DocumentsMEta
