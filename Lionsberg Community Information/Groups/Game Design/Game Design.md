@@ -12,7 +12,7 @@ This page can become an invitation to all people who want to build something and
 ## Must-Have Attributes
 As a guide to our design, I propose that the following be built-in at the core of our game, and apparent at every level. Challenges, additions, likes, welcome. 
 
-- [[#Fun]]  
+- [[Game Design#Fun]]  
 - [[#Meaningful]]  
 - [[#Useful Skills]]  
 - [[#Relationships]]  
