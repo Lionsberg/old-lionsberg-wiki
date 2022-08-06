@@ -23,7 +23,7 @@ As a guide to our design, I propose that the following be built-in at the core o
 Scientific experiments have concluded that people of all ages are more productive when what they are doing is fun.
 
 ### Meaningful
-Most games are mearly entertaining or occasionally educational. What can set our game apart is that it means something to the player to play it. Meeting and collaborating with other players, solving real-world problems, learning skills rarely taught in our education system.
+Most games are merely entertaining or occasionally educational. What can set our game apart is that it means something to the player to play it. Meeting and collaborating with other players, solving real-world problems, learning skills rarely taught in our education system.
 
 ### Useful Skills
 Our education system, with its origins in training soldiers and clerks, has mostly failed to teach us to think, collaborate, empathize, or communicate. This is a rather large opportunity for us tt
