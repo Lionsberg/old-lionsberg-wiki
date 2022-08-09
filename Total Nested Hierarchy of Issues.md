@@ -39,3 +39,5 @@ If we developed [[General Solutions]] to these issues, problems, and challenges 
 The Total Nested Hierarchy of Issues gives rise to a [[Total Nested Hierarchy of Goals]]. Goals are the positive expression of what can or should be done in response to the problems or desires we are facing. 
 
 The [[Meta Project]] and [[Meta System]] exist to ensure that this [[Total Nested Hierarchy of Goals]] is accomplished for the Good of All. 
+
+The [[Lionsberg System]] is being co-created to instanitate / embody these solutions. 
