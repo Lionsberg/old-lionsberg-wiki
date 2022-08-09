@@ -26,11 +26,13 @@ This is not an Absolute list, but the general themes are obvious. If we loved so
 22. Weak / corrupt institutions  
 23. Lack of coherence, cooperation, and continuity 
 
+These issues, and their corresponding Goals, have been nearly universally validated by 193 nations and the vast majority of international organizations and institutions through frameworks such as the United Nations Sustainable Development Goals. 
+
 If we look at any Organization, we could develop a similar hierarchy of issues. 
 
 If we look at any Individual, we could develop a similar hierarchy of issues. 
 
-In short, a heart of Love would want for all things to develop into the fullness of thier Potential and Flourish in Harmony. 
+In short, a heart of Love would want for all things to develop into the fullness of their Potential and Flourish in Harmony. 
 
 The vast majority of Issues that any Individual, Organization, or Community faces are [[General Issues]] and [[General Problems]] common to All. 
 
