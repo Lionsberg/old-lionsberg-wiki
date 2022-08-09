@@ -2,6 +2,8 @@
 
 There is no Way around it. The root cause of all the unnecessary corruption, suffering, and injustice is our [[Way of Being]] as a human species on planet earth. 
 
+The only Way to transform suffering, and accomplish our uniting [[Meta Goal]], is to transform our [[Way of Being]]. 
+
 When our Way of Being is spiraling us down towards failure, it is wise to transform our Way, and therefore our trajectory, and therefore our [[Destiny]]. It is the Way we attain a future that is as close to heaven as possible, and avoid a future that is something like hell. 
 
 The good news is that in partnership with [[One]] and [[One Another]], we can change our Way. 
@@ -17,10 +19,11 @@ Until we have something better in place, here are some starting points that begi
 ## Intention, Vision, and Goal
 Without a shared intention, vision, and goal, it will be impossible to align our Selves and move together.  
 
-- [[Provisional Declaration]]  - A very basic articulation 
+- [[Provisional Declaration]]  - A very basic articulation  
+- [[Best Possible Future]] - Includes a working Vision  
 
 ## Individual Resources
-- [[Your Starting Point]] - Work in progress  
+- [[Your Starting Point]] - Work in progress   
 - [[Your Team]] - Work in progress  
 - [[Your Story]] - Work in progress  
 - [[The Power of Today]]  - Work in progress  
