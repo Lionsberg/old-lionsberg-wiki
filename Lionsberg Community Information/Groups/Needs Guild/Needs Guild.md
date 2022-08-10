@@ -13,7 +13,7 @@ Throughout the lifetime of building anything, needs arise and are fulfilled. A n
 
 ### owner
 
-A need has two owners: the stakeholder and the fulfillment team. Anyone or any team can select a need, promising to fulfill it. A need can be worked on in a variety of ways. It can be assessed for (and committed according to) time and broken down into sub-needs, resources, and milestones. Progress, designs, decisions, and other activities can be reported within a need. Each of these will be date stamped, including duration.  
+A need has two owners: the spokesperson and the fulfillment team. Anyone or any team can select a need, promising to fulfill it. A need can be worked on in a variety of ways. It can be assessed for (and committed according to) time and broken down into sub-needs, resources, and milestones. Progress, designs, decisions, and other activities can be reported within a need. Each of these will be date stamped, including duration.  
 
 ### tasks
 
@@ -60,13 +60,19 @@ Let’s say that the effort of meeting the conditions of satisfaction are discov
 
 Doing this kind of back and forth with care and vigor allows us to be agile without sacrificing reliability and accountability. Perhaps the mechanism is a combination of email and chat room, both of which are recorded in the need.
 
+### creating a new need
+
+The minimum requirement for a new need is title and stakeholder. I personally prefer to add new needs directly into the dependency graph. Why? For one, this eliminates the high friction of filling out an unfamiliar and potentially lengthy form.
+
+The rest can be filled in or updated at any time in a form or a separate view. The stakeholder is usually the person creating the need, so that is the default and can be changed at any time.
+
 ### database
 
 Four tables (and their schemas) come to mind:
 
-- needs (id, description, conditions of satisfaction, date created, stakeholder, fulfillment team, rough delivery date, subordinate needs)
+- needs (id, description, conditions of satisfaction, date created, stakeholder, fulfillment team, rough delivery date, subordinate need ids, tag ids)
 - users (id, name, email, phone number, rating/reliability/accountability)
-- reports (id, description, type, reporter, date, duration)
+- reports (id, need id, description, type, reporter id, date, duration)
 - tags (id, description, title)    
 
 ### examples
@@ -84,16 +90,16 @@ Some (obvious?) first needs:
 
 At minimum, six views will give us a lot, perhaps delivered in the following order:
 
-- create a new need
-- dependency graph / outline
-- search (filter) and view existing needs
-- chat room for stakeholder and fulfillment team
-- state of play (synopsis) board
-- road map (time graph)
+1. chat room for stakeholder and fulfillment team
+2. create a new need (a plus button above the list of needs)
+3. dependency graph / outline
+4. search (filter) and view existing needs
+5. state of play (synopsis) board
+6. road map (time graph)
 
-### current meta work
+As for item 1 ... Autogenerate needs on the fly during chat. We could incorporate a way to add needs from a chat. (:need: as a keyword to auto create a new need with a title and stakeholder) into a holding area from which they can be cherry picked
 
-Catalist team is working on implementing a needs tracker. 
+As for item 2 ... The minimum requirement for a new need is title and stakeholder. I personally prefer to add new needs directly into the dependency graph. Why? For one, this eliminates the high friction of filling out an unfamiliar and potentially lengthy form. The rest can be filled in or updated at any time in a form or a separate view. The stakeholder is usually the person creating the need, so that is the default and can be changed at any time.
 
 ### needs clearinghouse
 
@@ -104,4 +110,25 @@ All of us working together to operationalize the [[Meta Project]] are gradually 
 - [Nolt](https://nolt.io/) 
 	- i hate the name. minimum $25 / month. it deals with dependencies very poorly and consequently no hierarchy graph. i cannot recommend it
 	- <a data-nolt="button" href="https://meta-project.nolt.io">Click here to try a Meta Project Nolt entry form</a><script async src="https://cdn.nolt.io/widgets.js"></script>
+
+### current meta work
+
+Catalist team is working on implementing a needs tracker. During our conversation (Vincent Arena and Jonathan Sand), we worked out some visual details and discussed the following:
+
+- schema review
+- ways to add a new need:
+    - plus button with a form
+    - plus button inside or next to a need to add a "sub need"
+    - someone posts in chat, then this need is later approved
+    - plus button at bottom of form (similar to airtable's interface)
+- how to we mark a need as "in holding area"
+    - checkbox (boolean yes/no)
+    - Status defaults to "Draft/Holding/Proposed"
+- source (chat, mattermost, manual entry)
+    - can be used to filter
+    - can also be used to go back to the source
+- sort order
+    - handle later
+    - or do wierd shit like [group\\sort, group2\\sort2]
+    - or copy and paste the need (if it's being fufilled by a different team)
 
