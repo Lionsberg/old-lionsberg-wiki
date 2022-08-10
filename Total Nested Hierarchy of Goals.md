@@ -1,11 +1,11 @@
 # Total Nested Hierarchy of Goals
-The [[Lionsberg System]] is rooted in the concept that there is [[One]] overarching and uniting [[Meta Goal]]. 
+The [[Lionsberg System]] is rooted in the concept that there is One highest overarching and uniting Goal. We call this the [[Meta Goal]]. 
 
 The [[Meta Goal]] by definition contains within itself and orders a [[Total Nested Hierarchy of Goals]]. 
 
 In other words, in order for us to experience _the total integrated wellbeing, development, and right relationship of all generations of Life and Consciousness_... an entire set of sub-goals has to be accomplished. 
 
-While this is intentionally left abstract and not concretized, a close approximation can be found in articulations like the United Nations Sustainable Development Goals that were ratified by 193 member nations. 
+While this is intentionally left abstract and not concretized, a close approximation can be found in articulations like the United Nations Sustainable Development Goals that were ratified by 193 member nations, and represent broad human consensus. 
 
 They include articulations like: 
 
@@ -30,11 +30,11 @@ They include articulations like:
 We could add to these Goals a few more obvious ones precluded by political process, such as: 
 18. Elimination of Corruption, Injustice, and Oppression   
 19. Accountability and Transparency  
-20. Elimination of Toxins / Pollution  of Air, Water, and Land  
+20. Elimination of Toxins and Pollution  of Air, Water, and Land  
 
 At the highest levels of abstraction, we know that anyone who Loved a child would want for them to be free from poverty, hunger, violence, injustice, inequality, sickness, want, ignorance, thirst, filth, darkness, disempowerment, meaningless or demeaning work, unsustainability, irresponsible consumption and production, a denegrating Living System, degenerating Life in water or on land, violence, injustice, weak / corrupt institutions, and a lack of co-operation. 
 
-All these Goals are contained within, implied by, and ordered by a single highest overarching and uniting [[Meta Goal]], which is simply what any heart of Love would desire. For all Life and Consciousness to develop into the fullness of its [[Potential]] and Flourish in Harmony. 
+All these Goals are contained within, implied by, and ordered by a single highest overarching and uniting [[Meta Goal]], which is simply what any heart of Love would desire: for all Life and Consciousness to develop into the fullness of its [[Potential]] and Flourish in Harmony. 
 
 The Total Nested Hierarchy of Goals arises largely in responses to the [[Total Nested Hierarchy of Issues]] and problems inherent in any Community of Life. 
 
