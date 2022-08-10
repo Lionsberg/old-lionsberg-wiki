@@ -1,7 +1,7 @@
 # Game Design
 I wonder if we could begin to discuss design principles, rough architecture, intentions. Here are several proposals. Does anyone have a proposal?
 
-- [Civilization 2.0 the Game](http://www.game.civilization2.org)  
+- [[Civilization 2.0]]  
 - [[Game Proposal from Bill and Jonathan]] early rough draft
 - [Sense Craft](https://sensecraft.garden/files/sensecraft-storyboard.pdf)  
 - [Terran Collective](http://terran.io)  
@@ -12,12 +12,12 @@ This page can become an invitation to all people who want to build something and
 ## Must-Have Attributes
 As a guide to our design, I propose that the following be built-in at the core of our game, and apparent at every level. Challenges, additions, likes, welcome. 
 
-- [[Game Design#Fun]]  
-- [[#Meaningful]]  
-- [[#Useful Skills]]  
-- [[#Relationships]]  
-- [[#Collaboration]]  
-- [[#Real World Problems]]
+- Fun
+- Meaningful
+- Useful Skills
+- Relationships
+- Collaboration
+- Real World Problems
 
 ### Fun
 Scientific experiments have concluded that people of all ages are more productive when what they are doing is fun.

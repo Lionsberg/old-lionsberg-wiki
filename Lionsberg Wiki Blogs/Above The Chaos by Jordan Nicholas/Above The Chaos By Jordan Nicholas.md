@@ -8,8 +8,12 @@ Hello world. This is a creative stream from [[Jordan Nicholas Sukut]], Founder /
 - [[Above The Chaos, Hello World]]
 - [[Above The Chaos, Cycle 2 Update]]
 
-## July 2022
 
+
+## August 2022
+- [[Above The Chaos, Another Quick Orientation]]  
+
+## July 2022
 - [[Above the Chaos, Hello Capital]]  
 - [[Above the Chaos, Learning and Education]]  
 - [[Above The Chaos, Reciprocal Opening]]  
