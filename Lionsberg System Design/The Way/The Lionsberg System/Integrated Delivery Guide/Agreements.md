@@ -7,13 +7,14 @@ In order for our [[Agreements]] to properly stack up and align, they must start 
 
 These agreements are all elements of one overarching and uniting [[Meta Agreement]], which contains and orders within itself the [[Total Nested Hierarchy of Agreements]]. 
 
-## The [[Meta Agreement]]  / Agreements With [[One]]  
+## The [[Meta Agreement]]  / Agreement With [[One]] and [[All]]  
 
-## Agreements With [[Self]]  
+
+## Agreement With [[Self]]  
 
 ## Agreements With [[Direct Relationship|Direct Relationships]] 
 
-## Agreement.  With [[Indirect Relationship|Indirect Relationships]] / [[All]]  
+## Agreement With [[Indirect Relationship|Indirect Relationships]] / [[All]]  
 
 ## Transactional Agreements  
 

@@ -11,4 +11,5 @@ I do not know what the right answer is, but here is my hypothesis:
 2. In order for that to occur, we are going to have to [[Transform Our Paradigm]] FROM educating children TO helping people learn. 
 3. Helping people learn should be a lifelong [[Process]].
 4. This lifelong process should be rooted in the development and transformation of the whole being - spiritually, intellectually, and physically. 
-5. The [[Purpose]] of this lifelong development of the whole being is to help each individual discover and realize their unique potential. 
+5. The [[Purpose]] of this lifelong development of the Whole being is to help each individual discover and realize their unique potential while helping All others realize theirs. 
+

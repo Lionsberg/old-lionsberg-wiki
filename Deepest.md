@@ -9,3 +9,6 @@ In other philosophical language, the [[Deepest Thing]] would be pointed to with 
 
 In the [[Lionsberg]] system, It is simply refered to as [[One]], in contrast to [[All]]. 
 
+In this sense, Deepest is philosophically equivalent to Highest. 
+
+The Deepest and Highest things are [[One]]. 

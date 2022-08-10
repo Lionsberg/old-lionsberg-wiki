@@ -156,7 +156,7 @@ ____
 ___
 - Joy, Peace, Patience, Kindness, Goodness, Faithfulness, Gentleness, Humility, Self-Control, Non-Harm.  
 ___
-- Agency, Autonomy, Competence, Conscientiousness, Respect, Dignity, Happiness, Creativity, Freedom, Curiosity, Adventure, Understanding, Beauty, Enjoyment, Freedom from Fear, Honesty, Forgiveness, Loyalty, Responsibility, Fellowship, Friendship, Tradition, Moderation, Cleanliness, Security, Reciprocity, Wellbeing, Belonging, Spirituality, Purpose, Meaning, Compassion, Regeneration, Recreation, Independence, Community, Service, Hope, Perseverance, Gratitude, Generosity, Courage, 
+- Agency, Autonomy, Competence, Conscientiousness, Respect, Dignity, Happiness, Creativity, Freedom, Curiosity, Adventure, Understanding, Beauty, Enjoyment, Freedom from Fear, Honesty, Forgiveness, Loyalty, Responsibility, Fellowship, Friendship, Tradition, Moderation, Cleanliness, Security, Reciprocity, Wellbeing, Belonging, Spirituality, Purpose, Meaning, Compassion, Regeneration, Recreation, Independence, Community, Service, Hope, Perseverance, Gratitude, Generosity, Courage. 
 ___
 #### On Power and Resources
 Various lists of universal values also often contain references to leadership, power, and resources. 
