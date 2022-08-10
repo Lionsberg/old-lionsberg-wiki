@@ -67,10 +67,34 @@ Enjoy! Be encouraged, and be inspired!
 [[2.9 How Values Shape Perception]]  
 [[2.10 Making Our Subconscious Story Conscious]]  
 
-### Chapter Three - The Quest to Navigate
-[[Chapter Three - Coming Soon]]  
+### Chapter Three - The Meta Quest 
+[[3.1 The Meta Quest]]  
+[[3.2 The Meta Goal]]  
+[[3.3 Progress In The Meta Quest]]  
+[[3.4 Supercharging Progress]]  
+[[3.5 The Universal Movement]]  
+[[3.6 The Universal Invitation]]  
+[[3.7 The Universal Intention and Goal]]  
+[[3.8 Intention Into Reality]]  
+[[3.9 The Ideal]]  
+[[3.10 Aiming High]]  
+[[3.11 Rising Towards The Goal]]  
+[[3.12 All Things Helping One Another Rise]]  
+[[3.13 Spiraling Up or Down]]  
+[[3.14 Love]]  
+[[3.15 Highest Level Concept to Lowest Level Detail]]  
+[[3.16 The Quality of the New World]]  
+[[3.17 The Universal Law and Logic of Love]]  
+[[3.18 Powerful Love]]  
+[[3.19 Fierce Love]]  
+[[3.20 The One We Love]]  
+[[3.21 The One We Love Is Suffering]]  
+[[3.22 Moving Heaven And Earth]]  
+[[3.23 The Logical End Of Love Is The Goal]]  
+[[3.24 Complacency]]  
+[[3.25 The Girl and The Bee]]  
 
-### Chapter Four - The Meta Quest
+### Chapter Four - The Quest To Navigate
 [[Chapter Four - Coming Soon]]  
 
 ### Chapter Five - The Quest For Purpose and Meaning
