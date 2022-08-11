@@ -3,7 +3,7 @@ I wonder if we could begin to discuss design principles, rough architecture, int
 
 - [[Civilization 2.0]]  
 - [[Game Proposal from Bill and Jonathan]] early rough draft
-- [Sense Craft](https://sensecraft.garden/files/sensecraft-storyboard.pdf)  
+- [Sense Craft](https://sensecraft.garden/)  
 - [Terran Collective](http://terran.io)  
 - [Stacey's let's have fun together](https://chat.collectivesensecommons.org/agora/channels/sss-project)  
 

@@ -113,7 +113,7 @@ All of us working together to operationalize the [[Meta Project]] are gradually 
 
 ### current meta work
 
-Catalist team is working on implementing a needs tracker. During our conversation (Vincent Arena and Jonathan Sand), we worked out some visual details and discussed the following:
+Catalist team is working on implementing a needs tracker. During our conversation (Vincent Arena and Jonathan Sand on 2022-08-09), we worked out some visual details and discussed the following:
 
 - schema review
 - ways to add a new need:
