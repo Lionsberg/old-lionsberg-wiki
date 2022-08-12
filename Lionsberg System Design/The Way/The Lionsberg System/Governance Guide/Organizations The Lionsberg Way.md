@@ -11,7 +11,7 @@ Organizations emerge to help groups of people accomplish what individuals cannot
 Like an individual or other living being, once established organizations can move towards goals, learn, grow, sense, think, and die. 
 
 ## Mechanisms of Organization
-1. An organization has a [[Purpose]], [[Principles]], [[Values]], and [[Goals]]. 
+1. An organization has a [[Purpose]], [[Principles]], [[Values]], and [[Goal|Goals]]. 
 2. An organization should establish a basic system of [[Governance]] to steer itself towards its goals, solve problems, and make decisions. This can be formal or informal. 
 3. An organization should define its [[Organizational Boundary]]. Organizations define their boundaries by creating rules of [[Participation]]. 
 4. An organization should define its [[Rules of Participation]]. These can be formal or informal. 
@@ -53,14 +53,14 @@ Three can break a tie vote. A third perspective adds depth.
 ### Establish Purpose, Principles, and Goals
 1. Establish the [[Purpose]] of the organization.
 2. Establish the [[Principles]] and [[Values]] of the organization. 
-3. Establish the [[Goals]] of the organization. 
+3. Establish the [[Goal|Goals]] of the organization. 
 
 ### Establish Rules of Participation
 Establish how people will participate in the Organization, and how the Organization will participate with other Organizations. 
 
 ### Align Goals with the Goals of One or More Federations
 We would highly recommend that: 
-1. Each [[Individual]] align their [[Goals]] with the [[Goals]] of one or more [[Group|Groups]] or [[Organization|Organizations]]  
+1. Each [[Individual]] align their [[Goal|Goals]] with the [[Goal|Goals]] of one or more [[Group|Groups]] or [[Organization|Organizations]]  
 2. Each Group and Organization align its Goals with the Goals of one or more Federation.  
 3. All Federations align their Goals with the [[Meta Goal]] of the [[Meta Federation]].  
 
@@ -71,7 +71,7 @@ Bootstrapping up an organization is hard. It does not happen once, but rather th
 
 It is an emergent process, in that what the organization wants to do and is capable of doing is largely shaped by its participants, and the interest and willingness of the members to participate is largely shaped by what the organization wants to do, and how it wants to do it. 
 
-This is a constant negotiation and renegotiation between confirmed participants and potential participants, as they work together to continually rebalance the equation to everyone's satisfaction, in a way that accomplishes the [[Purpose]] and [[Goals]] of the organization. 
+This is a constant negotiation and renegotiation between confirmed participants and potential participants, as they work together to continually rebalance the equation to everyone's satisfaction, in a way that accomplishes the [[Purpose]] and [[Goal|Goals]] of the organization. 
 
 ### Progressive Formalization 
 Just like any emergent life form, in the beginning nascent organizational life is very supple and malleable. 
