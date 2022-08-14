@@ -3,7 +3,7 @@ During our early phase, we are putting most of our effort into creating groups t
 
 1. List of [[Grand Challenges]]  
 2. [[Map Weavers Group|Mapping people and projects]]  
-3. List of infrastructural [[Needs Guild|needs]]  
+3. List of infrastructural [[Needs Tracker|needs]]  
 4. [[Badges]] of ability to contribute  
 5. [[Metrics of Progress and Contribution]]  
 6. Coordination of [[Funding Group|funds]]  
