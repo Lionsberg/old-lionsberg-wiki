@@ -19,10 +19,16 @@ To harmonize ourselves with One Another, the Living System, and the One Thing th
 
 At various levels of detail and abstraction, these can be described with words like: 
 
-- The [[Meta Value]] / One / Love  
+### One Word
+
+- [[One]] / [[Love]] - The [[Meta Value]]   
+
+All other Values and elements of the [[Universal Law]] can be derived from One word. 
 ____
+### Five Words 
 - Truth, Love, Justice, Stewardship, and Wisdom. 
 ___
+### Ten More Words 
 - Joy, Peace, Patience, Kindness, Goodness, Faithfulness, Gentleness, Humility, Self-Control, Non-Harm.  
 ___
 - Agency, Autonomy, Competence, Conscientiousness, Respect for [[One]] and [[All]], Dignity, Happiness, Creativity, Freedom, Curiosity, Adventure, Understanding, Beauty, Enjoyment, Freedom from Fear, Honesty, Forgiveness, Loyalty, Responsibility, Fellowship, Friendship, Tradition, Moderation, Cleanliness, Security, Reciprocity, Wellbeing, Belonging, Spirituality, Purpose, Meaning, Compassion, Regeneration, Recreation, Independence, Community, Service, Hope, Perseverance, Gratitude, Generosity, Courage. 
