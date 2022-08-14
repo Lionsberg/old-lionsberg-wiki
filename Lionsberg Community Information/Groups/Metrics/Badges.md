@@ -4,3 +4,4 @@ As our membership scales, we might benefit from a mechanism which vetts all new 
 On the down side, this can pigeonhole people, ignoring or dismissing valuable potential contributions. How can we avoid this?
 
 [[Conversational Literacy]]  
+[[Conflict Resolution]]  
