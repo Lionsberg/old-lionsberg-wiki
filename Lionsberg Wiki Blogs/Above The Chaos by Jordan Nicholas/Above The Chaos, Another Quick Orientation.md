@@ -64,4 +64,4 @@ In parallel with covening the large scale solutions and capital, we are working 
 
 **Transparency and Public Accountability**
 
-By initiating this phase through a 501(c)(3) public charity, this approach brings the joint activities above under immediate transparency and public accountability requirements. 
+By initiating this phase through a 501(c)(3) public charity, with an array of fiscally sponsored projects, this approach brings the joint activities above under immediate transparency and public accountability requirements, while affording the opportunity to construct the shared services and infrastructure required to empower a growing movement. 

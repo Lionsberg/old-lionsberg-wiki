@@ -4,13 +4,19 @@ There is no Way around it. The root cause of all the unnecessary corruption, suf
 
 The only Way to transform suffering, and accomplish our uniting [[Meta Goal]], is to transform our [[Way of Being]]. 
 
-When our Way of Being is spiraling us down towards failure, it is wise to transform our Way, and therefore our trajectory, and therefore our [[Destiny]]. It is the Way we attain a future that is as close to heaven as possible, and avoid a future that is something like hell. 
+When our Way of Being is spiraling us down towards failure, it is wise to transform our Way. 
+
+When we transform our [[Way]], we transform our [[Trajectory]]. 
+
+We we transform our [[Trajectory]], we transform our [[Destiny]]. 
+
+It is the [[Way]] we attain a future that is as close to heaven as possible, and avoid a future that is something like hell. 
 
 The good news is that in partnership with [[One]] and [[One Another]], we can change our Way. 
 
 This page is a [[Work In Progress]] meant to progressively grow out into a comprehensive New [[Way of Being]] that, if [[Operationalize|Operationalized]], can _cause_ us to progressively rise towards the fullness of our [[Potential]] and flourish in harmony with [[One]] and [[All]]. 
 
-This can be done by integrating and aligning our Selves, our families, our teams, our groups, our organizations, our communities, and the total community of communities in a Way that creates [[Throughput]] of our overarching and uniting Goals and Values. 
+This can be done by integrating and aligning our Selves, our families, our teams, our groups, our organizations, our communities, and the total community of communities in a [[Way]] that creates [[Throughput]] of our overarching and uniting Goals and [[Values]]. 
 
 Our [[Way of Being]] must comprehensively grapple with and address all elements of life and society, at every fractal level without exception. 
 
