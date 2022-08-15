@@ -1,4 +1,4 @@
-# Needs Guild
+# Needs Tracker
 ### why needs?
 
 Most of us do not know what need is driving our emotions. This makes it all too easy for us to react to our emotional state with strategies that don't fulfill our needs. The need remains unfilled, the emotions remain, mysterious, haunting, implacable.
@@ -13,7 +13,7 @@ Throughout the lifetime of building anything, needs arise and are fulfilled. A n
 
 ### owner
 
-A need has two owners: the spokesperson and the fulfillment team. Anyone or any team can select a need, promising to fulfill it. A need can be worked on in a variety of ways. It can be assessed for (and committed according to) time and broken down into sub-needs, resources, and milestones. Progress, designs, decisions, and other activities can be reported within a need. Each of these will be date stamped, including duration.  
+A need has two owners: the **spokesperson** and the **fulfillment team**. Anyone or any team can select a need, promising to fulfill it. A need can be worked on in a variety of ways. It can be assessed for (and committed according to) time and broken down into sub-needs, resources, and milestones. Progress, designs, decisions, and other activities can be reported within a need. Each of these will be date stamped, including duration.  
 
 ### tasks
 
@@ -105,30 +105,13 @@ As for item 2 ... The minimum requirement for a new need is title and stakeholde
 
 All of us working together to operationalize the [[Meta Project]] are gradually meeting people and learning from them, collaborating with them. Some of us, however have ideas that have stalled for lack of something (guidance, funding, knowledge, skill). For such folks, would it make sense to provide a repository of personal needs?
 
+The synopsis board can present has been recently accomplished across all the actively pursued needs?
+
 ### possible existing tools
 
 - [Nolt](https://nolt.io/) 
-	- i hate the name. minimum $25 / month. it deals with dependencies very poorly and consequently no hierarchy graph. i cannot recommend it
+	- I hate the name. minimum $25 / month. It deals with dependencies very poorly and consequently no hierarchy graph. I cannot recommend it!
 	- <a data-nolt="button" href="https://meta-project.nolt.io">Click here to try a Meta Project Nolt entry form</a><script async src="https://cdn.nolt.io/widgets.js"></script>
 
-### current meta work
-
-Catalist team is working on implementing a needs tracker. During our conversation (Vincent Arena and Jonathan Sand on 2022-08-09), we worked out some visual details and discussed the following:
-
-- schema review
-- ways to add a new need:
-    - plus button with a form
-    - plus button inside or next to a need to add a "sub need"
-    - someone posts in chat, then this need is later approved
-    - plus button at bottom of form (similar to airtable's interface)
-- how to we mark a need as "in holding area"
-    - checkbox (boolean yes/no)
-    - Status defaults to "Draft/Holding/Proposed"
-- source (chat, mattermost, manual entry)
-    - can be used to filter
-    - can also be used to go back to the source
-- sort order
-    - handle later
-    - or do wierd shit like [group\\sort, group2\\sort2]
-    - or copy and paste the need (if it's being fufilled by a different team)
+[[Current meta work on needs]]  
 
